@@ -1,0 +1,451 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #B3D2EE;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode {
+    font-family: 'Montserrat';
+    background-color: #252525;
+    color: white; 
+  }
+
+
+a{
+    text-decoration:none;
+}
+
+
+
+
+
+/*   HEAD   */
+@media only screen and (min-width: 0px) {
+    .logo {
+        width: 10vw;
+        height: 10vw;
+        max-width: 50px;
+        max-height: 50px;
+        transform: scaleX(-1);
+    }
+    .hero {
+        padding-top: 1vw;
+    padding-bottom: 1vw;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    position: relative;
+    border-bottom: 1px solid rgba(148, 148, 148, 0.07);
+    }
+    .logo_text{
+        display: none;
+    }
+
+
+        
+    .carousel-container {
+        width: 70vw; /* Ancho deseado del carrusel */
+        overflow: hidden;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .carousel {
+        display: flex;
+        transition: transform 0.5s ease;
+    }
+
+    .carousel img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+        
+    .body{
+        background-color: #f0f0f0;
+    }    
+
+    .dark-mode .body{
+        background-color: #606060;
+    } 
+
+    .text {
+        font-size: 1.1rem;
+        margin: 1.4rem 0 1.5rem;
+        justify-content: space-between;
+      }
+
+      .text_container {
+        margin-bottom: 20px; /* Ajusta el valor según el espacio que desees */
+    }
+
+    .top_stick{
+        position: sticky;
+        top: 0px;
+        z-index: 100;
+        background-color: white;
+        transform: scale(1.01);
+        align-items: center;
+    }
+    
+    .dark-mode .top_stick {
+        background-color: #252525; 
+        color: white; 
+        align-items: center;
+      }
+
+    #head{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        position: relative;
+        z-index: 9999;
+        border-bottom: 1px solid rgba(148, 148, 148, 0.07);
+    }
+
+    .dark-mode #head {
+        color: white;
+    }
+    
+    .headSelector {
+        display: flex;
+        text-align: center;
+        gap: 1.5vw;
+        color: white;
+        
+    }
+
+    #sidebar{
+        position: fixed;
+        background-color: #B3D2EE;
+        right: -100%;
+        top: 0;
+        width: 50vw;
+        height: 100%;
+        z-index: 1000;
+        box-shadow: -10px 0px 10px 1px #acacac;
+       
+    }
+
+    .dark-mode #sidebar {
+        position: fixed;
+        background-color: #61778a;
+        right: -100%;
+        top: 0;
+        width: 50vw;
+        height: 100%;
+        z-index: 1000;
+        box-shadow: -10px 0px 10px 1px #919191;
+       
+    }
+
+    #sidebar.active{
+        
+        right: 0;
+        transition: 0.2s;
+        
+    }
+
+    #sidebar.close{
+        
+        right: -100%;
+        transition: 0.2s;
+        display: none;
+    }
+    .sidebar_text{
+        color: black;
+        gap: 5vw;
+        padding-left: 5vw;
+        cursor: pointer;
+        font-size: large;
+
+    }
+
+    .dark-mode .sidebar_text{
+        color: white;
+        gap: 5vw;
+
+        padding-left: 5vw;
+        cursor: pointer;
+        font-size: large;
+
+    }
+
+    .sidebar_text:hover{
+        transform: scale(1.05);
+        transition: .5s ;
+    }
+
+    .sidebar_text_box{
+        padding-top: 10vw;
+        display: flex;
+        flex-direction: column;
+        gap: 5vw;
+    }
+  
+    .close_menu{
+        position: absolute;
+        margin: 4vw;
+        cursor: pointer;
+    }
+    .close_menu:hover{
+        transform: scale(1.05);
+        color: #FAFAFA;
+        transition: .2s ;
+    }
+
+    
+    .headSelector_text {
+        background-color: transparent;
+        border: none;
+        display: none;
+    }
+
+    .dark-mode .headSelector_text {
+        color: white;
+    }
+    
+    .headSelector_text:hover {
+        transform: scale(1.05);
+        transition: .2s ;
+    }
+
+    .bolded{
+        font: bold;
+        
+    }
+    
+    .icons{
+        width: 30px;  
+        height: auto; 
+        
+    }
+
+    .dark-mode .icons { 
+        filter: invert(100%);
+    }
+    
+    .homeButton{
+        font-weight: bold;
+        text-decoration: none ;
+        cursor: pointer;
+        color: black;
+        font: bold;
+        font-size: large;
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+    
+    .header_icons {
+        display: inline;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        
+    }
+
+    
+
+    .header_icons:hover {
+        
+        transform: scale(1.05);
+        color: #413543;
+        transition: .2s ; 
+        
+        
+    }
+    
+    .social_network_name{
+        display: none;
+        
+    }
+    
+
+
+    .social_network{
+        align-items: center;
+    }
+
+    .social_networks{
+        display: flex;
+        gap: 5vw;
+        justify-content: center;
+        
+    }
+
+    .social_network_logo{
+        width: 4vw;
+        min-width: 10px;
+        min-height: 10px;
+    }
+    
+    .dark-mode .social_network_logo{
+        width: 4vw;
+        max-width: 30px;
+        max-height: 30px;
+        filter: invert(100%);
+    }
+
+
+    /*   FOOTER   */
+
+    .copyright{
+        color: gray;
+        font: xx-small;
+    }
+
+    .footer_box{
+        max-width: 1000px;
+        text-align: center;
+        justify-content: center;
+        border-radius: 10px;
+        border-top: 1px solid rgba(128, 128, 128, 0.07);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .social_network_hyperlink:link{
+        text-decoration: none;
+    }
+
+    .social_network{
+
+        display: flex;
+        gap: 1vw;
+        text-align: center;
+        justify-content: center;
+        color: black;
+    }
+
+    .social_network:hover{
+        transform: scale(1.1);
+        transition: 0.7s ;
+    }
+
+    .moon{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    
+
+    .moon:hover{
+        transform: scale(1.1);
+        transition: .2s ;
+        cursor: pointer;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .logo {
+        width: 50px;
+        height: 50px;
+        transform: scaleX(-1);
+    }
+    
+    .hero {
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+        position: relative;
+        border-bottom: 1px solid rgba(148, 148, 148, 0.07);
+    }
+
+    .hero > div {
+        margin: 0 20px; /* Aumenta este valor para aumentar la distancia entre los elementos */
+    }
+
+    .carousel-container {
+        width: 40vw; /* Ancho deseado del carrusel */
+        overflow: hidden;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    button {
+        border: none;
+        cursor: pointer;
+        outline: none;
+        background-color: transparent;
+        font-size: medium;
+        color: black;
+        display: inline;
+    }
+
+    .headSelector_text {
+        
+        display: inline;
+    }
+    
+    .icons{
+        width: 20px;  
+        height: auto; 
+    }
+
+    .logo_text{
+        display: inline;
+    }
+
+    .dark-mode .logo_text{
+        color: white;
+    }
+    
+    .header_icons {
+        
+        display: none;
+        
+    }
+    .social_network_name{
+        display: inline;
+        align-items: center;
+        color: black;
+    }
+
+    .dark-mode .social_network_name{
+        display: inline;
+        align-items: center;
+        color: white;
+        
+    }
+
+    .social_networks{
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+        
+    }
+
+    .social_network_logo{
+        width: 30px;
+    }
+    
+    .sidebar{
+       display: none;
+    }
+
+   
+}
+

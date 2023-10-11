@@ -1,0 +1,99 @@
+.awards{
+    text-align: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.awards_title{
+    font-size: xx-large;
+    text-decoration: underline;
+    
+}
+
+.awards_about_title{
+    font-size: x-large;
+}
+
+.awards_about_p{
+    margin-right: 10vw;
+    margin-left: 10vw;
+}
+
+.upload_box_button{
+    border: none;
+    cursor: pointer;
+
+}
+.upload_box_submit{
+  font: bolder;
+  border-radius: 15%;
+  cursor: pointer;
+  
+}
+
+.upload_box_selector{
+  font: bolder;
+  cursor: pointer;
+  
+}
+
+input{
+    background: transparent;
+    cursor: pointer;
+    font: bolder;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #e2b032;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font: bold;
+    font-size: xx-large
+  }
+
+.images_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vw;
+}

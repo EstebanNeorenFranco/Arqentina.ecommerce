@@ -1,0 +1,20 @@
+[
+    {
+      "imageSrc": "/assets/images/IMG-20231010-WA0012.jpg",
+      "provincia": "Casita de Tucuman",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, aliquid iusto harum ratione atque earum labore unde dolore recusandae blanditiis iure minima eum nulla quam libero architecto laborum. Perferendis, laborum."
+    }
+    ,
+    {
+        "imageSrc": "/assets/images/IMG-20231010-WA0012.jpg",
+        "provincia": "salta",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, aliquid iusto harum ratione atque earum labore unde dolore recusandae blanditiis iure minima eum nulla quam libero architecto laborum. Perferendis, laborum."
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/IMG-20231010-WA0012.jpg",
+      "provincia": "Formosa",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, aliquid iusto harum ratione atque earum labore unde dolore recusandae blanditiis iure minima eum nulla quam libero architecto laborum. Perferendis, laborum."
+    }
+  ]
+  

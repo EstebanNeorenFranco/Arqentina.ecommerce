@@ -1,0 +1,105 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #B3D2EE;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode {
+    font-family: 'Montserrat';
+    background-color: #252525;
+    color: white; 
+  }
+
+
+a{
+    text-decoration:none;
+}
+
+@media only screen and (min-width: 1px){
+
+.galery_container{
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+.box_shadow{
+    box-shadow: rgba(237, 237, 237, 0.2) 0px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    cursor: pointer;
+}
+
+
+
+.dark-mode .box_shadow{
+    box-shadow: rgba(29, 29, 29, 0.2) 0px 8px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    cursor: pointer;
+    background-color: #606060;
+}
+
+
+.box_shadow:hover{
+    transform: scale(1.01); 
+}
+
+
+
+.galery_image{
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    height: 25vw;
+    width: 25vw;
+    overflow: hidden; 
+    margin-left: 20px;
+    border-radius: 2px;  
+}
+
+.galery_image:hover{
+    transform: scale(1.02); 
+}
+
+
+.box_description{
+    padding-left: 15px;
+}
+
+
+.provincia {
+    font-weight: bold;
+    padding-left: 15px;
+    text-align: left; /* También puedes eliminar "justify-content" aquí ya que no se aplica a elementos no flexibles */
+}
+
+.page_selector{
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+@media only screen and (min-width: 1000px){
+    .galery_image{
+        height: 200px;
+        width: 200px;
+        border-radius: 5px;  
+        overflow: hidden; 
+    }
+   
+}

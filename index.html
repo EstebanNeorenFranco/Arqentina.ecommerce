@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Museum</title>
+</head>
+<meta name="description" content="Experience the beauty of AI art at our digital gallery. Discover stunning computer-generated masterpieces that push the boundaries of imagination. Visit now to witness the power of technology in art. Explore our unique collection of AI art today.">
+<link rel="stylesheet" href="/index.css"/>
+<link rel="stylesheet" href="/hero.css"/>
+<link rel="icon" href="/assets/homepage_images/logo.ico"/>
+<link rel="stylesheet" href="/pages/about.css"/>
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+
+
+<body>
+    <header class="top_stick">
+        <div id="head" >
+            <a href="/" class="homeButton">
+                <img class="logo" src="/assets/homepage_images/logo.png" >
+                <h1 class="logo_text">Arqentina.gu</h1>
+            </a>
+            <div class="headSelector">
+                <a  href="/galery.html">
+                    <button class="headSelector_text" >Galery</button>
+                </a>
+                <a  href="/shop.html" >
+                    <button class="headSelector_text">Shop</button>
+                </a>
+                <a  href="/cafesito.html" >
+                    <button class="headSelector_text">Cafesito</button>
+                </a>
+                <a  href="/tiendas_amigas.html" >
+                    <button class="headSelector_text">Tiendas Amigas</button>
+                </a>
+                <a  href="/contacto.html" >
+                    <button class="headSelector_text"><b>Contacto</b></button>
+                </a>
+                <button class="moon">
+                    <img class="icons" src="/assets/icons/moon.png">
+                </button>    
+                <div >
+                    <button class="header_icons">
+                        <span>
+                            <img class="icons" src="/assets/icons/menu.png">
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <sidebar id="sidebar">
+        <div class="sidebar_box">
+            <div class="close_menu">
+                <img class="icons" src="/assets/icons/close.png">
+            </div>
+            
+            <div class="sidebar_text_box">
+                <a class="sidebar_text" href="/galery.html">
+                    <p>
+                        Galery
+                    </p> 
+                </a>
+                <a class="sidebar_text" href="/shop.html">
+                    <p>
+                        Shop
+                    </p>
+                </a>
+                <a class="sidebar_text" href="/awards.html">
+                    <p>
+                        Cafesito ☕
+                    </p>
+                </a>
+                <a class="sidebar_text" href="/awards.html">
+                    <p>
+                        Tiendas amigas
+                    </p>
+                </a>
+                <a class="sidebar_text" href="/awards.html">
+                    <p><b>
+                        Contacto
+                    </b></p>
+                </a>
+            </div>
+            
+            
+        </div>
+    </sidebar>
+    
+    
+    <div class="body">
+        <div class="hero">
+            <div class="text_container">
+                <h1><b>Hola!</b></h1>
+                <p class="text">
+                    Mi nombre es <b>Guada</b> y en <b>Arqentina.gu</b> ilustro edificios argentinos.
+                </p>
+                <p class="text">
+                    Te invito a conocer a través de mis ojos lo hermosa que es nuestra arquitectura argentina, y ¿por qué no? llevarla con vos a todos lados!
+                </p>
+                <p class="text">
+                    Espero que te guste mi trabajo!
+                </p>
+            </div>
+            <div class="carousel-container">
+                <div class="carousel">
+                    <img src="/assets/images/IMG-20231010-WA0012.jpg" alt="Imagen 1">
+                    <img src="/assets/images/IMG-20231010-WA0013.jpg" alt="Imagen 2">
+                    <img src="/assets/images/IMG-20231010-WA0014.jpg" alt="Imagen 3">
+                    <img src="/assets/images/IMG-20231010-WA0015.jpg" alt="Imagen 3">
+                </div>
+        </div>
+    </div>
+    
+        
+    </div>
+    <footer>
+        <div class="footer_box">
+            <h1 class="">Arqentina.gu</h1>
+            
+                    <h3>Seguime:</h3>
+                    <div class="social_networks">
+                        <a class="social_network_hyperlink" href="https://www.instagram.com/arqentina.gu/" target="_blank" rel="noopener noreferrer">
+                            <div class="social_network">
+                                <img class="social_network_logo" src="/assets/icons/instagram.svg">
+                                <p class="social_network_name">@arqentina.gu</p>
+                            </div>
+                        </a>
+                    </div>
+                    <p class="copyright">@2023 Arqentina.gu all right reserved</p>
+            </div>
+            
+        </div>
+    </footer>
+</body>
+</html>
+
+<script>
+    const carousel = document.querySelector(".carousel");
+    const images = document.querySelectorAll(".carousel img");
+
+    let currentIndex = 0;
+
+    function showSlide(index) {
+        carousel.style.transform = `translateX(-${index * 100}%)`;
+    }
+
+    function nextSlide() {
+        currentIndex = (currentIndex + 1) % images.length;
+        showSlide(currentIndex);
+    }
+
+    function prevSlide() {
+        currentIndex = (currentIndex - 1 + images.length) % images.length;
+        showSlide(currentIndex);
+    }
+
+    setInterval(nextSlide, 5000); // Cambia de imagen automáticamente cada 5 segundos
+</script>
+
+
+
+<script src="script.js"></script>

@@ -1,0 +1,11 @@
+<div class="box_shadow">
+            <a href="/assets/images/estatua.png">
+                <img src="/assets/images/estatua.png" alt="" class="galery_image" loading="lazy">
+            </a>
+            <div class="box_description">
+                <p class="description"><b>DALL·E</b> - A realistic image of a statue of Galileo Galilei reading a book</p>
+                <a href="/assets/images/estatua.png" download>
+                    <img src="/assets/icons/download.png" class="download_button">
+                </a>
+            </div>
+        </div>
