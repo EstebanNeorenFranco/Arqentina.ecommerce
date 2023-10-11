@@ -117,6 +117,15 @@ a{
         border-bottom: 1px solid rgba(148, 148, 148, 0.07);
     }
 
+    
+
+    .ig{
+        display: flex;
+    }
+
+    .text_ig {
+        margin-left: 1vw;
+    }
     .dark-mode #head {
         color: white;
     }
