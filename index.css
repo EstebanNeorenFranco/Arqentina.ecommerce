@@ -47,7 +47,14 @@ a{
         display: none;
     }
 
-
+    .mapa{
+        margin-top: 20px;
+        align-items: center;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+   
+    }
         
     .carousel-container {
         width: 70vw; /* Ancho deseado del carrusel */
