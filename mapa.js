@@ -2,7 +2,7 @@
 const L = window.L;
 
 // Crea un mapa en el contenedor "map" con coordenadas iniciales y zoom
-const map = L.map('map').setView([-34.6118, -58.4173], 13);
+const map = L.map('map').setView([-34.6118, -58.4173], 4 );
 
 // Agrega una capa de mapa de OpenStreetMap (puedes cambiarlo por otras capas)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
