@@ -2,7 +2,6 @@
   {
     "lat": -34.6118,
     "lng": -58.4173,
-    "markerImage": "./assets/imagen_ubi/imagen.jpg",
     "popupImage": "./assets/imagen_ubi/imagen.jpg",
     "imageName": "Nombre de la Imagen 1",
     "url": "/"
@@ -10,7 +9,6 @@
   {
     "lat": -34.6222,
     "lng": -58.4025,
-    "markerImage": "./assets/imagen_ubi/imagen.jpg",
     "popupImage": "./assets/imagen_ubi/imagen.jpg",
     "imageName": "Nombre de la Imagen 2",
     "url": "/"
@@ -18,7 +16,7 @@
   {
     "lat": -34.6331,
     "lng": -58.3904,
-    "markerImage": "./assets/imagen_ubi/imagen.jpg",
+
     "popupImage": "./assets/imagen_ubi/imagen.jpg",
     "imageName": "Nombre de la Imagen 3",
     "url": "/"
