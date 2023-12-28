@@ -1,18 +1,15 @@
-// Selecciona el contenedor de galería en el DOM
 const galleryContainer = document.querySelector('.body');
 
-// Ruta al archivo JSON con los datos de la galería
-const galleryDataUrl = 'gallery_data.json';
+// URL de la hoja de cálculo de Google Sheets
+const sheetUrl = 'https://api.sheety.co/fdae24dbce17c375bc8d1f5f001e32e9/publicacionesWeb/hoja1';
 
-// Realiza una solicitud para cargar el archivo JSON
-fetch(galleryDataUrl)
-  .then(response => response.json())
+// Utiliza la función `sheety` para obtener datos desde Google Sheets
+sheety(sheetUrl)
   .then(data => {
     // Itera a través de los datos y crea elementos para cada galería
     data.forEach(item => {
-        const galleryItem = document.createElement('div');
-        galleryItem.classList.add( 'box_shadow');
-
+      const galleryItem = document.createElement('div');
+      galleryItem.classList.add('box_shadow');
 
       const imageLink = document.createElement('a');
       imageLink.href = item.imageSrc;
