@@ -1,13 +1,17 @@
+// Asegúrate de incluir sheety.min.js en tu proyecto
+
 const galleryContainer = document.querySelector('.body');
 
-// URL de la hoja de cálculo de Google Sheets
-const sheetUrl = 'https://api.sheety.co/fdae24dbce17c375bc8d1f5f001e32e9/publicacionesWeb/hoja1';
+// URL de Sheety con el enlace a tu hoja de cálculo en Google Sheets
+const sheetyUrl = 'https://api.sheety.co/fdae24dbce17c375bc8d1f5f001e32e9/publicacionesWeb/publicaciones';
 
-// Utiliza la función `sheety` para obtener datos desde Google Sheets
-sheety(sheetUrl)
-  .then(data => {
+// Realiza una solicitud para cargar los datos desde Sheety
+sheety
+.get(sheetyUrl)
+.then(response => response.publicaciones)
+.then(publicaciones => {
     // Itera a través de los datos y crea elementos para cada galería
-    data.forEach(item => {
+    data.publicaciones.forEach(item => {
       const galleryItem = document.createElement('div');
       galleryItem.classList.add('box_shadow');
 
