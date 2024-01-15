@@ -40,30 +40,14 @@ a{
 .box_shadow{
     box-shadow: rgba(237, 237, 237, 0.2) 0px 0px 0px;
     display: flex;
-    justify-content: space-between;
+   
     align-items: center;
     border-radius: 10px;
-    max-width: 700px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
     height: auto;
     cursor: pointer;
-}
-
-
-
-.dark-mode .box_shadow{
-    box-shadow: rgba(29, 29, 29, 0.2) 0px 8px 24px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-radius: 10px;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-    cursor: pointer;
-    background-color: #606060;
 }
 
 
@@ -93,10 +77,10 @@ a{
 }
 
 
-.provincia {
+.title {
     font-weight: bold;
     padding-left: 15px;
-    text-align: left; /* También puedes eliminar "justify-content" aquí ya que no se aplica a elementos no flexibles */
+    text-align: left;
 }
 
 .page_selector{

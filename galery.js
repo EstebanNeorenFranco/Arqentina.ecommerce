@@ -57,7 +57,7 @@ function createGalleryItem(item) {
 
   const provincia = document.createElement('p');
   provincia.classList.add('provincia');
-  provincia.textContent = item.provincia;
+  provincia.textContent = item.title;
 
   const text = document.createElement('p');
   text.textContent = item.description;
