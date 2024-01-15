@@ -16,6 +16,7 @@
       "provincia": "Cabildo de Buenos Aires",
       "description": "📍 | Ciudad de Buenos Aires"
     }
+    ,
     {
       "imageSrc": "/assets/images/Casa Beban Ushuaia.jpg",
       "provincia": "Casa Beban",
@@ -57,37 +58,37 @@
       "provincia": "Centro Cívico",
       "description": "📍 | San Carlos de Bariloche, Río Negro 🏗️ | Arq. Ernesto de Estrada"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Centro Civico Bicentenario - Cordoba.jpg",
       "provincia": "Centro Cívico del Bicentenario",
       "description": "📍 | Córdoba, Córdoba 🏗️ | GGMPU, Lucio Morini"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Edificio Gomez - Mendoza.jpg",
       "provincia": "Edificio Gomez",
       "description": "📍 | Mendoza, Mendoza 🏗️ | Arq. Manuel Civit"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Edificio No Hi Ha - Buenos Aires.jpg",
       "provincia": "Edificio No Hi Ha Somnis Impossibles",
       "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Ing. Eduardo Rodríguez Ortega"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Escuela Manuel Belgrano - Cordoba.jpg",
       "provincia": "Escuela Sup. de Comercio Manuel Belgrano",
       "description": "📍 | Córdoba, Córdoba 🏗️ | Arqs: Bidinost; Chute; Gasó; Lapacó; Meyer"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Estancia Jesuitica - Jesus Maria.jpg",
       "provincia": "Estancia Jesuítica",
       "description": "📍 | Jesús María, Córdoba"
     }
-        ,
+    ,
     {
       "imageSrc": "/assets/images/Facultad Arquitectura - Mendoza.jpg",
       "provincia": "Facultad Arquitectura",
@@ -261,8 +262,7 @@
       "provincia": "Palacio de las Aguas Corrientes",
       "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Estudio Bateman"
     }
-
-,
+    ,
     {
       "imageSrc": "/assets/images/Palacio Noel - Buenos Aires.jpg",
       "provincia": "Palacio Noel",
