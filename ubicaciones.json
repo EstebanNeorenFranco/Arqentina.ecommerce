@@ -1,10 +1,10 @@
 [ 
   {
-    "lat": -34.6118,
-    "lng": -58.4173,
+    "lat": -32.9474,
+    "lng": -60.63984,
     "markerImage": "./assets/imagen_ubi/imagen.jpg",
-    "popupImage": "./assets/imagen_ubi/imagen.jpg",
-    "imageName": "Nombre de la Imagen 1",
+    "popupImage": "./assets/imagen_ubi/Banco de Londres - Rosario.jpg",
+    "imageName": "Ex Banco de Londres",
     "url": "/"
   },
   {
