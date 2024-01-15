@@ -2,19 +2,327 @@
     {
       "imageSrc": "/assets/images/Banco de Londres - Rosario.jpg",
       "provincia": "Ex Banco de Londres",
-      "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs: SEPRA (Sanchez Elia, Peralta Ramos y Agostini)"
+      "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)"
     }
     ,
     {
-        "imageSrc": "/assets/images/IMG-20231010-WA0012.jpg",
-        "provincia": "salta",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, aliquid iusto harum ratione atque earum labore unde dolore recusandae blanditiis iure minima eum nulla quam libero architecto laborum. Perferendis, laborum."
+        "imageSrc": "/assets/images/Biblioteca Nacional - Buenos Aires.jpg",
+        "provincia": "Biblioteca Nacional Mariano Moreno",
+        "description": "📍 | Ciudad de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga"
     }
     ,
     {
-      "imageSrc": "/assets/images/IMG-20231010-WA0012.jpg",
-      "provincia": "Formosa",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, aliquid iusto harum ratione atque earum labore unde dolore recusandae blanditiis iure minima eum nulla quam libero architecto laborum. Perferendis, laborum."
+      "imageSrc": "/assets/images/Cabildo - Buenos Aires.jpg",
+      "provincia": "Cabildo de Buenos Aires",
+      "description": "📍 | Ciudad de Buenos Aires"
     }
+    {
+      "imageSrc": "/assets/images/Casa Beban Ushuaia.jpg",
+      "provincia": "Casa Beban",
+      "description": "📍 | Ushuaia, Tierra del Fuego"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
+      "provincia": "Casa de Gobierno de la Ciudad",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Foster & Partners"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Casa del Acuerdo - San Nicolas.jpg",
+      "provincia": "Casa del Acuerdo",
+      "description": "📍 | San Nicolás de los Arroyos, Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Casa Lisardo Garcia - Ushuaia.jpg",
+      "provincia": "Casa Lisardo García",
+      "description": "📍 | Ushuaia, Tierra del Fuego 🏗️ | Lisardo García"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Casa sobre el arroyo - Mar del Plata.jpg",
+      "provincia": "Casa Sobre el Arroyo",
+      "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Amancio Williams, Delfina Gálvez Bunge"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Santa Rosa de Lima - Purmamarca.jpg",
+      "provincia": "Capilla de Santa Rosa de Lima",
+      "description": "📍 | Purmamarca, Jujuy"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Centro Civico - Bariloche.jpg",
+      "provincia": "Centro Cívico",
+      "description": "📍 | San Carlos de Bariloche, Río Negro 🏗️ | Arq. Ernesto de Estrada"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Centro Civico Bicentenario - Cordoba.jpg",
+      "provincia": "Centro Cívico del Bicentenario",
+      "description": "📍 | Córdoba, Córdoba 🏗️ | GGMPU, Lucio Morini"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Edificio Gomez - Mendoza.jpg",
+      "provincia": "Edificio Gomez",
+      "description": "📍 | Mendoza, Mendoza 🏗️ | Arq. Manuel Civit"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Edificio No Hi Ha - Buenos Aires.jpg",
+      "provincia": "Edificio No Hi Ha Somnis Impossibles",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Ing. Eduardo Rodríguez Ortega"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Escuela Manuel Belgrano - Cordoba.jpg",
+      "provincia": "Escuela Sup. de Comercio Manuel Belgrano",
+      "description": "📍 | Córdoba, Córdoba 🏗️ | Arqs: Bidinost; Chute; Gasó; Lapacó; Meyer"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Estancia Jesuitica - Jesus Maria.jpg",
+      "provincia": "Estancia Jesuítica",
+      "description": "📍 | Jesús María, Córdoba"
+    }
+        ,
+    {
+      "imageSrc": "/assets/images/Facultad Arquitectura - Mendoza.jpg",
+      "provincia": "Facultad Arquitectura",
+      "description": "📍 | Mendoza, Mendoza 🏗️ | Arq. Enrico Tedeschi"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Facultad de Cs Exactas UBA - Buenos Aires.jpg",
+      "provincia": "Facultad de Cs Exactas UBA",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Facultad de Derecho UBA - Buenos Aires.jpg",
+      "provincia": "Facultad de Derecho UBA",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Ochoa, Vinent y Chiappori"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Facultad Ingenieria UNR - Rosario.jpg",
+      "provincia": "Esc. de Ing. Civil y Electrónica UNR",
+      "description": "📍 | Rosario, Santa Fe 🏗️ | Gerardo Caballero, Maite Fernández"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Facultad Medicina UBA - Buenos Aires.jpg",
+      "provincia": "Facultad de Medicina UBA",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Facultad Medicina UNR - Rosario.jpg",
+      "provincia": "Facultad de Medicina UNR",
+      "description": "📍 | Rosario, Santa Fe"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/FADU UBA - Buenos Aires.jpg",
+      "provincia": "Facultad de Arquitectura, Diseño y Urbanismo FADU UBA",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
+      "provincia": "Casa de Gobierno de la Ciudad",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Foster & Partners"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/FAPYD UNR - Rosario.jpg",
+      "provincia": "FCPOLIT + FAPYD UNR",
+      "description": "📍 | Rosario, Santa Fe"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/FAU UNT - Tucuman.jpg",
+      "provincia": "Facultad de Arquitectura y Urbanismo FAU UNT",
+      "description": "📍 | San Miguel de Tucumán, Tucumán 🏗️ | Foster & Partners"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/FAUD UNC - Cordoba.jpg",
+      "provincia": "Facultad de Arquitectura, Urbanismo y Diseño FAUD UNC",
+      "description": "📍 | Córdoba, Córdoba"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Hospital naval - Buenos Aires.jpg",
+      "provincia": "Hospital Naval",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Héctor César Lacarra, Juan Genoud"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Hotel Provincial - Mar del Plata.jpg",
+      "provincia": "Hotel Provincial",
+      "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Arq. Alejandro Bustillo"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Iglesia compañia de jesus - Cordoba.jpg",
+      "provincia": "Iglesia de la Compañía de Jesús",
+      "description": "📍 | Córdoba, Córdoba"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Iglesia de San Francisco - Salta.jpg",
+      "provincia": "Iglesia de San Francisco",
+      "description": "📍 | Salta, Salta 🏗️ | Arq. Fray Vicente Muñoz y Arq. Fray Luis Giorgi"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Iglesia del Espiritu Santo - San Nicolas",
+      "provincia": "Iglesia del Espíritu Santo",
+      "description": "📍 | San Nicolás de los Arroyos, Buenos Aires 🏗️ | Arq. Mario Luis Magni"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Iglesia Ntra Sra de la Asuncion - Cordoba.jpg",
+      "provincia": "Iglesia Ntra. Sra. de la Asunción (Catedral de Córdoba)",
+      "description": "📍 | Córdoba, Córdoba"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Monumento a la Bandera - Rosario.jpg",
+      "provincia": "Monumento a la Bandera",
+      "description": "📍 | Rosario, Santa Fe 🏗️ | Arq: Ángel Guido; Alejandro Bustillo
+Esc: José Fioravanti; Alfredo Bigatti; Eduardo Barnes"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Municipalidad - LAprida.jpg",
+      "provincia": "Municipalidad de Laprida",
+      "description": "📍 | Laprida, Buenos Aires 🏗️ | Arq. Francisco Salamone"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Municipalidad - Rauch.jpg",
+      "provincia": "Municipalidad de Rauch",
+      "description": "📍 | Rauch, Buenos Aires 🏗️ | Arq. Francisco Salamone"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Municipalidad - Tornquist.jpg",
+      "provincia": "Municipalidad de Tornquist",
+      "description": "📍 | Tornquist, Buenos Aires 🏗️ | Arq. Francisco Salamone"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo Larreta - Buenos Aires.jpg",
+      "provincia": "Museo Larreta",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Martín Noel"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo MALBA - Buenos Aires.jpg",
+      "provincia": "Museo MALBA",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Atelman-Fourcade-Tapia"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo MAR - Mar del Plata.jpg",
+      "provincia": "Museo MAR",
+      "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Monoblock"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo MHN - Buenos Aires.jpg",
+      "provincia": "Museo Histórico Nacional",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo Moderno - Buenos Aires.jpg",
+      "provincia": "MAMBA (Museo de Arte Moderno de Buenos Aires)",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Museo UNC - Cordoba.jpg",
+      "provincia": "Museo Histórico de la UNC - Antiguo Rectorado",
+      "description": "📍 | Córdoba, Córdoba"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Obelisco 9 de julio - Buenos AIres.jpg",
+      "provincia": "Obelisco | 9 de julio",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Palacio de las aguas corrientes - Buenos Aires.jpg",
+      "provincia": "Palacio de las Aguas Corrientes",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Estudio Bateman"
+    }
+
+,
+    {
+      "imageSrc": "/assets/images/Palacio Noel - Buenos Aires.jpg",
+      "provincia": "Palacio Noel",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Martín Noel"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Palacio San Jose - Entre Rios.jpg",
+      "provincia": "Palacio San José",
+      "description": "📍 | Entre Ríos 🏗️ | Jacinto Dellepiane; Pedro Fossatis"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Planetario Galileo Galilei - Buenos Aires.jpg",
+      "provincia": "Planetario Galileo Galilei",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Enrique Jan, Ing. Carlos Lauger"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Puente de la Mujer - Buenos Aires.jpg",
+      "provincia": "Puente de la Mujer",
+      "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Santiago Calatrava"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/San Ignacio Mini - Misiones.jpg",
+      "provincia": "San Ignacio Mini",
+      "description": "📍 | San Ignacio, Misiones"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Santuario SN.jpg",
+      "provincia": "Santuario María del Rosario de San Nicolás",
+      "description": "📍 | San Nicolás de los Arroyos, Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/Terrace palace MDQ marca de agua.jpg",
+      "provincia": "Terrace palace",
+      "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Alejandro Bonet"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/terrazas-portezuelo-san-luis.jpg",
+      "provincia": "Terrazas del Portezuelo",
+      "description": "📍 | San Luis 🏗️ | Arq. Esteban Bondone"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/VILLA VICTORIA firma.jpg",
+      "provincia": "Villa Victoria",
+      "description": "📍 | Mar del Plata, Buenos Aires"
+    }
+    ,
+    {
+      "imageSrc": "/assets/images/villavicencioMesa de trabajo 1-80.jpg",
+      "provincia": "Hotel Villavicencio",
+      "description": "📍 | Las Heras, Mendoza"
+    }
+    
   ]
   
