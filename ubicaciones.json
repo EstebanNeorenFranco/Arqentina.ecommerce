@@ -7,21 +7,385 @@
     "url": "/"
   },
   {
-    "lat": -34.6222,
-    "lng": -58.4025,
-    "markerImage": "./assets/imagen_ubi/imagen.jpg",
-    "popupImage": "./assets/imagen_ubi/imagen.jpg",
-    "imageName": "Nombre de la Imagen 2",
+    "lat": -34.58444,
+    "lng": -58.39802,
+    "popupImage": "./assets/images/Biblioteca Nacional - Buenos Aires.jpg",
+    "imageName": "Biblioteca Nacional Mariano Moreno",
     "url": "/"
   },
-  {
-    "lat": -34.6331,
-    "lng": -58.3904,
-    "markerImage": "./assets/imagen_ubi/imagen.jpg",
-    "popupImage": "./assets/imagen_ubi/imagen.jpg",
-    "imageName": "Nombre de la Imagen 3",
+    {
+    "lat": -34.60873,
+    "lng": -58.37378,
+    "popupImage": "./assets/images/Cabildo - Buenos Aires.jpg",
+    "imageName": "Cabildo de Buenos Aires",
     "url": "/"
-  }
-    
+  },
+    {
+    "lat": -54.81278,
+    "lng": -68.32096,
+    "popupImage": "./assets/images/Casa Beban Ushuaia.jpg",
+    "imageName": "Antigua Casa Beban",
+    "url": "/"
+  },
+    {
+    "lat": -34.6406,
+    "lng": -58.40706,
+    "popupImage": "./assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
+    "imageName": "Casa de Gobierno de la Ciudad",
+    "url": "/"
+  },
+    {
+    "lat": -33.3301,
+    "lng": -60.21658,
+    "popupImage": "./assets/images/Casa del Acuerdo - San Nicolas.jpg",
+    "imageName": "Museo Nacional Casa del Acuerdo de San Nicolás",
+    "url": "/"
+  },
+    {
+    "lat": -54.8132,
+    "lng": -68.3211,
+    "popupImage": "./assets/images/Casa Lisardo Garcia - Ushuaia.jpg",
+    "imageName": "Casa Lisardo García",
+    "url": "/"
+  },
+    {
+    "lat": -38.00825,
+    "lng": -57.57389,
+    "popupImage": "./assets/images/Casa sobre el arroyo - Mar del Plata.jpg",
+    "imageName": "Casa sobre el Arroyo",
+    "url": "/"
+  },
+    {
+    "lat": -41.13349,
+    "lng": -71.31021,
+    "popupImage": "./assets/images/Centro Civico - Bariloche.jpg",
+    "imageName": "Palacio Municipal",
+    "url": "/"
+  },
+    {
+    "lat": -31.41793,
+    "lng": -64.17509,
+    "popupImage": "./assets/images/Centro Civico Bicentenario - Cordoba.jpg",
+    "imageName": "Centro Cívico del Bicentenario",
+    "url": "/"
+  },
+    {
+    "lat": -32.89091,
+    "lng": -68.83898,
+    "popupImage": "./assets/images/Edificio Gomez - Mendoza.jpg",
+    "imageName": "Edificio Gómez",
+    "url": "/"
+  },
+    {
+    "lat": -34.60937,
+    "lng": -58.39609,
+    "popupImage": "./assets/images/Edificio No Hi Ha - Buenos Aires.jpg",
+    "imageName": "Edificio No Hi Ha Somnis Impossibles",
+    "url": "/"
+  },
+    {
+    "lat": -31.40514,
+    "lng": -64.20164,
+    "popupImage": "./assets/images/Escuela Manuel Belgrano - Cordoba.jpg",
+    "imageName": "Escuela Sup. de Comercio Manuel Belgrano",
+    "url": "/"
+  },
+    {
+    "lat": -30.9709,
+    "lng": -64.09749,
+    "popupImage": "./assets/images/Estancia Jesuitica - Jesus Maria.jpg",
+    "imageName": "Estancia Jesuítica Jesús María",
+    "url": "/"
+  },
+    {
+    "lat": -32.89492,
+    "lng": -68.84167,
+    "popupImage": "./assets/images/Facultad Arquitectura - Mendoza.jpg",
+    "imageName": "Facultad de Arquitectura",
+    "url": "/"
+  },
+    {
+    "lat": -32.9474,
+    "lng": -60.63984,
+    "popupImage": "./assets/images/Banco de Londres - Rosario.jpg",
+    "imageName": "Ex Banco de Londres",
+    "url": "/"
+  },
+    {
+    "lat": -34.54249,
+    "lng": -58.44281,
+    "popupImage": "./assets/images/Facultad de Cs Exactas UBA - Buenos Aires.jpg",
+    "imageName": "Facultad de Cs Exactas y Naturales UBA",
+    "url": "/"
+  },
+
+    {
+    "lat": -34.58233,
+    "lng": -58.39163,
+    "popupImage": "./assets/images/Facultad de Derecho UBA - Buenos Aires.jpg",
+    "imageName": "Facultad de Derecho UBA",
+    "url": "/"
+  },
+    {
+    "lat": -32.96813,
+    "lng": -60.62412,
+    "popupImage": "./assets/images/Facultad Ingenieria UNR - Rosario.jpg",
+    "imageName": "Escuela de Ingeniería Civil y Electrónica UNR",
+    "url": "/"
+  },
+    {
+    "lat": -34.59805,
+    "lng": -58.39825,
+    "popupImage": "./assets/images/Facultad Medicina UBA - Buenos Aires.jpg",
+    "imageName": "Facultad de Medicina UBA",
+    "url": "/"
+  },
+
+    {
+    "lat": -32.94001,
+    "lng": -60.66512,
+    "popupImage": "./assets/images/Facultad Medicina UNR - Rosario.jpg",
+    "imageName": "Facultad de Ciencias Médicas UNR",
+    "url": "/"
+  },
+    {
+    "lat": -34.54112,
+    "lng": -58.4438,
+    "popupImage": "./assets/images/FADU UBA - Buenos Aires.jpg",
+    "imageName": "Facultad de Arquitectura, Diseño y Urbanismo UBA",
+    "url": "/"
+  },
+    {
+    "lat": -32.96793,
+    "lng": -60.62294,
+    "popupImage": "./assets/images/FAPYD UNR - Rosario.jpg",
+    "imageName": "FCPOLIT + FAPYD UNR",
+    "url": "/"
+  },
+    {
+    "lat": -26.84187,
+    "lng": -65.22951,
+    "popupImage": "./assets/images/FAU UNT - Tucuman.jpg",
+    "imageName": "Facultad de Arquitectura y Urbanismo UNT",
+    "url": "/"
+  },
+    {
+    "lat": -34.60534,
+    "lng": -58.43289,
+    "popupImage": "./assets/images/Hospital naval - Buenos Aires.jpg",
+    "imageName": "Hospital naval",
+    "url": "/"
+  },
+    {
+    "lat": -38.00651,
+    "lng": -57.54134,
+    "popupImage": "./assets/images/Hotel Provincial - Mar del Plata.jpg",
+    "imageName": "Hotel Provincial",
+    "url": "/"
+  },
+    {
+    "lat": -31.41804,
+    "lng": -64.18641,
+    "popupImage": "./assets/images/Iglesia compañia de jesus - Cordoba.jpg",
+    "imageName": "Iglesia de la Compañía de Jesús",
+    "url": "/"
+  },
+    {
+    "lat": -24.79033,
+    "lng": -65.40819,
+    "popupImage": "./assets/images/Iglesia de San Francisco - Salta.jpg",
+    "imageName": "Basílica de San Francisco",
+    "url": "/"
+  },
+    {
+    "lat": -32.9474,
+    "lng": -60.63984,
+    "popupImage": "./assets/images/Banco de Londres - Rosario.jpg",
+    "imageName": "Ex Banco de Londres",
+    "url": "/"
+  },
+    {
+    "lat": -33.37779,
+    "lng": -60.17687,
+    "popupImage": "./assets/images/Iglesia del Espiritu Santo - San Nicolas.jpg",
+    "imageName": "Parroquia del Espiritu Santo",
+    "url": "/"
+  },
+    {
+    "lat": -31.41684,
+    "lng": -64.18448,
+    "popupImage": "./assets/images/Iglesia Ntra Sra de la Asuncion - Cordoba.jpg",
+    "imageName": "Iglesia Ntra Sra de la Asunción - Catedral de Cordoba",
+    "url": "/"
+  },
+    {
+    "lat": -32.94771,
+    "lng": -60.63046,
+    "popupImage": "./assets/images/Monumento a la Bandera - Rosario.jpg",
+    "imageName": "Monumento a la Bandera",
+    "url": "/"
+  },
+    {
+    "lat": -37.54481,
+    "lng": -60.8004,
+    "popupImage": "./assets/images/Municipalidad - LAprida.jpg",
+    "imageName": "Municipalidad de Laprida",
+    "url": "/"
+  },
+
+    {
+    "lat": -36.7752,
+    "lng": -59.08624,
+    "popupImage": "./assets/images/Municipalidad - Rauch.jpg",
+    "imageName": "Municipalidad de Rauch",
+    "url": "/"
+  },
+    {
+    "lat": -38.10052,
+    "lng": -62.22148,
+    "popupImage": "./assets/images/Municipalidad - Tornquist.jpg",
+    "imageName": "Municipalidad de Tornquist",
+    "url": "/"
+  },
+    {
+    "lat": -34.56127,
+    "lng": -58.45562,
+    "popupImage": "./assets/images/Museo Larreta - Buenos Aires.jpg",
+    "imageName": "Museo de Arte Español Enrique Larreta",
+    "url": "/"
+  },
+    {
+    "lat": -34.5769,
+    "lng": -58.40339,
+    "popupImage": "./assets/images/Museo MALBA - Buenos Aires.jpg",
+    "imageName": "MALBA",
+    "url": "/"
+  },
+    {
+    "lat": -37.97328,
+    "lng": -57.5436,
+    "popupImage": "./assets/images/Museo MAR - Mar del Plata.jpg",
+    "imageName": "Museo MAR",
+    "url": "/"
+  },
+    {
+    "lat": -34.62699,
+    "lng": -58.37058,
+    "popupImage": "./assets/images/Museo MHN - Buenos Aires.jpg",
+    "imageName": "Museo Histórico Nacional",
+    "url": "/"
+  },
+    {
+    "lat": -34.62204,
+    "lng": -58.37054,
+    "popupImage": "./assets/images/Museo Moderno - Buenos Aires.jpg",
+    "imageName": "Museo Moderno MAMBA",
+    "url": "/"
+  },
+    {
+    "lat": -37.97328,
+    "lng": -57.5436,
+    "popupImage": "./assets/images/Museo MAR - Mar del Plata.jpg",
+    "imageName": "Museo MAR",
+    "url": "/"
+  },
+    {
+    "lat": -31.41823,
+    "lng": -64.18655,
+    "popupImage": "./assets/images/Museo UNC - Cordoba.jpg",
+    "imageName": "Museo Histórico de la UNC (Manzana Jesuítica)",
+    "url": "/"
+  },
+    {
+    "lat": -34.60373,
+    "lng": -58.38157,
+    "popupImage": "./assets/images/Obelisco 9 de julio - Buenos AIres.jpg",
+    "imageName": "Obelisco | 9 de julio",
+    "url": "/"
+  },
+    {
+    "lat": -34.6007,
+    "lng": -58.39501,
+    "popupImage": "./assets/images/Palacio de las aguas corrientes - Buenos Aires.jpg",
+    "imageName": "Palacio de las Aguas Corrientes",
+    "url": "/"
+  },
+    {
+    "lat": -34.59068,
+    "lng": -58.38003,
+    "popupImage": "./assets/images/Palacio Noel - Buenos Aires.jpg",
+    "imageName": "Museo Fernández Blanco - Palacio Noel",
+    "url": "/"
+  },
+    {
+    "lat": -32.42714,
+    "lng": -58.52323,
+    "popupImage": "./assets/images/Palacio San Jose - Entre Rios.jpg",
+    "imageName": "Palacio San José",
+    "url": "/"
+  },
+    {
+    "lat": -34.56967,
+    "lng": -58.41162,
+    "popupImage": "./assets/images/Planetario Galileo Galilei - Buenos Aires.jpg",
+    "imageName": "Planetario Galileo Galilei",
+    "url": "/"
+  },
+    {
+    "lat": -34.60798,
+    "lng": -58.36516,
+    "popupImage": "./assets/images/Puente de la Mujer - Buenos Aires.jpg",
+    "imageName": "Puente de la Mujer",
+    "url": "/"
+  },
+    {
+    "lat": -27.25528,
+    "lng": -55.53143,
+    "popupImage": "./assets/images/San Ignacio Mini - Misiones.jpg",
+    "imageName": "San Ignacio Miní",
+    "url": "/"
+  },
+    {
+    "lat": -23.74729,
+    "lng": -65.4993,
+    "popupImage": "./assets/images/Santa Rosa de Lima - Purmamarca.jpg",
+    "imageName": "Santa Rosa de Lima",
+    "url": "/"
+  },
+    {
+    "lat": -33.32282,
+    "lng": -60.22409,
+    "popupImage": "./assets/images/Santuario SN.jpg",
+    "imageName": "Santuario María del Rosario de San Nicolás",
+    "url": "/"
+  },
+    {
+    "lat": -38.02721,
+    "lng": -57.5336,
+    "popupImage": "./assets/images/Terrace palace MDQ marca de agua.jpg",
+    "imageName": "Terrace palace",
+    "url": "/"
+  },
+    {
+    "lat": -33.30402,
+    "lng": -66.29473,
+    "popupImage": "./assets/images/terrazas-portezuelo-san-luis.jpg",
+    "imageName": "Terrazas del Portezuelo",
+    "url": "/"
+  },
+    {
+    "lat": -38.01968,
+    "lng": -57.55268,
+    "popupImage": "./assets/images/VILLA VICTORIA firma.jpg",
+    "imageName": "Villa Victoria",
+    "url": "/"
+  },
+    {
+    "lat": -32.52691,
+    "lng": -69.0172,
+    "popupImage": "./assets/images/villavicencioMesa de trabajo 1-80.jpg",
+    "imageName": "Hotel Villavicencio",
+    "url": "/"
+  }    
   ]
   
