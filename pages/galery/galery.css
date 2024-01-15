@@ -40,7 +40,6 @@ a{
 .box_shadow{
     box-shadow: rgba(237, 237, 237, 0.2) 0px 0px 0px;
     display: flex;
-   
     align-items: center;
     border-radius: 10px;
     max-width: 900px;
