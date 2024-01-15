@@ -2,13 +2,15 @@
   {
     "imageSrc": "/assets/images/Banco de Londres - Rosario.jpg",
     "title": "Ex Banco de Londres",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)"
+    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+    "provincia": "santafe"
   }
   ,
   {
       "imageSrc": "/assets/images/Biblioteca Nacional - Buenos Aires.jpg",
       "title": "Biblioteca Nacional Mariano Moreno",
-      "description": "📍 | Ciudad de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga"
+      "description": "📍 | Ciudad de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga",
+      "provincia": "buenosaires"
   }
   ,
   {
@@ -301,25 +303,25 @@
   ,
   {
     "imageSrc": "/assets/images/Terrace palace MDQ marca de agua.jpg",
-    "provincia": "Terrace palace",
+    "title": "Terrace palace",
     "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Alejandro Bonet"
   }
   ,
   {
     "imageSrc": "/assets/images/terrazas-portezuelo-san-luis.jpg",
-    "provincia": "Terrazas del Portezuelo",
+    "title": "Terrazas del Portezuelo",
     "description": "📍 | San Luis 🏗️ | Arq. Esteban Bondone"
   }
   ,
   {
     "imageSrc": "/assets/images/VILLA VICTORIA firma.jpg",
-    "provincia": "Villa Victoria",
+    "title": "Villa Victoria",
     "description": "📍 | Mar del Plata, Buenos Aires"
   }
   ,
   {
     "imageSrc": "/assets/images/villavicencioMesa de trabajo 1-80.jpg",
-    "provincia": "Hotel Villavicencio",
+    "title": "Hotel Villavicencio",
     "description": "📍 | Las Heras, Mendoza"
   }
   
