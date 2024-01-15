@@ -3,20 +3,49 @@ document.addEventListener('DOMContentLoaded', function () {
   fetch('./gallery_data.json')
       .then(response => response.json())
       .then(data => {
-          // Loop through the data and create gallery items
-          data.forEach(item => {
-              createGalleryItem(item);
+          // Store the gallery data in a variable
+          const galleryData = data;
+
+          // Populate the gallery with all items initially
+          populateGallery(galleryData);
+
+          // Add event listener for province selector change
+          const provinciaSelector = document.getElementById('provinciaSelector');
+          provinciaSelector.addEventListener('change', function () {
+              const selectedProvincia = provinciaSelector.value;
+
+              // Filter gallery items based on selected province
+              const filteredData = selectedProvincia === 'all'
+                  ? galleryData
+                  : galleryData.filter(item => item.provincia === selectedProvincia);
+
+              // Clear existing gallery items
+              clearGallery();
+
+              // Populate the gallery with filtered items
+              populateGallery(filteredData);
           });
       })
       .catch(error => console.error('Error fetching gallery data:', error));
 });
+
+function clearGallery() {
+  const galleryContainer = document.querySelector('.body');
+  galleryContainer.innerHTML = ''; // Remove all child elements
+}
+
+function populateGallery(data) {
+  data.forEach(item => {
+      createGalleryItem(item);
+  });
+}
 
 function createGalleryItem(item) {
   const galleryItem = document.createElement('div');
   galleryItem.classList.add('box_shadow');
 
   const imageLink = document.createElement('a');
-  imageLink.href = item.imageSrc;
+  imageLink.href = window.location.origin + item.imageSrc;
 
   const image = document.createElement('img');
   image.src = item.imageSrc;

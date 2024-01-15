@@ -17,6 +17,20 @@ a{
     text-decoration:none;
 }
 
+.prov_selector {
+    background-color: #F0F0F0;
+    padding-left: 5vw;
+    padding-top: 5vw;
+    padding-bottom: 2vw;
+}
+
+.prov_selector_s {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 @media only screen and (min-width: 1px){
 
 .galery_container{

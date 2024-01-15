@@ -4,14 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arqentina - Tiendas Amigas</title>
+    <title>Arqentina - Buscador</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
 </head>
-
-
+<meta name="description" content="Experience the beauty of AI art at our digital gallery. Discover stunning computer-generated masterpieces that push the boundaries of imagination. Visit now to witness the power of technology in art. Explore our unique collection of AI art today.">
 <link rel="stylesheet" href="/index.css"/>
-<link rel="stylesheet" href="/pages/galery/galery.css"/>
+<link rel="stylesheet" href="/hero.css"/>
+<link rel="stylesheet" href="/pages/buscador/buscador.css"/>
 <link rel="icon" href="/assets/homepage_images/logo.ico"/>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="/pages/about.css"/>
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 
@@ -93,20 +96,22 @@
     
     
     <div class="body">
-        <div class="hero">
-            <div class="text_container">
-                <h1><b>Tiendas Amigas</b></h1>
-                <p class="text">
-                    Podes encontrar los productos de arqentina gu en nuestras tiendas amigas    
-                </p>
-                <p class="text">
-                    Descubrí cuál está más cerca tuyo haciendo click en: <a href="https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.60109289074471%2C-58.3888157&z=13">TIENDAS AMIGAS</a>
-                </p>
-                <p class="text">
-                    Si te interesa conocer más o queres sumarte a nuestras Tiendas Amigas mandá un mensaje a: <a href="mailto:arqentina.gu@gmail.com?subject=Tiendas Amigas de Arqentina&body="> arqentina.gu@gmail.com</a> <b></b>
-                </p>
+       <div class="bus_text" >
+            <p> Busqueda por:</p>
+       </div>
+       
+        <div class="selector">
+            <div class="selector_box">
+                <a class="busc_map" href="./mapa.html">
+                    <p>Mapa 🗺</p>
+                    </a>
             </div>
-        
+    
+           <div class="selector_box">
+            <a class="busc_cat" href="./galery.html">
+                <p>Categoría 🔍</p>
+                </a>
+           </div>
         </div>
     </div>
     
@@ -133,6 +138,3 @@
 </body>
 </html>
 
-
-
-<script src="script.js"></script>
