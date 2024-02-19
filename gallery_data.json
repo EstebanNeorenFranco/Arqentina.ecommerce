@@ -1,48 +1,50 @@
-
 [
-  {
-    "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
-    "title": "Villa Victoria",
-    "lat": -38.01968,
-    "lng": -57.55268,
-    "imageName": "Villa Victoria",
-    "provincia": "buenosaires",
-    "ciudad": "Mar del Plata",
-    "autor": "",
-    "uso": "Museo",
+    {
+    "id": 1 ,
+    "imageSrc": "./assets/images/Banco de Londres - Rosario.jpg",
+    "title": "Ex Banco de Londres",
+    "lat": -32.9474,
+    "lng": -60.63984,
+    "imageName": "Ex Banco de Londres",
+    "provincia": "santafe",
+    "ciudad": "Rosario, Santa Fe",
     "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
-    "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
+    "autor": "Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+    "uso": "Banco",
+    "texto": "En la esquina de Rioja y Mitre de la ciudad de Rosario, se encuentra el Ex Lloyds Bank, o Banco de Londres. Se emplaza en un lote de tres fachadas y precisamente es su exterior el que llama la atención. El edificio destaca notablemente del entorno por su lenguaje que le da una fuerte identidad. Se trata de un edificio brutalista, que, como su estilo indica, expone crudamente sus cualidades y elementos constructivos y es muy fiel al manifestar el camino de las cargas, colocando a este béton brut u hormigón crudo como estrella. La decisión de dejar a la vista como protagonista la estructura de sostén -este entramado de hormigón a 45 grados- hace que esta expresión sincera se convierta en el ícono más llamativo de la composición. Al observarlo, podemos llegar a descomponer los elementos estructurales y de a poco reconocer una especie de patrón. En el año 2004 el edificio fue comprado por el Banco Patagonia, empresa que podemos encontrar hoy allí.",
+    "urlInsta": "https://www.instagram.com/p/COIsxq7gNaQ/?img_index=1"
     }
     ,
     {
-      "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
-      "title": "Villa Victoria",
-      "lat": -38.01968,
-      "lng": -57.55268,
-      "imageName": "Villa Victoria",
-      "provincia": "buenosaires",
-      "ciudad": "Mar del Plata",
-      "autor": "",
-      "uso": "Museo",
-      "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-      "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
-      "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
-      }
-      ,
-      {
-        "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
-        "title": "Villa Victoria",
-        "lat": -38.01968,
-        "lng": -57.55268,
-        "imageName": "Villa Victoria",
-        "provincia": "buenosaires",
-        "ciudad": "Mar del Plata",
-        "autor": "",
-        "uso": "Museo",
-        "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-        "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
-        "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
-        }
     
-]
+    "id": 2,
+    "imageSrc": "./assets/images/Biblioteca Nacional - Buenos Aires.jpg",
+    "title": "Biblioteca Nacional Mariano Moreno",
+    "lat": -34.58444,
+    "lng": -58.39802,
+    "imageName": " Biblioteca Nacional Mariano Moreno ",
+    "provincia": "caba",
+    "ciudad": "Ciudad Autónoma de Buenos Aires",
+    "autor": "Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga",
+    "uso": "Biblioteca",
+    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+    "texto": "La Biblioteca Nacional, creada por Mariano Moreno en 1810, resguarda los materiales con los que se han forjado las distintas épocas del país. El edificio actual cuenta con 6 pisos, 3 subsuelos para depósitos de libros, 9 salas de lectura (940 lectores), un auditorio y una Escuela de Bibliotecarios. Es uno de los edificios más curiosos de la Ciudad y genera opiniones muy diversas. Ganador del concurso de 1961, su elección se debió a su fuerte idea de implantación. Las salas de lectura se elevan como un mirador urbano y se entierran los programas pesados (depósito de libros, máquinas). De esta manera, los libros se protegen del efecto nocivo de la luz, se resuelve el peso que implican y se facilita la expansión de los depósitos a la vez que se crea una plaza pública. La gran explanada de acceso se constituye como parte fundamental, extendiendo la plaza y la vivencia del edificio hasta el último rincón. La nave se apoya sobre cuatro enormes núcleos lo que -según Testa-, recuerda a un cuadrúpedo y se la relaciona con el hallazgo de un gliptodonte al momento de la excavación. Las decisiones expresivas condicen con el brutalismo, corriente que muestra con honestidad los materiales y el camino de las cargas. Este edificio merece un análisis mayor sobre estas, ya que no por visibles son simples. El material estrella es nuevamente el hormigón armado. En 2013, según una encuesta realizada por el diario Clarín a 600 personas no especializadas en arquitectura, la Biblioteca Nacional fue elegida al mismo tiempo como el 4to edificio más lindo de la ciudad, y el 2do más feo, mostrando lo controversial de la obra.",
+    "urlInsta": "https://www.instagram.com/p/CPi4_NaAqF2/?img_index=1"
+    }
+    ,
+    {
+    "id": 3,
+    "imageSrc": "./assets/images/Cabildo - Buenos Aires.jpg",
+    "title": "Cabildo de Buenos Aires",
+    "lat": -34.60873,
+    "lng": -58.37378,
+    "imageName": "Cabildo de Buenos Aires",
+    "provincia": "caba",
+    "ciudad": "Ciudad Autónoma de Buenos Aires",
+    "autor": "",
+    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+    "uso": "Museo",
+    "texto": "El Cabildo es el símbolo de la Revolución de Mayo, pero tiene poco del que albergó el proceso de independencia nacional que comenzó en 1810. Ocupa el mismo lugar desde 1580. Nace como sede de la administración colonial. Para 1608, tenía paredes de adobe y techo de paja. Para 1614 por la cantidad de presos alojados, se destina a cárcel. Las reuniones de autoridades se realizaban en la casa del gobernador y el fuerte. Para 1725, el edificio estaba en muy mal estado y se demuele. Comenzó a levantarse uno nuevo, siguiendo el proyecto de Andrés Bianqui. En 1773 apareció la torre con cúpula de techo de lata. Después de la Revolución de Mayo, con el Cabildo como epicentro, el organismo se disuelve en 1821, y desde entonces se utilizó como edificio administrativo. En 1879, el arq Pedro Benoit diseñó una reforma integral en la que el Cabildo recibió un tratamiento italianizante. Los gustos por la moda europea hacían que la arquitectura colonial fuera pobre e insípida, y así el Cabildo fue disfrazado. Al abrir la Avenida de Mayo en 1889, el ing Juan Antonio Buschiazzo demuele los tres arcos del norte. También desaparece la torre, que con su excesivo peso ponía en peligro la estabilidad general. En 1931, demolieron los otros tres arcos del lado sur para abrir la diagonal Julio A. Roca. El edificio corría riesgo de desaparecer por completo. En 1933 se lo declaró Monumento Histórico Nacional y fue restaurado por el arq Mario Buschiazzo. Ni las ventanas, ni el portón, ni la fachada, ni la torre, ni el reloj son los originales de 1810. Pero la réplica reproduce el edificio colonial. La torre se reconstruyó en hormigón armado y se redujo con respecto al tamaño colonial para no quedar desproporcionada con el menor tamaño general. En la última etapa, con el arq Alejandro Bustillo, se remodeló la Plazoleta y sumó superficie al edificio para construir la Comisión Nacional de Museos, Monumentos y Lugares Históricos.",
+    "urlInsta": "https://www.instagram.com/p/CAn5FCCAkrg/?img_index=1"
+    }
+    ]

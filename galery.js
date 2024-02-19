@@ -25,6 +25,19 @@ document.addEventListener('DOMContentLoaded', function () {
               // Populate the gallery with filtered items
               populateGallery(filteredData);
           });
+
+          // Add event listener for gallery item click
+          const galleryContainer = document.querySelector('.body');
+          galleryContainer.addEventListener('click', function (event) {
+              const clickedItem = event.target.closest('.box_shadow');
+
+              if (clickedItem) {
+                  const itemId = clickedItem.dataset.itemId;
+
+                  // Redirect to the details page with the selected item ID
+                  window.location.href = 'detalle.html?id=' + itemId;
+              }
+          });
       })
       .catch(error => console.error('Error fetching gallery data:', error));
 });
@@ -43,6 +56,7 @@ function populateGallery(data) {
 function createGalleryItem(item) {
   const galleryItem = document.createElement('div');
   galleryItem.classList.add('box_shadow');
+  galleryItem.dataset.itemId = item.id; // Set the item ID as a data attribute
 
   const imageLink = document.createElement('a');
   imageLink.href = window.location.origin + item.imageSrc;

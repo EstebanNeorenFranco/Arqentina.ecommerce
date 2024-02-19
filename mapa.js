@@ -2,7 +2,7 @@
 const L = window.L;
 
 // Crea un mapa en el contenedor "map" con coordenadas iniciales y zoom
-const map = L.map('map').setView([-34.6118, -58.4173], 4 );
+const map = L.map('map').setView([-34.6118, -58.4173], 4);
 
 // Crea un ícono personalizado con tu imagen
 const customIcon = L.icon({
@@ -38,24 +38,27 @@ fetch('gallery_data.json')
 
       // Iterar a través de las ubicaciones en el archivo JSON
       data.forEach(location => {
-        const { lat, lng, imageSrc, imageName, url, provincia } = location;
+        const { lat, lng, imageSrc, imageName, url, provincia, id } = location;
 
         // Crea un marcador solo si la provincia coincide con la seleccionada o es "Todas las provincias"
         if (provincia === provinciaSelector.value || provinciaSelector.value === 'all') {
+          // Crea un contenedor personalizado para el contenido del marcador
+          const markerContent = document.createElement('div');
+
+          // Agrega la imagen y la descripción al contenedor personalizado
+          markerContent.innerHTML = `<img src="${imageSrc}" alt="${imageName}" width="150"><br>${imageName}`;
+
           // Crea un marcador con las coordenadas y el ícono personalizado
           const marker = L.marker([lat, lng], { icon: customIcon }).addTo(map);
 
-          // Agrega una función para mostrar la imagen y el nombre de la imagen al hacer clic en el marcador
-          marker.on('click', function() {
-            // Contenido de la ventana emergente personalizada
-            const imagePopup = `<a href="${url}" target="_blank"><img src="${imageSrc}" width="150"></a><br>${imageName}`;
-
-            // Abre la ventana emergente personalizada y asigna su contenido
-            customPopup
-              .setLatLng(marker.getLatLng())
-              .setContent(imagePopup)
-              .openOn(map);
+          // Agrega una función para redireccionar a la página de detalles al hacer clic en el contenedor personalizado
+          markerContent.addEventListener('click', function() {
+            // Redirecciona a la página de detalles con el ID del elemento
+            window.location.href = 'detalle.html?id=' + id;
           });
+
+          // Asigna el contenido personalizado al marcador
+          marker.bindPopup(markerContent);
         }
       });
     }
