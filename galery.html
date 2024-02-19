@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arqentina - Galery</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
 
 
@@ -90,6 +92,8 @@
             
         </div>
     </sidebar>
+    
+
     <div class="prov_selector">
         <div class="prov_selector_s">
             <label for="provinciaSelector">Filtrar por provincia:</label>
@@ -122,12 +126,49 @@
         </select>
         </div>
     </div>
-    <div class="body">
-        
+
+    <div class="mapa">
+        <div id="map" style="height: 400px; width: 100%;"></div>
     </div>
+
+    <div class="body"> 
+    </div>
+
     
-        
-    </div>
+
+    <GaleryDataMenu>
+        <div class="GalMenu_box">
+            <div class="close_menu" onclick="hideGaleryDataMenu()">
+                <img class="icons" src="/assets/icons/close.png">
+            </div>
+            
+            <div class="galery_menu_text_box">
+                <div class="box_galery_menu">
+                    <div class="box_galery_menu_ch">
+                        <img class="galery_image" src="/assets/images/Banco de Londres - Rosario.jpg" >                     
+                        <div class="galery_menu_descripcion">
+                            <h2>Gran Hotel Villavicencio</h2>
+                            <div class="atributos">
+                                <p class="bold">Provincia:</p>
+                                <p>Mendoza</p>
+                            </div>
+                            <div class="atributos">
+                                <p class="bold">Provincia:</p>
+                                <p>Mendoza</p>
+                            </div>
+                            <div class="atributos">
+                                <p class="bold">Provincia:</p>
+                                <p>Mendoza</p>
+                            </div>
+                        </div>
+                    </div >
+                    <div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil soluta aspernatur natus autem voluptatem earum ratione cum beatae reprehenderit quod ab, id numquam. Perferendis saepe vitae quod iste suscipit a!Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eos laborum ex necessitatibus eum quisquam soluta magnam ad pariatur, repellat accusantium quasi incidunt nam veritatis fugiat ipsam, libero expedita id! ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati cumque pariatur vero beatae quisquam nesciunt a consequatur dolorum? Pariatur repellat odit quo vel optio ad iure natus officia aspernatur architecto?</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </GaleryDataMenu>
     <footer>
         <div class="footer_box">
             <h1 class="">Arqentina.gu</h1>
@@ -146,10 +187,9 @@
             
         </div>
     </footer>
-    <script defer src="https://cdn.sheety.io/sheety.min.js"></script>
-
-    <script src="galery.js"></script>
-
+    <script src="mapa.js"></script>
+    <script src="galery.js"></script> 
+    
 </body>
 </html>
 

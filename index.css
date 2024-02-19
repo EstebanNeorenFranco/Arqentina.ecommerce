@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'Fedoka One';
+    src: url('./assets/fonts/Fredoka.ttf') format('truetype');
+    }
+
 body {
-    font-family: 'Montserrat';
+    font-family: 'Fedoka One', sans-serif;
     background-color: #B3D2EE;
     color: black;
     margin: 0;
@@ -215,7 +220,7 @@ a{
   
     .close_menu{
         position: absolute;
-        margin: 4vw;
+        margin: 10px;
         cursor: pointer;
     }
     .close_menu:hover{

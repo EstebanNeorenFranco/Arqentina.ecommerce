@@ -1,328 +1,48 @@
+
 [
   {
-    "imageSrc": "/assets/images/Banco de Londres - Rosario.jpg",
-    "title": "Ex Banco de Londres",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "provincia": "santafe"
-  }
-  ,
-  {
-      "imageSrc": "/assets/images/Biblioteca Nacional - Buenos Aires.jpg",
-      "title": "Biblioteca Nacional Mariano Moreno",
-      "description": "📍 | Ciudad de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga",
-      "provincia": "buenosaires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Cabildo - Buenos Aires.jpg",
-    "title": "Cabildo de Buenos Aires",
-    "description": "📍 | Ciudad de Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa Beban Ushuaia.jpg",
-    "title": "Casa Beban",
-    "description": "📍 | Ushuaia, Tierra del Fuego"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
-    "title": "Casa de Gobierno de la Ciudad",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Foster & Partners"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa del Acuerdo - San Nicolas.jpg",
-    "title": "Casa del Acuerdo",
-    "description": "📍 | San Nicolás de los Arroyos, Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa Lisardo Garcia - Ushuaia.jpg",
-    "title": "Casa Lisardo García",
-    "description": "📍 | Ushuaia, Tierra del Fuego 🏗️ | Lisardo García"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa sobre el arroyo - Mar del Plata.jpg",
-    "title": "Casa Sobre el Arroyo",
-    "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Amancio Williams, Delfina Gálvez Bunge"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Santa Rosa de Lima - Purmamarca.jpg",
-    "title": "Capilla de Santa Rosa de Lima",
-    "description": "📍 | Purmamarca, Jujuy"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Centro Civico - Bariloche.jpg",
-    "title": "Centro Cívico",
-    "description": "📍 | San Carlos de Bariloche, Río Negro 🏗️ | Arq. Ernesto de Estrada"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Centro Civico Bicentenario - Cordoba.jpg",
-    "title": "Centro Cívico del Bicentenario",
-    "description": "📍 | Córdoba, Córdoba 🏗️ | GGMPU, Lucio Morini"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Edificio Gomez - Mendoza.jpg",
-    "title": "Edificio Gomez",
-    "description": "📍 | Mendoza, Mendoza 🏗️ | Arq. Manuel Civit"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Edificio No Hi Ha - Buenos Aires.jpg",
-    "title": "Edificio No Hi Ha Somnis Impossibles",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Ing. Eduardo Rodríguez Ortega"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Escuela Manuel Belgrano - Cordoba.jpg",
-    "title": "Escuela Sup. de Comercio Manuel Belgrano",
-    "description": "📍 | Córdoba, Córdoba 🏗️ | Arqs: Bidinost; Chute; Gasó; Lapacó; Meyer"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Estancia Jesuitica - Jesus Maria.jpg",
-    "title": "Estancia Jesuítica",
-    "description": "📍 | Jesús María, Córdoba"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad Arquitectura - Mendoza.jpg",
-    "title": "Facultad Arquitectura",
-    "description": "📍 | Mendoza, Mendoza 🏗️ | Arq. Enrico Tedeschi"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad de Cs Exactas UBA - Buenos Aires.jpg",
-    "title": "Facultad de Cs Exactas UBA",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad de Derecho UBA - Buenos Aires.jpg",
-    "title": "Facultad de Derecho UBA",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Ochoa, Vinent y Chiappori"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad Ingenieria UNR - Rosario.jpg",
-    "title": "Esc. de Ing. Civil y Electrónica UNR",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Gerardo Caballero, Maite Fernández"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad Medicina UBA - Buenos Aires.jpg",
-    "title": "Facultad de Medicina UBA",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Facultad Medicina UNR - Rosario.jpg",
-    "title": "Facultad de Medicina UNR",
-    "description": "📍 | Rosario, Santa Fe"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/FADU UBA - Buenos Aires.jpg",
-    "title": "Facultad de Arquitectura, Diseño y Urbanismo FADU UBA",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
-    "title": "Casa de Gobierno de la Ciudad",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Foster & Partners"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/FAPYD UNR - Rosario.jpg",
-    "title": "FCPOLIT + FAPYD UNR",
-    "description": "📍 | Rosario, Santa Fe"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/FAU UNT - Tucuman.jpg",
-    "title": "Facultad de Arquitectura y Urbanismo FAU UNT",
-    "description": "📍 | San Miguel de Tucumán, Tucumán 🏗️ | Foster & Partners"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/FAUD UNC - Cordoba.jpg",
-    "title": "Facultad de Arquitectura, Urbanismo y Diseño FAUD UNC",
-    "description": "📍 | Córdoba, Córdoba"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Hospital naval - Buenos Aires.jpg",
-    "title": "Hospital Naval",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Clorindo Testa, Héctor César Lacarra, Juan Genoud"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Hotel Provincial - Mar del Plata.jpg",
-    "title": "Hotel Provincial",
-    "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Arq. Alejandro Bustillo"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Iglesia compañia de jesus - Cordoba.jpg",
-    "title": "Iglesia de la Compañía de Jesús",
-    "description": "📍 | Córdoba, Córdoba"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Iglesia de San Francisco - Salta.jpg",
-    "title": "Iglesia de San Francisco",
-    "description": "📍 | Salta, Salta 🏗️ | Arq. Fray Vicente Muñoz y Arq. Fray Luis Giorgi"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Iglesia del Espiritu Santo - San Nicolas.jpg",
-    "title": "Iglesia del Espíritu Santo",
-    "description": "📍 | San Nicolás de los Arroyos, Buenos Aires 🏗️ | Arq. Mario Luis Magni"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Iglesia Ntra Sra de la Asuncion - Cordoba.jpg",
-    "title": "Iglesia Ntra. Sra. de la Asunción (Catedral de Córdoba)",
-    "description": "📍 | Córdoba, Córdoba"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Monumento a la Bandera - Rosario.jpg",
-    "title": "Monumento a la Bandera",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arq: Ángel Guido; Alejandro Bustillo, Esc: José Fioravanti; Alfredo Bigatti; Eduardo Barnes"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Municipalidad - LAprida.jpg",
-    "title": "Municipalidad de Laprida",
-    "description": "📍 | Laprida, Buenos Aires 🏗️ | Arq. Francisco Salamone"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Municipalidad - Rauch.jpg",
-    "title": "Municipalidad de Rauch",
-    "description": "📍 | Rauch, Buenos Aires 🏗️ | Arq. Francisco Salamone"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Municipalidad - Tornquist.jpg",
-    "title": "Municipalidad de Tornquist",
-    "description": "📍 | Tornquist, Buenos Aires 🏗️ | Arq. Francisco Salamone"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo Larreta - Buenos Aires.jpg",
-    "title": "Museo Larreta",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Martín Noel"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo MALBA - Buenos Aires.jpg",
-    "title": "Museo MALBA",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arqs. Atelman-Fourcade-Tapia"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo MAR - Mar del Plata.jpg",
-    "title": "Museo MAR",
-    "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Monoblock"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo MHN - Buenos Aires.jpg",
-    "title": "Museo Histórico Nacional",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo Moderno - Buenos Aires.jpg",
-    "title": "MAMBA (Museo de Arte Moderno de Buenos Aires)",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Museo UNC - Cordoba.jpg",
-    "title": "Museo Histórico de la UNC - Antiguo Rectorado",
-    "description": "📍 | Córdoba, Córdoba"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Obelisco 9 de julio - Buenos AIres.jpg",
-    "title": "Obelisco | 9 de julio",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Palacio de las aguas corrientes - Buenos Aires.jpg",
-    "title": "Palacio de las Aguas Corrientes",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Estudio Bateman"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Palacio Noel - Buenos Aires.jpg",
-    "title": "Palacio Noel",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Martín Noel"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Palacio San Jose - Entre Rios.jpg",
-    "title": "Palacio San José",
-    "description": "📍 | Entre Ríos 🏗️ | Jacinto Dellepiane; Pedro Fossatis"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Planetario Galileo Galilei - Buenos Aires.jpg",
-    "title": "Planetario Galileo Galilei",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Enrique Jan, Ing. Carlos Lauger"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Puente de la Mujer - Buenos Aires.jpg",
-    "title": "Puente de la Mujer",
-    "description": "📍 | Ciudad Autónoma de Buenos Aires 🏗️ | Arq. Santiago Calatrava"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/San Ignacio Mini - Misiones.jpg",
-    "title": "San Ignacio Mini",
-    "description": "📍 | San Ignacio, Misiones"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Santuario SN.jpg",
-    "title": "Santuario María del Rosario de San Nicolás",
-    "description": "📍 | San Nicolás de los Arroyos, Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/Terrace palace MDQ marca de agua.jpg",
-    "title": "Terrace palace",
-    "description": "📍 | Mar del Plata, Buenos Aires 🏗️ | Alejandro Bonet"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/terrazas-portezuelo-san-luis.jpg",
-    "title": "Terrazas del Portezuelo",
-    "description": "📍 | San Luis 🏗️ | Arq. Esteban Bondone"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/VILLA VICTORIA firma.jpg",
+    "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
     "title": "Villa Victoria",
-    "description": "📍 | Mar del Plata, Buenos Aires"
-  }
-  ,
-  {
-    "imageSrc": "/assets/images/villavicencioMesa de trabajo 1-80.jpg",
-    "title": "Hotel Villavicencio",
-    "description": "📍 | Las Heras, Mendoza"
-  }
-  
+    "lat": -38.01968,
+    "lng": -57.55268,
+    "imageName": "Villa Victoria",
+    "provincia": "buenosaires",
+    "ciudad": "Mar del Plata",
+    "autor": "",
+    "uso": "Museo",
+    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+    "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
+    "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
+    }
+    ,
+    {
+      "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
+      "title": "Villa Victoria",
+      "lat": -38.01968,
+      "lng": -57.55268,
+      "imageName": "Villa Victoria",
+      "provincia": "buenosaires",
+      "ciudad": "Mar del Plata",
+      "autor": "",
+      "uso": "Museo",
+      "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+      "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
+      "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
+      }
+      ,
+      {
+        "imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
+        "title": "Villa Victoria",
+        "lat": -38.01968,
+        "lng": -57.55268,
+        "imageName": "Villa Victoria",
+        "provincia": "buenosaires",
+        "ciudad": "Mar del Plata",
+        "autor": "",
+        "uso": "Museo",
+        "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+        "texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
+        "urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
+        }
+    
 ]
