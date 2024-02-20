@@ -366,7 +366,12 @@ a{
         cursor: pointer;
     }
 
+    .box{
+        
+        align-items: center;
+       }
     
+
 
     .moon:hover{
         transform: scale(1.1);
@@ -376,7 +381,12 @@ a{
 }
 
 @media only screen and (min-width: 1000px) {
-   
+   .box{
+    display: flex; 
+    align-items: center;
+   }
+
+
     .logo {
         max-height: 50px;
         transform: scaleX(1);
