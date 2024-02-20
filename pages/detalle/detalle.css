@@ -7,7 +7,7 @@
 }
 
 .detalle_titulo{
-
+font-size: xx-large;
 }
 
 .detalle_data_box_2{
@@ -15,7 +15,10 @@
     font-weight: bold;
 }
 .detalle_img{
-
+    width: 50vw;
+    height: 50vw;
+    max-width: 400px;
+    max-height: 400px;
 }
 
 .detalle_descripcion{

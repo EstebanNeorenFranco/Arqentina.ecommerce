@@ -6,7 +6,7 @@ const map = L.map('map').setView([-34.6118, -58.4173], 4);
 
 // Crea un ícono personalizado con tu imagen
 const customIcon = L.icon({
-  iconUrl: 'https://images.vexels.com/media/users/3/139158/isolated/preview/c862a3c9ef219140fb365301f9ebbd50-punto-negro.png',
+  iconUrl: './assets/homepage_images/Icono location.png',
   iconSize: [20, 20], // ajusta el tamaño según sea necesario
   iconAnchor: [15, 30], // punto de anclaje del ícono
   popupAnchor: [0, -30] // posición del popup en relación con el ícono

@@ -26,12 +26,17 @@ a{
 /*   HEAD   */
 @media only screen and (min-width: 0px) {
     .logo {
-        width: 10vw;
-        height: 10vw;
-        max-width: 50px;
         max-height: 50px;
-        transform: scaleX(-1);
+        transform: scaleX(1);
+        display: none;
     }
+
+    .minilogo {
+        max-height: 50px;
+        transform: scaleX(1);
+        visibility:visible;
+    }
+
     .hero {
         padding-top: 1vw;
     padding-bottom: 1vw;
@@ -268,6 +273,7 @@ a{
         align-items: center;
         gap: 30px;
     }
+
     
     .header_icons {
         display: inline;
@@ -370,12 +376,19 @@ a{
 }
 
 @media only screen and (min-width: 1000px) {
+   
     .logo {
-        width: 50px;
-        height: 50px;
-        transform: scaleX(-1);
+        max-height: 50px;
+        transform: scaleX(1);
+        visibility: visible;
+        display: flex;
     }
-    
+
+    .minilogo {
+        max-height: 50px;
+        transform: scaleX(1);
+        display: none;
+    }
     .hero {
         padding-top: 1vw;
         padding-bottom: 1vw;
@@ -385,8 +398,7 @@ a{
         max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
-        padding-left: 20px;
-        padding-right: 20px;
+        
         position: relative;
         border-bottom: 1px solid rgba(148, 148, 148, 0.07);
     }
