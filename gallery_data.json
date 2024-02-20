@@ -1,52 +1,783 @@
-[
-    {
-    "id": 1 ,
-    "imageSrc": "./assets/images/Banco de Londres - Rosario.jpg",
-    "title": "Ex Banco de Londres",
-    "lat": -32.9474,
-    "lng": -60.63984,
-    "imageName": "Ex Banco de Londres",
-    "provincia": "santafe",
-    "ciudad": "Rosario, Santa Fe",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "autor": "Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "uso": "Banco",
-    "texto": "En la esquina de Rioja y Mitre de la ciudad de Rosario, se encuentra el Ex Lloyds Bank, o Banco de Londres. Se emplaza en un lote de tres fachadas y precisamente es su exterior el que llama la atención. El edificio destaca notablemente del entorno por su lenguaje que le da una fuerte identidad. Se trata de un edificio brutalista, que, como su estilo indica, expone crudamente sus cualidades y elementos constructivos y es muy fiel al manifestar el camino de las cargas, colocando a este béton brut u hormigón crudo como estrella. La decisión de dejar a la vista como protagonista la estructura de sostén -este entramado de hormigón a 45 grados- hace que esta expresión sincera se convierta en el ícono más llamativo de la composición. Al observarlo, podemos llegar a descomponer los elementos estructurales y de a poco reconocer una especie de patrón. En el año 2004 el edificio fue comprado por el Banco Patagonia, empresa que podemos encontrar hoy allí.",
-    "urlInsta": "https://www.instagram.com/p/COIsxq7gNaQ/?img_index=1"
-    }
-    ,
-    {
-    
-    "id": 2,
-    "imageSrc": "./assets/images/Biblioteca Nacional - Buenos Aires.jpg",
-    "title": "Biblioteca Nacional Mariano Moreno",
-    "lat": -34.58444,
-    "lng": -58.39802,
-    "imageName": " Biblioteca Nacional Mariano Moreno ",
-    "provincia": "caba",
-    "ciudad": "Ciudad Autónoma de Buenos Aires",
-    "autor": "Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga",
-    "uso": "Biblioteca",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "texto": "La Biblioteca Nacional, creada por Mariano Moreno en 1810, resguarda los materiales con los que se han forjado las distintas épocas del país. El edificio actual cuenta con 6 pisos, 3 subsuelos para depósitos de libros, 9 salas de lectura (940 lectores), un auditorio y una Escuela de Bibliotecarios. Es uno de los edificios más curiosos de la Ciudad y genera opiniones muy diversas. Ganador del concurso de 1961, su elección se debió a su fuerte idea de implantación. Las salas de lectura se elevan como un mirador urbano y se entierran los programas pesados (depósito de libros, máquinas). De esta manera, los libros se protegen del efecto nocivo de la luz, se resuelve el peso que implican y se facilita la expansión de los depósitos a la vez que se crea una plaza pública. La gran explanada de acceso se constituye como parte fundamental, extendiendo la plaza y la vivencia del edificio hasta el último rincón. La nave se apoya sobre cuatro enormes núcleos lo que -según Testa-, recuerda a un cuadrúpedo y se la relaciona con el hallazgo de un gliptodonte al momento de la excavación. Las decisiones expresivas condicen con el brutalismo, corriente que muestra con honestidad los materiales y el camino de las cargas. Este edificio merece un análisis mayor sobre estas, ya que no por visibles son simples. El material estrella es nuevamente el hormigón armado. En 2013, según una encuesta realizada por el diario Clarín a 600 personas no especializadas en arquitectura, la Biblioteca Nacional fue elegida al mismo tiempo como el 4to edificio más lindo de la ciudad, y el 2do más feo, mostrando lo controversial de la obra.",
-    "urlInsta": "https://www.instagram.com/p/CPi4_NaAqF2/?img_index=1"
-    }
-    ,
-    {
-    "id": 3,
-    "imageSrc": "./assets/images/Cabildo - Buenos Aires.jpg",
-    "title": "Cabildo de Buenos Aires",
-    "lat": -34.60873,
-    "lng": -58.37378,
-    "imageName": "Cabildo de Buenos Aires",
-    "provincia": "caba",
-    "ciudad": "Ciudad Autónoma de Buenos Aires",
-    "autor": "",
-    "description": "📍 | Rosario, Santa Fe 🏗️ | Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
-    "uso": "Museo",
-    "texto": "El Cabildo es el símbolo de la Revolución de Mayo, pero tiene poco del que albergó el proceso de independencia nacional que comenzó en 1810. Ocupa el mismo lugar desde 1580. Nace como sede de la administración colonial. Para 1608, tenía paredes de adobe y techo de paja. Para 1614 por la cantidad de presos alojados, se destina a cárcel. Las reuniones de autoridades se realizaban en la casa del gobernador y el fuerte. Para 1725, el edificio estaba en muy mal estado y se demuele. Comenzó a levantarse uno nuevo, siguiendo el proyecto de Andrés Bianqui. En 1773 apareció la torre con cúpula de techo de lata. Después de la Revolución de Mayo, con el Cabildo como epicentro, el organismo se disuelve en 1821, y desde entonces se utilizó como edificio administrativo. En 1879, el arq Pedro Benoit diseñó una reforma integral en la que el Cabildo recibió un tratamiento italianizante. Los gustos por la moda europea hacían que la arquitectura colonial fuera pobre e insípida, y así el Cabildo fue disfrazado. Al abrir la Avenida de Mayo en 1889, el ing Juan Antonio Buschiazzo demuele los tres arcos del norte. También desaparece la torre, que con su excesivo peso ponía en peligro la estabilidad general. En 1931, demolieron los otros tres arcos del lado sur para abrir la diagonal Julio A. Roca. El edificio corría riesgo de desaparecer por completo. En 1933 se lo declaró Monumento Histórico Nacional y fue restaurado por el arq Mario Buschiazzo. Ni las ventanas, ni el portón, ni la fachada, ni la torre, ni el reloj son los originales de 1810. Pero la réplica reproduce el edificio colonial. La torre se reconstruyó en hormigón armado y se redujo con respecto al tamaño colonial para no quedar desproporcionada con el menor tamaño general. En la última etapa, con el arq Alejandro Bustillo, se remodeló la Plazoleta y sumó superficie al edificio para construir la Comisión Nacional de Museos, Monumentos y Lugares Históricos.",
-    "urlInsta": "https://www.instagram.com/p/CAn5FCCAkrg/?img_index=1"
-    }
-  
-]
+[ 
+{
+"id": "001",
+"imageSrc": "./assets/images/Banco de Londres - Rosario.jpg",
+"title": "Ex Banco de Londres",
+"lat": -32.9474,
+"lng": -60.63984,
+"imageName": "Ex Banco de Londres",
+"provincia": "santafe",
+"ciudad": "Rosario, Santa Fe",
+"autor": "Arqs. SEPRA (Sanchez Elia, Peralta Ramos y Agostini)",
+"uso": "Institucional",
+"texto": "En la esquina de Rioja y Mitre de la ciudad de Rosario, se encuentra el Ex Lloyds Bank, o Banco de Londres. Se emplaza en un lote de tres fachadas y precisamente es su exterior el que llama la atención. El edificio destaca notablemente del entorno por su lenguaje que le da una fuerte identidad. Se trata de un edificio brutalista, que, como su estilo indica, expone crudamente sus cualidades y elementos constructivos y es muy fiel al manifestar el camino de las cargas, colocando a este \"béton brut\" u \"hormigón crudo\" como estrella. La decisión de dejar a la vista como protagonista la estructura de sostén -este entramado de hormigón a 45 grados- hace que esta expresión sincera se convierta en el ícono más llamativo de la composición. Al observarlo, podemos llegar a descomponer los elementos estructurales y de a poco reconocer una especie de patrón. En el año 2004 el edificio fue comprado por el Banco Patagonia, empresa que podemos encontrar hoy allí.",
+"urlInsta": "https://www.instagram.com/p/COIsxq7gNaQ/?img_index=1"
+}
+,
+{
+"id": "002",
+"imageSrc": "./assets/images/Biblioteca Nacional - Buenos Aires.jpg",
+"title": "Biblioteca Nacional Mariano Moreno",
+"lat": -34.58444,
+"lng": -58.39802,
+"imageName": " Biblioteca Nacional Mariano Moreno ",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs. Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga",
+"uso": "Institucional",
+"texto": "La Biblioteca Nacional, creada por Mariano Moreno en 1810, resguarda los materiales con los que se han forjado las distintas épocas del país. El edificio actual cuenta con 6 pisos, 3 subsuelos para depósitos de libros, 9 salas de lectura (940 lectores), un auditorio y una Escuela de Bibliotecarios. Es uno de los edificios más curiosos de la Ciudad y genera opiniones muy diversas. Ganador del concurso de 1961, su elección se debió a su fuerte idea de implantación. Las salas de lectura se elevan como un mirador urbano y se entierran los programas pesados (depósito de libros, máquinas). De esta manera, los libros se protegen del efecto nocivo de la luz, se resuelve el peso que implican y se facilita la expansión de los depósitos a la vez que se crea una plaza pública. La gran explanada de acceso se constituye como parte fundamental, extendiendo la plaza y la vivencia del edificio hasta el último rincón. La nave se apoya sobre cuatro enormes núcleos lo que -según Testa-, recuerda a un \"cuadrúpedo\" y se la relaciona con el hallazgo de un gliptodonte al momento de la excavación. Las decisiones expresivas condicen con el brutalismo, corriente que muestra con honestidad los materiales y el camino de las cargas. Este edificio merece un análisis mayor sobre estas, ya que no por visibles son simples. El material estrella es nuevamente el hormigón armado. En 2013, según una encuesta realizada por el diario Clarín a 600 personas no especializadas en arquitectura, la Biblioteca Nacional fue elegida al mismo tiempo como el 4to edificio más lindo de la ciudad, y el 2do más feo, mostrando lo controversial de la obra.",
+"urlInsta": "https://www.instagram.com/p/CPi4_NaAqF2/?img_index=1"
+}
+,
+{
+"id": "003",
+"imageSrc": "./assets/images/Cabildo - Buenos Aires.jpg",
+"title": "Cabildo de Buenos Aires",
+"lat": -34.60873,
+"lng": -58.37378,
+"imageName": "Cabildo de Buenos Aires",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "",
+"uso": "Cultura",
+"texto": "El Cabildo es el símbolo de la Revolución de Mayo, pero tiene poco del que albergó el proceso de independencia nacional que comenzó en 1810. Ocupa el mismo lugar desde 1580. Nace como sede de la administración colonial. Para 1608, tenía paredes de adobe y techo de paja. Para 1614 por la cantidad de presos alojados, se destina a cárcel. Las reuniones de autoridades se realizaban en la casa del gobernador y el fuerte. Para 1725, el edificio estaba en muy mal estado y se demuele. Comenzó a levantarse uno nuevo, siguiendo el proyecto de Andrés Bianqui. En 1773 apareció la torre con cúpula de techo de lata. Después de la Revolución de Mayo, con el Cabildo como epicentro, el organismo se disuelve en 1821, y desde entonces se utilizó como edificio administrativo. En 1879, el arq Pedro Benoit diseñó una reforma integral en la que el Cabildo recibió un tratamiento italianizante. Los gustos por la moda europea hacían que la arquitectura colonial fuera pobre e insípida, y así el Cabildo fue disfrazado. Al abrir la Avenida de Mayo en 1889, el ing Juan Antonio Buschiazzo demuele los tres arcos del norte. También desaparece la torre, que con su excesivo peso ponía en peligro la estabilidad general. En 1931, demolieron los otros tres arcos del lado sur para abrir la diagonal Julio A. Roca. El edificio corría riesgo de desaparecer por completo. En 1933 se lo declaró Monumento Histórico Nacional y fue restaurado por el arq Mario Buschiazzo. Ni las ventanas, ni el portón, ni la fachada, ni la torre, ni el reloj son los originales de 1810. Pero la réplica reproduce el edificio colonial. La torre se reconstruyó en hormigón armado y se redujo con respecto al tamaño colonial para no quedar desproporcionada con el menor tamaño general. En la última etapa, con el arq Alejandro Bustillo, se remodeló la Plazoleta y sumó superficie al edificio para construir la Comisión Nacional de Museos, Monumentos y Lugares Históricos.",
+"urlInsta": "https://www.instagram.com/p/CAn5FCCAkrg/?img_index=1"
+  }
+,
+{
+"id": "004",
+"imageSrc": "./assets/images/Casa Beban Ushuaia.jpg",
+"title": "Antigua Casa Beban",
+"lat": -54.81278,
+"lng": -68.32096,
+"imageName": "Antigua Casa Beban",
+"provincia": "tierradelfuego",
+"ciudad": "Ushuaia",
+"autor": "",
+"uso": "Cultura",
+"texto": "La Casa Beban es una de las más antiguas de Ushuaia. Es de origen sueco, adquirida por catálogo y armada entre los años 1911 y 1913 por Tomás Beban, un inmigrante europeo dedicado al comercio marítimo. Está construida de madera y chapa y tiene 280 m2 cubiertos. Hasta 1915 funcionó allí el Banco Nación y luego fue residencia de la familia Beban hasta 1963. Años después, en ella se instala la primera clínica médica privada de Ushuaia y para los setenta, se transforma el edificio en el Hotel Las Goletas. Con el tiempo y la demanda de tierras en el centro de la ciudad, los propietarios deciden demolerla. Para los noventa, se instala una agencia de venta de automóviles. La Municipalidad de Ushuaia decide otorgarle una nueva vida, la familia Beban procede a su donación y es reconstruida en otro punto de la ciudad, durante 1993. Se reubica en un sector del espacio verde costero denominado \"Paseo de las Rosas\". Allí se reinaugura en 1994 transformándose en Centro Cultural y de Exposiciones. Fue declarada Patrimonio Cultural de la Ciudad de Ushuaia. Sus características arquitectónicas la hacen especial para la historia fueguina. La combinación de pendientes de los techos de chapa remata en una torrecilla octogonal y cuatro buhardillas, que se contrastan y acompañan por el frente, con sus detalles ornamentales de madera. Sus ventanales son característicos de la época.",
+"urlInsta": "https://www.instagram.com/p/B_k-BXPACgw/?img_index=1"
 
+}
+,
+{
+"id": "005",
+"imageSrc": "./assets/images/Casa de Gobierno de la Ciudad - Buenos Aires.jpg",
+"title": "Casa de Gobierno de la Ciudad",
+"lat": -34.6406,
+"lng": -58.40706,
+"imageName": "Casa de Gobierno de la Ciudad",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Foster & Partners",
+"uso": "Institucional",
+"texto": "En el 2010 el Banco Ciudad de BA llamó a concurso la construcción de su nueva sede. Se proyecta el edificio, pero en 2014, se decide convertirlo en la sede de la Jefatura de la CABA. Hoy funcionan aquí la Jefatura de Gobierno y otros ministerios y secretarías de la Ciudad. Abarca una manzana en Parque Patricios, colaborando con la regeneración del barrio. Combina un diseño ambientalmente eficiente con una distribución interna flexible, con niveles de trabajo en terrazas. La arquitectura se hace eco del entorno, respondiendo al parque vecino y usando materiales basados en el pasado industrial de la zona. Es un edificio limpio a la vista. Ese fue el objetivo del estudio: hormigón protagonista. Externamente, se caracteriza por su cubierta ondulante que fluye, apoyada en pilares con un saliente profundo para sombrear la plaza de entrada y las fachadas. En el interior, el techo abovedado está texturizado y expuesto. Se ingresa por un atrio de 4 pisos de altura. El perímetro acristalado garantiza luz natural y conexión visual con el parque. En el interior, bandejas de hormigón flotan dentro de este gran contenedor de vidrio y se aterrazan en dirección a la plaza. La continuidad visual permite una mejor conexión entre dependencias generando un sentimiento de comunidad. Solo en el último piso se colocaron módulos cerrados para los cargos más altos. Respondiendo a las condiciones climáticas locales, cada fachada es diferente. Además, se tienen en cuenta cuestiones de ahorro de energía, materiales, instalaciones eléctricas y sistemas de acondicionamiento de aire e iluminación natural. Así, recibió la certificación internacional LEED Gold (Liderazgo en Energía y Diseño Ambiental). Es el primer edificio público de Sudamérica en alcanzar ese nivel.",
+"urlInsta": "https://www.instagram.com/p/CBWptm5gIOS/?img_index=1"
+}
+,
+{
+"id": "006",
+"imageSrc": "./assets/images/Casa del Acuerdo - San Nicolas.jpg",
+"title": "Museo Nacional Casa del Acuerdo de San Nicolás",
+"lat": -33.3301,
+"lng": -60.21658,
+"imageName": "Museo Nacional Casa del Acuerdo de San Nicolás",
+"provincia": "buenosaires",
+"ciudad": "San Nicolás de los Arroyos",
+"autor": "",
+"uso": "Cultura",
+"texto": "El Cabildo de BA, la Casa de Tucumán y la Casa del Acuerdo fueron claves para el proceso constitucional. Los tres son hoy museos nacionales y monumentos históricos, que representan un período trascendental: la organización nacional. Después de derrotar a Rosas en la Batalla de Caseros, Urquiza reunió a los gobernadores de las provincias. El acuerdo de San Nicolás fue el primer precedente de la Constitución de 1853. Se firmó con fecha 31 de mayo de 1852, para que ingrese en los festejos de la Semana de Mayo. En el preámbulo de la Constitución se lo menciona como uno de los \"pactos preexistentes\". Nombró a Urquiza como director provisorio de la Confederación Argentina, puso en vigencia el Pacto Federal y llamó a un Congreso General Constituyente en Santa Fe. Fue ratificado por 13 de las 14 provincias argentinas. Buenos Aires se niega a participar. Se elige San Nicolás de los Arroyos como muestra de gratitud al vecindario que acompaña a Urquiza cuando se refugia en la isla Tonelero. Casas bajas, de madera y barro, sin un estilo arquitectónico definido, con habitaciones en hilera, ventanas a la calle y patios espaciosos, conformaban el común del poblado. La Casa pertenecía a Don Pedro Alurralde, Juez de Paz y amigo de Urquiza. Construida con ladrillos, baldosas coloradas, patio central con jazmines, madreselvas y estrellas federales, la casa constituye un ejemplo típico de vivienda urbana de mediados del siglo XIX. Durante varias décadas, no tuvo el mantenimiento adecuado y estuvo por destruirse. Se realizaron trabajos de restauración y desde 1937, allí se encuentra el Museo y Biblioteca de la Casa del Acuerdo de San Nicolás de los Arroyos.",
+"urlInsta": "https://www.instagram.com/p/CA3Xix1gPCz/?img_index=1"
+}
+,
+{
+"id": "007",
+"imageSrc": "./assets/images/Casa Lisardo Garcia - Ushuaia.jpg",
+"title": "Casa Lisardo García",
+"lat": -54.8132,
+"lng": -68.3211,
+"imageName": "Casa Lisardo García",
+"provincia": "tierradelfuego",
+"ciudad": "Ushuaia",
+"autor": "",
+"uso": "Cultura",
+"texto": "Fue construida por el maestro carpintero Lisardo García, español que dejó su impronta en varios edificios de la ciudad. Varios carpinteros trajeron a Ushuaia su vasta experiencia de Europa. Al llegar, debieron adaptar sus construcciones a las inclemencias del clima, a los materiales disponibles y a la especial forma de vivir de los lugareños. Esto conformó las características de la ciudad que vemos hoy. El estilo fueguino es heredado del Victoriano, que aplica las innovaciones de la Revolución Industrial en la construcción. Es así como se concibe desde las partes, permitiendo su traslado y posterior armado sencillo y rápido en el sitio. Estas características son óptimas para la isla, no solo por la influencia europea, sino como respuesta a los materiales disponibles, las condiciones climáticas agrestes y la dificultad para proveer otro tipo de materiales. La Arquitectura Fueguina y la Casa Lisardo Garcia como ejemplo estilístico, se caracterizan por la madera finamente torneada, la diversidad de ornamentos y barandas en puertas y ventanas y techos abuhardillados, necesarios por el clima. Sus últimos propietarios, la familia Mansilla Mansilla, la donaron a casi 100 años de su construcción para que se sume al \"Paseo Antiguos Pobladores\", como sede de la Cámara de Turismo de Tierra del Fuego. Para ello, se la debió trasladar. Se evaluó desarmarla en paneles para luego rearmarla en su destino, como ocurrió con la Casa Beban. Su mal estado de conservación llevó a realizar los apuntalamientos y flechados necesarios para que se la trasladara completa. Fue mudada a su destino final mediante el rodado sobre un carretón, pudiéndose vivenciar la antigua costumbre de ver las casas moviéndose de un lado hacia otro de la ciudad. Se la posicionó sobre una platea de hormigón debido al gran deterioro de los pilotes de madera y los pisos.",
+"urlInsta": "https://www.instagram.com/p/CvH3QnDO3MR/?img_index=1"
+}
+,
+{
+"id": "008",
+"imageSrc": "./assets/images/Casa sobre el arroyo - Mar del Plata.jpg",
+"title": "Casa sobre el Arroyo",
+"lat": -38.00825,
+"lng": -57.57389,
+"imageName": "Casa sobre el Arroyo",
+"provincia": "buenosaires",
+"ciudad": "Mar del Plata",
+"autor": "Amancio Williams, Delfina Gálvez Bunge",
+"uso": "Cultura",
+"texto": "Esta casa, ícono indiscutido de la arquitectura argentina, es conocida como \"Casa sobre el Arroyo\" o \"Casa del Puente\". Fue diseñada y construida entre 1943 y 1946 por los arquitectos Amancio Williams y Delfina Gálvez Bunge para el músico y compositor Alberto Williams. En 1977 fue declarada Monumento Histórico Artístico Nacional. Se encuentra emplazada en un terreno de dos hectáreas en el Parque Pereyra Iraola. El Arroyo de las Charcas divide el predio en dos y da origen y fuerza al proyecto: una casa-puente en altura que sortea este fenómeno natural. La propuesta se materializa en tres líneas básicas: el arco de apoyos articulados, el plano horizontal de la terraza y la caja que contiene el interior. El acceso se realiza por los apoyos, que permiten transitar el arco a través de las escaleras. Sus medidas acompañan la curvatura configurando la velocidad y el ritmo de la subida. La estructura se realiza de hormigón armado martelinado. El arco trabaja en conjunto con la losa principal mediante tabiques y vigas perimetrales (baranda/antepecho). Se libera la fachada generando un perímetro vidriado que vincula el interior con las copas de los árboles. El espacio interior se arma linealmente, delimitado por las escaleras y el mueble de placas de madera que separan el ámbito público del privado y de servicio. De este modo, el mobiliario y cada elemento que compone la casa se piensa en conjunto, generando su espacio característico. Al morir el compositor, la vivienda se vendió y fue sede de una radio para luego quedar deshabitada. Fue vandalizada y sufrió dos incendios que le generaron daños estructurales. En 2005, la propiedad pasó a ser tutelada por el municipio y en 2012 el Estado nacional compró la casa principal y la casa del casero y se los traspasó al gobierno municipal para convertirlos en museo. En 2023 concluyeron los trabajos de restauración para \"devolver la casa a su estado original\"",
+"urlInsta": "https://www.instagram.com/p/CxZKHIqPkFV/?img_index=1"
+}
+,
+{
+"id": "009",
+"imageSrc": "./assets/images/Centro Civico - Bariloche.jpg",
+"title": "Palacio Municipal",
+"lat": -41.13349,
+ "lng": -71.31021,
+"imageName": "Palacio Municipal",
+"provincia": "rionegro",
+"ciudad": "San Carlos de Bariloche",
+"autor": "Arq Ernesto de Estrada",
+"uso": "Institucional",
+"texto": "El Centro Cívico es un conjunto edilicio ubicado en la ciudad de Bariloche. El proyecto, del arquitecto Ernesto de Estrada, fue inaugurado en 1940 y fue declarado monumento histórico nacional en 1987. Es el primer centro cívico del país. Se dispone un conjunto en U, rodeando los tres laterales de la plaza \"Expedicionarios del desierto\". En las edificaciones encontramos: biblioteca, museo, municipalidad, correo, policía y aduana. El lado norte se abre al Lago Nahuel Huapi. La plaza está cubierta con pavimento de piedra laja, y en su centro se ubica un monumento del gral Julio A. Roca. En su concepción se buscó darle a la ciudad de un punto de interés arquitectónico que sirviera a su lanzamiento como centro turístico. También es el punto de partida que permite caracterizar muchas de las edificaciones del resto de la ciudad. Se construyó en hormigón armado con mampostería de ladrillo, se revistió con maderas de ciprés y con piedra toba color verde del Cerro Carbón. Los techos están recubiertos con pizarra negra, las carpinterías con marcos de incienso amarillo y hojas de roble y los pisos interiores con tablones de pinotea, mosaico granítico y piedra laja. El edificio ilustrado es la sede de la municipalidad. Mira hacia el norte, al lago. En su torre se ubica un enorme reloj, en el cual a las 12 del mediodía y a las 6 de la tarde aparecen 4 figuras: el indio, el misionero, el conquistador y el labrador. Talladas en madera, retratan la historia de los pobladores del lugar (habitantes originarios, misiones jesuitas, Campaña al Desierto, pobladores inmigrantes).",
+"urlInsta": "https://www.instagram.com/p/B_-xZgyAH7N/?img_index=1"
+}
+,
+{
+"id": "010",
+"imageSrc": "./assets/images/Centro Civico Bicentenario - Cordoba.jpg",
+"title": "Centro Cívico del Bicentenario",
+"lat": -31.41793,
+"lng": -64.17509,
+"imageName": "Centro Cívico del Bicentenario",
+"provincia": "cordoba",
+"ciudad": "Córdoba",
+"autor": "GGMPU; Lucio Morini",
+"uso": "Institucional",
+"texto": "El Centro Cívico de la Provinciacia de Córdoba se ubica en la costanera del río Suquía, a la vera del ex Ferrocarril Mitre, al este del centro de la ciudad. El proyecto contempla la construcción de 3 edificios (Gobernación, Ministerios y Centro de Convenciones), dos puentes sobre el Río Suquía y un helipuerto. Se busca nuclear a los empleados de la administración pública de la Provincia y generar un nuevo espacio para congresos y eventos. Además, su localización apunta a la recuperación del río para darle una nueva cara de la Ciudad y conectar el centro con barrios segregados por el abandono del río y la barrera que planteaba el ferrocarril. Encontramos dos edificios, uno más alto de proporciones robustas (el Panal) en contraste con otro muy bajo. Se relacionan a través de un espejo de agua muy poco profundo que los refleja y que en reuniones públicas se desagota transformándose en una gran plaza cívica. El Panal se materializa como un volumen de hormigón de planta cuadrada. A una cierta altura, la planta se rota 20º, generando un prisma facetado con distintas pendientes. Se perfora la superficie con un patrón básico romboidal. Esta trama que en realidad es un simple tabique perforado de hormigón autocompactante, funciona como parasol colaborando con el acondicionamiento climático interior. El edificio bajo tiene un claro desarrollo horizontal, con un perímetro de fachadas vidriadas protegidas por enredaderas de baja densidad. Su cubierta verde tiene amplios sectores de césped.",
+"urlInsta": "https://www.instagram.com/p/CAbGqOEArRU/?img_index=1"
+}
+,
+{
+"id": "011",
+"imageSrc": "./assets/images/Edificio Gomez - Mendoza.jpg",
+"title": "Edificio Gómez",
+"lat": -32.89091,
+"lng": -68.83898,
+"imageName": "Edificio Gómez",
+"provincia": "mendoza",
+"ciudad": "Mendoza",
+"autor": "Arq Manuel Civit",
+"uso": "Residencial",
+"texto": "En 1954, en una de las esquinas más reconocidas de Mendoza, se construye el edificio Gómez, el primer rascacielos de la ciudad, diseñado por el arquitecto Manuel Civit. Con 12 pisos y una altura de 34 metros, fue en el edificio más alto de la ciudad hasta los 90. También fue el primero en ser ocupado como propiedad horizontal. En este edificio comenzó sus transmisiones Canal 7 en el 1961, siendo el primer canal de televisión del oeste argentino.  Actualmente tiene los estudios de Radio Mitre FM100.3, y en el décimo piso de la torre funciona el café El Décimo. Influenciado por edificios neoyorquinos, se dice que es el mejor ejemplo del Estilo Internacional en Mendoza. Con esto, estamos hablando de que sus características formales recuerdan a las más puristas del Movimiento Moderno. Esto se aprecia en el cuerpo principal de hormigón armado, aunque también se combinan elementos de otras corrientes: texturas y repeticiones del brutalismo y ciertas reminiscencias del art déco. Destacan sus ventanas dispuestas horizontalmente, algo no muy común en esa época. Esto contrasta con el cuerpo de la torre, de un fuerte carácter vertical con elementos lineales enmarcando las ventanas. El remate se compone principalmente de acero y cristal. La antena se incluyó para las trasmisiones televisivas y le da un carácter distintivo, transformándolo en un hito de la ciudad. Debido a las condiciones de la zona, se construyó íntegramente con estructura sismorresistente. Su basamento se conformó con un sistema de rodillos, permitiendo que el edificio acompañe el movimiento sísmico. Fue declarado monumento histórico nacional en 2017.",
+"urlInsta": "https://www.instagram.com/p/B_GGiHRgISc/?img_index=1"
+}
+,
+{
+"id": "012",
+"imageSrc": "./assets/images/Edificio No Hi Ha - Buenos Aires.jpg",
+"title": "Edificio No Hi Ha Somnis Impossibles",
+"lat": -34.60937,
+"lng": -58.39609,
+"imageName": "Edificio No Hi Ha Somnis Impossibles",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Ing. Eduardo Rodríguez Ortega",
+"uso": "Residencial",
+"texto": "El edificio más allá de su frase motivadora en catalán que hoy llama la atención, posee una de las cúpulas más hermosas de la Ciudad de Buenos Aires y un estilo completamente reconocible. Fue construído hacia 1907 como edificio de rentas. Consta de una planta baja y entrepiso ocupados por un gran local comercial, 4 pisos de departamentos y una terraza. . Admirador del famoso arquitecto catalán Antonio Gaudí, el ingeniero Rodríguez Ortega diseñó el edificio en la época del Centenario de la Revolución de Mayo. Sus elegantes líneas rectas verticales y sus detalles ornamentales, nos llevan a apreciar su estilo Art Nouveau, difundido en un sector de la sociedad porteña que busca aires nuevos. En la ochava, encontramos una cúpula acebollada y multicolor que muestra perfectamente el estilo y la influencia de Gaudí, y muchos opinan que es de las más lindas de la Ciudad de Buenos Aires. En la construcción se utilizó ferrocemento, técnica constructiva que, hasta el momento, no había sido utilizada en construcciones locales. Abandonado y olvidado, el edificio (y sobre todo su cúpula) corrió riesgo de desaparecer. En 1999, la empresa que compra el cuarto piso, especialista en restauraciones, inicia las obras de recuperación del edificio. La frase \"No hi ha somnis impossibles\" que significa \"No hay sueños imposibles\" fue agregada por el arquitecto a cargo de la restauración, Fernando Lorenzo, en homenaje al arquitecto catalán.",
+"urlInsta": "https://www.instagram.com/p/B_A8IPIJEt3/?img_index=1"
+}
+,
+{
+"id": "013",
+"imageSrc": "./assets/images/Escuela Manuel Belgrano - Cordoba.jpg",
+"title": "Escuela Sup. de Comercio Manuel Belgrano",
+"lat": -31.40514,
+"lng": -64.20164,
+"imageName": "Escuela Sup. de Comercio Manuel Belgrano",
+"provincia": "cordoba",
+"ciudad": "Córdoba",
+"autor": "Arqs. Bidinost; Chute; Gasó; Lapacó; Meyer",
+"uso": "Educación",
+"texto": "La Escuela Superior de Comercio Manuel Belgrano es una institución educativa preuniversitaria, dependiente de la Universidad Nacional de Córdoba. Nació buscando dotar a sus egresados de un título técnico con salida laboral. Durante 30 años funcionó sin edificio propio. En el marco de las políticas desarrollistas del gobierno de Frondizi, la UNC llama a un concurso para el edificio en 1959. El primer premio lo recibe el proyecto que vemos hoy. Es uno de los mayores ejemplos de arquitectura Brutalista argentina, estilo que propone el uso del material en su máxima expresión (principalmente hormigón armado a la vista), en formas escultóricas y monumentales. Convive respetuosamente con el tejido residencial de baja altura y la escala que le proporciona el Río Suquía. Se implanta con un partido de vanguardia que relaciona la ciudad con su río. La entrada principal es por el sur, con una fachada protegida por una malla de hormigón que la cubre del granizo y las tormentas. Se organiza en 2 grandes planos: uno de apoyo a nivel del suelo para actividades no-docentes y otro principal con aulas y la terraza cubierta. Un segundo piso balconea al primer nivel con más aulas y gabinetes de ciencias. En el subsuelo hay cocheras, depósitos y salas de máquinas. La gran cubierta es la protagonista. Es estructura, imagen principal y cobijo de todo el programa que sucede debajo estructurado en pabellones. La enorme sombra actúa como límite virtual marcando el lugar de encuentro.",
+"urlInsta": "https://www.instagram.com/p/CHdtcw6gFut/?img_index=1"
+ }
+,
+{
+"id": "014",
+"imageSrc": "./assets/images/Estancia Jesuitica - Jesus Maria.jpg",
+"title": "Estancia Jesuítica Jesús María",
+"lat": -30.9709,
+"lng": -64.09749,
+"imageName": "Estancia Jesuítica Jesús María",
+"provincia": "cordoba",
+"ciudad": "Jesús María",
+"autor": "",
+"uso": "Culto",
+"texto": "La Estancia Jesuítica de Jesús y María, es una de las 5 estancias jesuíticas cordobesas. A pesar de ser la más pequeña, fue de las más productivas. Su ubicación no es fortuita: por allí pasaba el camino Real. La zona era conocida por los Sanavirones como Guanusacate (agua muerta o río seco). En 1618, el Padre Provincial Pedro de Oñate, compra las tierras en nombre de la Compañía de Jesús. Dedicada a la producción vitivinícola, llegaron a producir cerca 12.000 litros anuales. Alcanzaron tal fama que el lagrimilla fue el primer vino americano degustado en la mesa real de Felipe V. Además, disponían de granero, huerta y batán para abastecerse y colaborar con el mantenimiento económico del Colegio Máximo. Reunía a aborígenes asalariados y a cerca de 300 esclavos que llevaban la mayor carga de trabajo. Los esclavos vivían en habitaciones divididas según familias. El complejo estaba formado por: templo, residencia obraje (existentes), habitaciones de indígenas y esclavos (desaparecidas) y los campos de cultivo y pastoreo. Los ranchos destinados a indios y esclavos fueron cambiando por construcciones de ladrillo, piedra y teja. El patio central cerrado en dos costados por un claustro de dos niveles, las amplias galerías y los arcos de medio punto, cierran el estilo propio de la Compañía. La iglesia, de fachada sobria y nave única abovedada, muestra en su interior una importante cúpula central ornamentada con relieves que denotan las manos de los artistas aborígenes. Junto a la sacristía, la espadaña de piedra completa el conjunto. Luego de la expulsión de la Orden en 1767, la Estancia pasó a manos privadas. En 1941 fue adquirida por el gobierno nacional y declarada Monumento Histórico.",
+"urlInsta": "https://www.instagram.com/p/CB3pWaOgtGX/?img_index=1"
+}
+,
+{
+"id": "015",
+"imageSrc": "./assets/images/Facultad Arquitectura - Mendoza.jpg",
+"title": "Facultad de Arquitectura",
+"lat": -32.89492,
+"lng": -68.84167,
+"imageName": "Facultad de Arquitectura",
+"provincia": "mendoza",
+"ciudad": "Mendoza",
+"autor": "Arq. Enrico Tedeschi",
+"uso": "Educación",
+"texto": "Este edificio paradigmático de los 60 fue realizado por el arquitecto italiano Enrico Tedeschi, quien fue su proyectista y comitente, siendo decano fundador de la institución. Se implanta hacia el fondo de un lote profundo dando lugar a un gran espacio público de ingreso. Se impone por sobre el nivel de la vereda a partir de la diferencia de altura generada por las cotas naturales, otorgándole monumentalidad sin apelar a cambios de escala. La tecnología ocupa un lugar preponderante, ya que resuelve la totalidad del edificio, abarcando estructura, envolvente, control solar, lenguaje y funcionalidad. La estructura de hormigón prefabricado, pensada desde la etapa de pre-figuración, utiliza elementos diseñados para los tendidos eléctricos de la ciudad, y otros usados únicamente para este edificio. Las caras norte y sur se desarrollan a partir de un sistema de malla estructural desplegada, sostenidos por tabiques de hormigón revestidos en ladrillo visto que cierran las fachadas opuestas. Al norte, la línea de carpintería se retiró de la fachada, generando galerías de acceso a las aulas. La cubierta acompaña el ritmo de la malla. Funcionalmente las plantas son libres, con los sectores de servicio encolumnados. La simetría que se aprecia tanto en planta como en fachada se rompe por una sencilla escalera solo compuesta por huellas y vigas como sostén lateral. Fue declarada Monumento Histórico Nacional, ya que \"son pocos los edificios llevados a cabo con elementos industriales que logran llegar a un acabado de un tenor casi escultórico como éste, destacándose la escasez de piezas con los que se llega a la completitud de la obra\".",
+"urlInsta": "https://www.instagram.com/p/CD1aC0Ng0Ik/?img_index=1"
+}
+,
+{
+"id": "016",
+"imageSrc": "./assets/images/Facultad de Cs Exactas UBA - Buenos Aires.jpg",
+"title": "Facultad de Cs Exactas y Naturales UBA",
+"lat": -34.54249,
+"lng": -58.44281,
+"imageName": "Facultad de Cs Exactas y Naturales UBA",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel",
+"uso": "Educación",
+"texto": "A la Facultad de Ciencias Exactas y Naturales de la UBA se la conoce como \"Exactas\". Nació a fines de 1800, dando origen a la enseñanza de la ciencia en Argentina. Al momento de su creación, el Departamento de Ciencias Exactas ocupó parte de la sede de la UBA, instalada en la antigua Procuraduría Jesuítica en la Manzana de las Luces. Con el desarrollo del proyecto de la Ciudad Universitaria de la UBA, Exactas fue la primera en el orden de prioridad a la hora de asignar los nuevos edificios a construir en el terreno elegido. La Ciudad Universitaria surgió entre las ideas urbanísticas para Buenos Aires planteadas por Le Corbusier (1929), que se las contempla luego en el Plan Regulador de la Ciudad (1958). El proyecto fue elaborado a partir de un concurso internacional. Concebía un conjunto de 4 edificios, que serían entregados a las facultades más perjudicadas en ese momento en cuanto a espacio. Hoy Exactas tiene sede en los pabellones I, II y Cero+infinito. El pabellón ilustrado es el II. Se puede encuadrar dentro del \"International Style\" de los 50. La estructura, realizada íntegramente en hormigón armado, deja el material a la vista, y expresa sus capacidades tanto resistentes como plásticas. Se diseña con una simetría casi total, con un gran patio central que toma tres niveles de altura, y al cual balconean los pisos y entrepisos, estructurando el conjunto. Las losas se arman con un emparrillado de vigas de gran presencia. Claraboyas en el centro del patio dejan entrar luz natural.",
+"urlInsta": "https://www.instagram.com/p/Cp_T6BXut6T/"
+}
+,
+{
+"id": "017",
+"imageSrc": "./assets/images/Facultad de Derecho UBA - Buenos Aires.jpg",
+"title": "Facultad de Derecho UBA",
+"lat": -34.58233,
+"lng": -58.39163,
+"imageName": "Facultad de Derecho UBA",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs. Ochoa, Vinent y Chiappori",
+"uso": "Educación",
+"texto": "La Facultad de Derecho es una de las 13 facultades que conforman la UBA. Año a año, se gradúan unos 2.000 abogados y circulan más de 30.000 estudiantes por ciclo lectivo en sus aulas distribuidas en 40.000 m2. En ella se dictan 4 carreras de grado: Abogacía, Traductorado Público, Calígrafo Público y Profesorado Superior de Ciencias Jurídicas, junto a posgrados. El primer edificio propio que tuvo la institución se encontraba en Moreno 350. Luego se trasladó a la Av. Las Heras (actual sede de la Facultad de Ingeniería) y en 1949 se inaugurael edificio actual, sobre Figueroa Alcorta, proyectado por los arquitectos Ochoa, Vinent y Chiappori, ganadores del concurso de anteproyectos. Se emplaza en el terreno antes ocupado por los filtros de Obras Sanitarias de la Nación. El estilo elegido condice con corrientes de la época, momento en que la arquitectura albergaba dentro de sus edificios el mundo \"del hombre\" y el \"de las máquinas\". De este modo, encontramos un frente neoclásico que da acceso a un apoyo distinto, mucho más funcional y moderno. La elección del lenguaje de la fachada nos habla también del mensaje que se busca dar de Nación: una Nación imponente, con instituciones fuertes y confiables. La Piedra Mar Del Plata (elemento nativo) reviste al frontis y a sus columnas dóricas (remiten a la grandeza). El rumor dice que contarlas, asegura el fracaso universitario. Se los ahorro: son 14.",
+"urlInsta": "https://www.instagram.com/p/CTZ26lOAWOQ/?img_index=1"
+}
+,
+{
+"id": "018",
+"imageSrc": "./assets/images/Facultad Ingenieria UNR - Rosario.jpg",
+"title": "Escuela de Ingeniería Civil y Electrónica UNR",
+"lat": -32.96813,
+"lng": -60.62412,
+"imageName": "Escuela de Ingeniería Civil y Electrónica UNR",
+"provincia": "santafe",
+"ciudad": "Rosario",
+"autor": "Gerardo Caballero, Maite Fernández",
+"uso": "Educación",
+"texto": "La Facultad de Ciencias Exactas, Ingeniería y Agrimensura de la Universidad Nacional de Rosario (UNR) cuenta con dos sedes: el edificio histórico de 1929 en Av. Pellegrini 250 y un nuevo edificio en el Centro Universitario Rosario (conocido como la Siberia), donde también funcionan otras Facultades de la UNR. En el 1999 se llama a concurso para este último. La propuesta busca vincular la nueva Escuela de Ingeniería con los edificios existentes en la Ciudad Universitaria para que esta se sume al conjunto sin interferirlo visualmente. Ocupa poco más de 3 mil metros cuadrados. Al tratarse de un terreno muy amplio el edificio se desarrolla en sólo dos plantas. Así, se logra ahorrar en circulaciones y ampliar las aulas que tienen dimensiones de 10x10m en lugar de la tradicional medida de 7,20m de lado. La presencia en el lugar de siete ejemplares de Palos Borrachos alentó la idea de organizar el edificio en torno a ellos creando un patio exterior cerrado que sirve para recreación. Aprovecha los beneficios del cemento tanto como material constructivo, así como acabado estético. Los departamentos de investigación tienen una arquitectura tipo \"shed\" que permite el ingreso de luz natural y optimizar el consumo energético generando también un aspecto fabril. Las aulas se orientan al este con visuales al río. En la fachada principal se destaca un aventanamiento horizontal a dos alturas que acompaña al mobiliario interior y resalta el desarrollo horizontal del volumen.",
+"urlInsta": "https://www.instagram.com/p/CFaEXG8AaBx/?img_index=1"
+}
+,
+{
+"id": "019",
+"imageSrc": "./assets/images/Facultad Medicina UBA - Buenos Aires.jpg",
+"title": "Facultad de Medicina UBA",
+"lat": -34.59805,
+"lng": -58.39825,
+"imageName": "Facultad de Medicina UBA",
+"provincia": "buenosaires",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "",
+"uso": "Educación",
+"texto": "La Facultad de Ciencias Médicas es una de las trece que conforman la Universidad de Buenos Aires. Fue fundada en 1822. Su sede principal, inaugurada en 1944, se encuentra en la calle Paraguay 2155, frente a la Plaza Houssay, en el barrio porteño de Recoleta. Actualmente, es una de las más concurridas, con más de 41.000 alumnos. Hacia fines de la década del 30, todavía se entendía que la universidad debía estar inserta en la trama urbana. Entonces, se realiza un concurso en 1937 para su construcción, que establecía en sus bases la definición de un edificio en altura que ocupara toda una manzana. El proyecto ganador fue el de Rafael Sammartino, diseñado dentro de un \"estilo internacional\" de la época, que combinaba art déco tardío con rasgos funcionalistas y un carácter monumental. La forma del edificio central contaba con escalonamientos y pieles de mármol. Era una síntesis de los diversos lenguajes arquitectónicos que se estaban manejando para edificios universitarios en esos años, que iban desde el racionalismo náutico hasta un clasicismo minimalista.",
+"urlInsta": "https://www.instagram.com/p/CE_6FSPAb0X/?img_index=1"
+}
+,
+{
+"id": "020",
+"imageSrc": "./assets/images/Facultad Medicina UNR - Rosario.jpg",
+"title": "Facultad de Ciencias Médicas UNR",
+"lat": -32.94001,
+"lng": -60.66512,
+"imageName": "Facultad de Ciencias Médicas UNR",
+"provincia": "santafe",
+"ciudad": "Rosario",
+"autor": "",
+"uso": "Educación",
+"texto": "En 1911, como muchos otros hitos del país, nace el edificio que hoy se ubica en Santa Fe al 3100, junto con la idea de fundar un Hospital Escuela, en conmemoración del Centenario de la Independencia. Respondiendo también al gran crecimiento poblacional rosarino de principio de siglo. En 1968 debido a su gran crecimiento, la Facultad de Ciencias Médicas se independiza de la Universidad Nacional del Litoral pasando a ser parte de la Universidad Nacional de Rosario. El conjunto se constituye por cuatro manzanas entrelazadas por una calle y pabellones internos entre las distintas dependencias en donde también se encuentra el Hospital Provincial del Centenario además de áreas verdes y jardines. El edificio tiene un estilo neoclásico, acorde a los estilos dominantes de la época. La elección del mismo habla a quien lo mira de la grandeza que tiene la institución que alberga. El escultor y arquitecto Guillermo Gianninazzi realiza el Monumento a los Padres, que incluye a dos monstruos -como gárgolas- en el frontispicio. Este año 2020, la facultad cumplió formalmente 100 años, ya que fue fundada en 1920. Es la segunda facultad de ciencias médicas en cantidad de estudiantes en el país, albergando a más de 14 mil alumnos.",
+"urlInsta": "https://www.instagram.com/p/CF9z_UOAjik/"
+}
+,
+{
+"id": "021",
+"imageSrc": "./assets/images/FADU UBA - Buenos Aires.jpg",
+"title": "Facultad de Arquitectura, Diseño y Urbanismo UBA",
+"lat": -34.54112,
+"lng": -58.4438,
+"imageName": "Facultad de Arquitectura, Diseño y Urbanismo UBA",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs. Eduardo Catalano, Horacio Caminos, Eduardo Sacriste y Carlos Picarel",
+"uso": "Educación",
+"texto": "Se emplaza en el predio de Ciudad Universitaria, que surgió entre las ideas urbanísticas para Buenos Aires de Le Corbusier (1929), que se las contempla luego en el Plan Regulador de la Ciudad (1958). El proyecto fue elaborado a partir de un concurso internacional. Concebía un conjunto de cuatro edificios, que serían entregados a las facultades más perjudicadas en ese momento en cuanto a espacio. La primera facultad en recibir su edificio fue la de Ciencias Exactas y Naturales. En 1966 cedió el segundo piso de su Pabellón 2 a Arquitectura luego del incendio de los galpones de Figueroa Alcorta. Por esto, en 1971 la Facultad de Arquitectura y Urbanismo recibió -inconcluso- el Pabellón 3, que originalmente estaba reservado para Filosofía y Letras. Los otros pabellones nunca se terminaron.El edificio se puede encuadrar dentro del International Style muy difundido en los 50.La estructura, realizada íntegramente en hormigón armado, deja el material a la vista, y expresa sus capacidades tanto resistentes como plásticas. Se diseña con una simetría casi total, con un gran patio central que toma tres niveles de altura, y al cual balconean los pisos y entrepisos, estructurando el conjunto. Las losas se arman con un emparrillado de vigas de gran presencia. Para iluminar el patio central, se arman claraboyas, dejando entrar la luz natural.El único elemento que rompe la simetría general del edificio es el acceso principal, que se agregó a fines de los 80. Se da lateralmente por el norte, a través de una plataforma exterior con escalinata. Un gran cambio en su fachada se dio en 1992 cuando se retiraron los parasoles de cemento del perímetro, a causa de la corrosión por falta de mantenimiento y la mala calidad de su prefabricación.",
+"urlInsta": "https://www.instagram.com/p/CDWZ7jAgot1/?img_index=1"
+}
+,
+{
+"id": "022",
+"imageSrc": "./assets/images/FAPYD UNR - Rosario.jpg",
+"title": "FCPOLIT + FAPYD UNR",
+"lat": -32.96793,
+"lng": -60.62294,
+"imageName": "FCPOLIT + FAPYD UNR",
+"provincia": "santafe",
+"ciudad": "Rosario",
+"autor": "",
+"uso": "Educación",
+"texto": "La Ciudad Universitaria de Rosario, conocida como La Siberia se ubica al sur del distrito centro de la ciudad. El término \"Siberia\" se adopta porque se trataba de un lugar desolado, con mínima urbanización y rodeado de terrenos baldíos. La Facultad de Ciencias Políticas y Relaciones Internacionales (FcPolit) depende de la Universidad Nacional de Rosario. Nace en 1929, y en 1989 adquirió su edificio propio en este predio. Existen solo tres universidades públicas en Argentina con la carrera de Relaciones Internacionales, y la UNR es una de ellas. La Facultad de Arquitectura, Planeamiento y Diseño (FAPyD) también pertenece a la UNR. En 1923 se abre la carrera de Arquitectura en la Facultad de Cs Matemáticas de la Universidad Nacional del Litoral. En 1971 se crea la Facultad de Arquitectura dentro de la UNR, que se había desprendido de la del Litoral y en 1988 se traslada a su sede actual. Estos edificios análogos forman parte de un conjunto, en el que el volumen más septentrional pertenece a la FcPolit y los dos restantes a la FAPyD, con su rectorado al centro. Se disponen perpendiculares a la dirección del río. Los edificios están conectados por terrazas a la manera de puentes. Se accede a las mismas desde unas escalinatas que caracterizan la imagen de las instituciones. Debajo de ellas se ubican diversas funciones: oficinas de posgrados, salones, biblioteca. Se escalonan en dirección al río, donde se ubican las aulas más pequeñas en FAPyD y el bar en FcPolit. Esta operación también existía en el lado opuesto de los volúmenes largos, pero hoy lo vemos rectificado. Al tercer piso se le realiza un revestimiento metálico blanco. Debajo, se completa con ventanales. Se le genera una fachada principal (en hormigón) de color blanca al volumen central, siendo el espacio donde se coloca el nombre de la FAPyD. El lenguaje lateral de los tres volúmenes es similar, con una estructura de hormigón que se arma con un ritmo definido y cuyo cerramiento depende de la función a desempeñar.",
+"urlInsta": "https://www.instagram.com/p/CERj8kagEi-/?img_index=1"
+}
+,
+{
+"id": "023",
+"imageSrc": "./assets/images/FAU UNT - Tucuman.jpg",
+"title": "Facultad de Arquitectura y Urbanismo UNT",
+"lat": -26.84187,
+"lng": -65.22951,
+"imageName": "Facultad de Arquitectura y Urbanismo UNT",
+"provincia": "tucuman",
+"ciudad": "San Miguel de Tucumán",
+"autor": "",
+"uso": "Educación",
+"texto": "La institución surge en 1939 como \"Escuela de Arquitectura\" dentro de la Facultad de Ingeniería. Fue impulsada por los arquitectos Cavagna y Moyano Navarro a quienes se incorporan grandes referentes del Movimiento Moderno: los arquitectos Eduardo Sacriste, Horacio Caminos, Hilario Zalba y Jorge Vivanco. Ellos fueron los impulsores de la fundación, en el 1945, del Instituto de Arquitectura y Urbanismo. \"La Escuela de Arquitectura de Tucumán\", como se la conocía internacionalmente, se erigió fuertemente bajo los postulados del Movimiento Moderno, logrando un gran reconocimiento por la revolución en los métodos de enseñanza, incorporando el sistema de talleres y la teoría y práctica del Urbanismo. A mediados de los años 40, se decide realizar un megaproyecto de una Ciudad Universitaria siguiendo las ideas planteadas por dicho Movimiento. Para su localización se eligen terrenos en San Javier, a más de 30 km de la capital provincial. El proyecto estuvo a cargo de los arquitectos Horacio Caminos, Eduardo Sacriste y Jorge Vivanco. La construcción se paralizó en 1951. En 1952, se crea la \"Facultad de Arquitectura y Urbanismo\". Durante los 60s se retoma la idea de construir la sede de la universidad como conjunto. Esta vez se elige una ubicación de mayor accesibilidad: la ex Quinta Agronómica, propiedad de la UNT. El \"Centro Universitario Ing. Roberto Herrera\" fue inaugurado en 1971. Dentro del conjunto, encontramos el edificio actual de la Facultad de Arquitectura y Urbanismo. Al edificio original de aproximadamente 5500 m2 cubiertos, se le fueron agregando nuevas construcciones para acompañar el crecimiento de la matrícula estudiantil: el \"Block nuevo\" (donde funcionan Talleres de Proyectos), el Aula Magna y las Aulas de Posgrado.",
+"urlInsta": "https://www.instagram.com/p/CECdCfFgAsY/?img_index=1"
+}
+,
+{
+"id": "024",
+"imageSrc": "./assets/images/Hospital naval - Buenos Aires.jpg",
+"title": "Hospital naval",
+"lat": -34.60534,
+"lng": -58.43289,
+"imageName": "Hospital naval",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs Clorindo Testa, Héctor César Lacarra, Juan Genoud",
+"uso": "Salud",
+"texto": "En el 1970, la Secretaría de Estado de Marina organiza el concurso que otorga el primer puesto al proyecto hoy construido. El edificio se encuentra en el perímetro exterior del Parque Centenario, próximo a otros establecimientos de salud en una manzana trapezoidal atípica que responde a la forma circular del parque. A su lenguaje se lo encuadra dentro de la corriente brutalista, a la vez que forma parte de la impronta personal de Clorindo Testa. Se busca que las áreas funcionales sean versátiles, por posibles cambios técnicos en el tiempo. La planta baja resuelve los accesos, en los dos subsuelos se encuentran los servicios generales, consultorios externos y salas de radioterapia. El primer piso está destinado a los laboratorios y el segundo a los quirófanos y terapia intensiva. Los cuatro niveles superiores se utilizan para internación en las habitaciones de ventanas redondas. La forma del hospital sin duda recuerda a un barco. Para ello se recurrió a elementos formales alusivos a la náutica como las ventanas de ojos de buey con parasoles curvos, las costillas de la estructura, las líneas aerodinámicas en los descansos curvos de la escalera lateral y la disminución del volumen construido cercano al plano de la tierra, junto a los tanques con forma de chimeneas. La estructura es de hormigón armado, con carpinterías metálicas y revestimientos cerámicos. El color es muy importante. Los cerámicos exteriores celestes reflejan la luz solar y hacen de plano neutro para los parasoles amarillos y para las estructuras de hormigón blanco. En el interior, el degradado del amarillo al naranja destaca los conductos de instalaciones visibles y el solado de goma de alto tránsito verde unifica la planta.",
+"urlInsta": "https://www.instagram.com/p/CGXtQJIgtAN/?img_index=1"
+}
+,
+{
+"id": "025",
+"imageSrc": "./assets/images/Hotel Provincial - Mar del Plata.jpg",
+"title": "Hotel Provincial",
+"lat": -38.00651,
+"lng": -57.54134,
+"imageName": "Hotel Provincial",
+"provincia": "buenosaires",
+"ciudad": "Mar del Plata",
+"autor": "Arq Alejandro Bustillo",
+"uso": "Turismo",
+"texto": "Junto a su hermano mellizo (el Casino) y la rambla en la que descansan, fueron diseñados por Alejandro Bustillo. El proyecto fue pedido por el gobierno de la pcia de Buenos Aires en 1937. La obra duró 10 años y el Hotel se inauguró en 1950. La empresa Hotelera Americana recibió su concesión en 1984, y la mantuvo hasta 1998, mientras el hotel fue cayendo en la decadencia. Quedó cerrado hasta que la cadena NH Hoteles ganó un concurso de licitaciones en 2004. Hoy está abierto al público. Pensado para la alta sociedad argentina del momento, sus detalles de lujo todavía hoy son increíbles. Por ejemplo, los huéspedes podían hacerse baños con agua de mar en sus habitaciones. En cada baño había un doble comando para elegir entre usar agua dulce o salada. Bustillo usó su característico estilo neoclásico, sumado a una fuerte imagen francesa, adaptado según sus propias palabras al entorno local. Con una composición clásica, la fachada se compone de un basamento revestido en piedra Mar del Plata, con galería cubierta; un desarrollo revestido en ladrillo a la vista, con ornamentos y pilastras en piedra Mar del Plata, y un remate en mansarda de pizarra negra. Al caminar por la zona vemos la fuerza del conjunto edilicio. En nosotros, genera un sentimiento de pequeñez frente a semejante grandeza. En el entorno, su presencia hizo que los vecinos adoptaran el estilo propuesto y se vean varias mansardas parisinas y paredes de ladrillo visto que dan identidad a la ciudad costera argentina por excelencia.",
+"urlInsta": "https://www.instagram.com/p/CAQud0EA_dq/?img_index=1"
+}
+,
+{
+"id": "026",
+"imageSrc": "./assets/images/Iglesia compañia de jesus - Cordoba.jpg",
+"title": "Iglesia de la Compañía de Jesús",
+"lat": -31.41804,
+"lng": -64.18641,
+"imageName": "Iglesia de la Compañía de Jesús",
+"provincia": "cordoba",
+"ciudad": "Córdoba",
+"autor": "",
+"uso": "Culto",
+"texto": "En 1599 la Compañía de Jesús llega a Córdoba y construye el complejo que hoy se conoce como la \"Manzana Jesuítica\". A partir de 1608 inician las obras de edificación. La Iglesia de la Compañía de Jesús es entonces la Iglesia más antigua de la ciudad. Su proyecto se atribuye a Bartolomé Cardenosa y Felipe Lemer. Su construcción se llevó a cabo entre los años 1640 y 1676 y en ella participaron europeos, nativos y esclavizados africanos. Presenta un atrio de ingreso que da la bienvenida al espectador. Detrás de éste se observan tres puertas: la principal (de acceso a la nave central), la izquierda (de ingreso a la Universidad) y la derecha (de ingreso a la capilla de Naturales). Sus muros son de piedra recortada, obtenida de la ladera de las sierras. La falta de recubrimiento deja ver su particularidad: una serie de huecos que aún no se sabe a ciencia cierta su función. La fachada se completa con cinco ventanas para ingreso de luz y dos torres campanario. La planta se conforma como una típica planta de cruz latina, con su nave principal y crucero. En la intersección de ambos surge la cúpula. Con la expulsión de los jesuitas en 1767, se marcan dos momentos claros que se pueden observar en el interior: un primer momento colonial de estilo barroco, contrapuesto con el estilo neoclásico de mediados de siglo XIX, momento en que la Compañía vuelve a Córdoba. Diseñada por Philippe Lemaire SJ, la bóveda está enteramente conformada en madera a través de una serie de arcos de medio punto armados con un sistema de encastre. Los espacios libres existentes entre los arcos fueron cubiertos transversalmente con tablas, ornamentadas por dibujos con formas de vegetales. Fue transportada desde las misiones del noreste argentino en partes separadas. Esta tipología estructural toma conceptos de la construcción de cascos de barcos. Invirtiéndolo se logran tomar las luces necesarias. Actualmente es administrada por la Orden. Fue declarada Patrimonio de la Humanidad por la Unesco en el 2000.",
+"urlInsta": "https://www.instagram.com/p/CvDAgN3u8oz/?img_index=1"
+}
+,
+{
+"id": "027",
+"imageSrc": "./assets/images/Iglesia de San Francisco - Salta.jpg",
+"title": "Basílica de San Francisco",
+"lat": -24.79033,
+"lng": -65.40819,
+"imageName": "Basílica de San Francisco",
+"provincia": "salta",
+"ciudad": "Salta",
+"autor": "Arq. Fray Vicente Muñoz; Arq. Fray Luis Giorgi",
+"uso": "Culto",
+"texto": "En 1582 Hernando de Lerma, fundador de Salta, junto a Fray Francisco de Vittoria, Obispo de Salta, asignan un solar destinado a la Iglesia y convento San Francisco. Asi comienza la construcción de la primera iglesia, en barro y caña. Al poco tiempo, colapsa debido a un sismo. Se inicia entonces la construcción de la segunda iglesia, construida de madera. Esta también fue destruida, luego de un incendio. La actual es la tercera iglesia, iniciada en 1759. El arquitecto fray Vicente Muñoz proyecta la iglesia y el convento con paredes de piedra y ladrillo de aproximadamente un metro y medio de espesor y mezcla a la cal con techos realizados en bóveda de crucería. El estilo arquitectónico que se destaca es neoclásico colonial y barroco. En el 1772 la Iglesia y parte del convento quedaron totalmente devastados por un nuevo incendio. Su reconstrucción fue muy lenta porque el ingreso de los padres franciscanos es mediante la caridad. La Iglesia y el Convento empiezan a recobrar vida con la llegada de misioneros italianos en el año 1857. Entre ellos llega el Padre Fray Luis Giorgi, escultor y arquitecto italiano. A él se le deben el decorado y restauración del interior de la Basílica y su llamativo frente. La Basílica posee una sola nave, a la que se ingresa por una entrada de triple arco. Tiene una longitud de 50 metros de largo, por unos 10 de ancho, aproximadamente. Al final del crucero se encuentra la cúpula estilo colonial diseñada por Fray Vicente Muñoz. Tiene entre 9 y 10 metros de diámetro y se eleva a 24 metros de altura. La nave culmina con un amplio presbítero donde se destaca el altar mayor, rico en mármoles de distintos colores. El 14 de julio de 1941 fue declarada monumento histórico nacional.",
+"urlInsta": "https://www.instagram.com/p/B-2pPpiAB4Z/?img_index=1"
+}
+,
+ {
+"id": "028",
+"imageSrc": "./assets/images/Iglesia del Espiritu Santo - San Nicolas.jpg",
+"title": "Parroquia del Espiritu Santo",
+"lat": -33.37779,
+"lng": -60.17687,
+"imageName": "Parroquia del Espiritu Santo",
+"provincia": "buenosaires",
+"ciudad": "San Nicolás de los Arroyos",
+"autor": "Arq. Mario Luis Magni",
+"uso": "Culto",
+"texto": "Construida en 1964 e inaugurada en 1979, se emplaza a las afueras de la ciudad de San Nicolás en el Barrio Somisa creado por la fábrica (en su momento) estatal que le da origen y nombre. Sus siglas nos hablan de su producto, siendo SoMiSA \"Sociedad Mixta Siderúrgica Argentina\". La empresa se encuentra totalmente arraigada en la sociedad, tal es así que la iglesia que se construye para los pobladores del barrio obrero es un símbolo en sí, construida del material que produce la empresa, el acero. La estructura es básicamente de acero producido en la planta. En sus muros y en las terminaciones se utilizaron paneles de chapa estampada, y el revestimiento es de hierro. Se comprende el nombre de Templo del Espíritu Santo al ingresar. A pesar de no poseer Su imagen típica, presenta enormes vitrales que representan la presencia envolvente el Espíritu de Dios cuando son atravesados por la luz del sol. De noche, el efecto contrario se percibe a lo lejos. El Espíritu Santo irradia hacia el exterior Su fuego, y nos invita a participar de la misa. El altar es un bloque de mármol travertino de San Luis. Sobre este se encuentra suspendida una enorme cruz. Detrás, vemos las imágenes de Cristo y de la Virgen María. Alrededor de Cristo vemos los colores del fuego del Espíritu Santo, y es de donde nace la irradiación de colores cálidos en los vitreaux. Los Apóstoles se encuentran representados en un bajo relieve al fondo.",
+"urlInsta": "https://www.instagram.com/p/B_LNqSJgo3O/?img_index=1"
+}
+,
+{
+"id": "029",
+"imageSrc": "./assets/images/Iglesia Ntra Sra de la Asuncion - Cordoba.jpg",
+"title": "Iglesia Ntra Sra de la Asunción - Catedral de Córdoba",
+"lat": -31.41684,
+"lng": -64.18448,
+"imageName": "Iglesia Ntra Sra de la Asunción - Catedral de Córdoba",
+"provincia": "cordoba",
+"ciudad": "Córdoba",
+"autor": "",
+"uso": "Culto",
+"texto": "Como en toda ciudad colonial, en el solar reservado para la Iglesia Mayor inició en 1599 la construcción de una primera iglesia donde se ubicaba un rancho de barro y paja. En 1677 esta primera construcción se derrumbó. Se inició la construcción del edificio que vemos hoy, que fue levantada por trabajadores indígenas, mestizos y criollos, bajo la dirección de los alarifes de turno. Se llamó al Arq. José González Merguete para sortear algunas dificultades y es a quien se le atribuyen las bases y gran parte de las mamposterías. Sucedieron varios otros alarifes y en 1724 ocurrió un derrumbe parcial. En 1729 se le pide al jesuita Andrés Blanqui que se haga cargo de la obra. A él se le deben los trazos jesuíticos, la fachada, las naves, los cruceros y el uso de las piedras, el ladrillo y la argamasa que mezcla cal de las sierras de Córdoba con una pasta de tuna para obtener un cemento durísimo e impermeable. El fray Vicente Muñoz diseñó y dirigió la construcción de la cúpula. Presenta cuatro torres octogonales de ángulo como refuerzo del tambor, a la manera románica. No guarda relación en estilo o tamaño con el resto del edificio. Las torres fueron construidas entre 1761 y 1770. Sus aristas son cuidadas por ángeles con rasgos indígenas. Entre ellas, en 1901 se colocó un Cristo Redentor traído de Francia. La Catedral se inauguró el 25 de mayo de 1758, sin las torres. Recién en 1784 fue consagrada como Catedral por el obispo de San Alberto, siendo por entonces gobernador intendente el Marqués de Sobremonte. Sus tres naves interiores fueron decoradas a principios del Siglo XX con la dirección de Emilio Caraffa. Las bóvedas son adornadas por \"marouflages\", telas pintadas en el piso que luego fueron aplicadas. En 1578 la Catedral fue inaugurada y en 1784 fue consagrada como Catedral. En 1941 fue declarada Monumento Histórico Nacional y es un reflejo de un largo proceso de construcción en el que cada parte interviniente dio su aporte, resultando en la superposición de estilos y lenguajes que llega a nuestros días.",
+"urlInsta": "https://www.instagram.com/p/Cuk04AMOfxW/?img_index=1"
+}
+,
+{
+"id": "030",
+"imageSrc": "./assets/images/Monumento a la Bandera - Rosario.jpg",
+"title": "Monumento a la Bandera",
+"lat": -32.94771,
+"lng": -60.63046,
+"imageName": "Monumento a la Bandera",
+"provincia": "santafe",
+"ciudad": "Rosario",
+"autor": "Arq: Ángel Guido; Alejandro Bustillo; Esc: José Fioravanti; Alfredo Bigatti; Eduardo Barnes",
+"uso": "Monumento",
+"texto": "En la barranca del río Paraná, el Monumento se emplaza donde existió la Batería Libertad, que, junto con la Batería Independencia, estaban destinadas a impedir el paso de las naves realistas. Representa la gesta de la creación de la Bandera Nacional. Flameada por primera vez aquí en 1812 por el General Manuel Belgrano. En 1940, se llama a un concurso para su realización. El primer lugar se lo lleva la propuesta que vemos hoy. El conjunto simboliza la nave de la Patria surcando las aguas del mar de la eternidad en procura de un destino glorioso. A través de los conjuntos escultóricos se representan valores de nuestra nación. Está construido en hormigón armado, revestido en mármol travertino. Se compone de un eje longitudinal con la Torre Central, el Propileo Triunfal de la Patria (con la Galería de Honor de las Banderas de América) y la Escalinata Cívica Monumental. La Torre Central tiene 75m. En su base, la proa de la nave victoriosa (la Patria), adornada a los costados por esculturas de los dioses del Océano Atlántico (Bigatti) y del Río de la Plata (Fioravanti). Guía esta nave la escultura monumental de la Patria Abanderada (Bigatti). Debajo de la Torre, está la Cripta de Belgrano, enmarcada por una figura del General en bronce (Fioravanti). La Torre cuenta con un mirador, con vista panorámica hacia el río y la ciudad.",
+"urlInsta": "https://www.instagram.com/p/B_0aut2gtXk/?img_index=1"
+}
+,
+{
+"id": "031",
+"imageSrc": "./assets/images/Municipalidad - LAprida.jpg",
+"title": "Municipalidad de Laprida",
+"lat": -37.54481,
+"lng": -60.8004,
+"imageName": "Municipalidad de Laprida",
+"provincia": "buenosaires",
+"ciudad": "Laprida",
+"autor": "Arq. Francisco Salamone",
+"uso": "Institucional",
+"texto": "",
+"urlInsta": ""
+}
+,
+{
+"id": "032",
+"imageSrc": "./assets/images/Municipalidad - Rauch.jpg",
+"title": "Municipalidad de Rauch",
+"lat": -36.7752,
+"lng": -59.08624,
+"imageName": "Municipalidad de Rauch",
+"provincia": "buenosaires",
+"ciudad": "Rauch",
+"autor": "Arq. Francisco Salamone",
+"uso": "Institucional",
+"texto": "",
+"urlInsta": ""
+}
+,
+{
+"id": "033",
+"imageSrc": "./assets/images/Municipalidad - Tornquist.jpg",
+"title": "Municipalidad de Tornquist",
+"lat": -38.10052,
+"lng": -62.22148,
+"imageName": "Municipalidad de Tornquist",
+"provincia": "buenosaires",
+"ciudad": "Tornquist",
+"autor": "Arq. Francisco Salamone",
+"uso": "Institucional",
+"texto": "Francisco Salamone fue un arquitecto italo-argentino, que construyó en cuatro años (1936-1940) más de 60 edificios en 25 municipios de la Pcia de Buenos Aires, principalmente palacios municipales, cementerios y mataderos. El gobernador Manuel Fresco le encargó el trabajo de realizar edificios públicos en la Pampa, dándole total libertad para sus proyectos. El objetivo era fomentar el crecimiento de algunas pequeñas ciudades del interior, generar trabajo para combatir la desocupación producto de la Gran Crisis y revertir el éxodo de la población rural a las grandes ciudades. Su estilo arquitectónico se caracteriza por torres altas, líneas rectas y simetría. La monumentalidad resalta frente a las casas bajas de los pueblos. Así se convierten en un símbolo del paisaje bonaerense, mostrando la fuerte presencia del Estado argentino de la década del 30’. Junto al monumentalismo modernista se combinan el art decó, el futurismo, el funcionalismo y el Neofuturismo italiano. Siendo el hormigón armado siempre protagonista. En Tornquist, una ciudad de 12 mil habitantes al sudoeste de la Pcia de Buenos Aires, Salamone diseñó este edificio donde funciona el Estado Municipal y el Concejo Deliberante. Lo destacado de la fachada es la elevación de hormigón de 15m que remata en tres puntas. La torre es el elemento que otorga presencia institucional y el reloj es quien determina el orden a seguir, en un territorio que sigue los ritmos de la agricultura y la ganadería.",
+"urlInsta": "https://www.instagram.com/p/B_ssfo9AoIg/?img_index=1"
+}
+,
+{
+"id": "034",
+"imageSrc": "./assets/images/Museo Larreta - Buenos Aires.jpg",
+"title": "Museo de Arte Español Enrique Larreta",
+"lat": -34.56127,
+"lng": -58.45562,
+"imageName": "Museo de Arte Español Enrique Larreta",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arq. Martín Noel",
+"uso": "Cultura",
+"texto": "El Museo de Arte Español Enrique Larreta posee una gran variedad de objetos del Renacimiento y Barroco español que abarcan desde el medioevo hasta principios del siglo XX: mobiliario, tapices, armas, cerámica, pinturas y esculturas. Todos ellos fueron adquiridos por Enrique Larreta mientras se desempeñaba como Ministro Plenipotenciario y residía en Francia. La casa tomó su forma actual tras una reforma realizada por el arquitecto Martín Noel en 1916. La elección del estilo Neocolonial responde a las ideas de la época, que buscaban reforzar la esencia nacional. El arquitecto fue un defensor y propulsor del mismo. Vemos este estilo en cada uno de los sectores. El pórtico barroco de ingreso imita al de la desaparecida Casa Basavilbaso, conocida como Aduana Vieja. El frente remite a lo colonial con sus paredes lisas y blancas rematadas por el techo de tejas de gambas y sus ventanas enrejadas y herrerías. En la remodelación se incorporaron habitaciones, áreas de servicio y se cubrió el patio central. Se sumó también el característico Jardín Andaluz, diseñado según la tradición hispano-islámica, como un lugar para la meditación. El pórtico de acceso al jardín está adornado con pequeñas cerámicas granadinas cuadradas, blancas y azules, que se intercalan con las baldosas color ladrillo. Como los jardines de su tipo, busca que el visitante despierte sus sentidos, con los perfumes de las plantas y el sonido relajante del agua que corre. El museo tiene 12 salas de exposiciones. En 1961, al fallecer Larreta, sus hijos vendieron la casa a la Municipalidad de la Ciudad de Buenos Aires, con la finalidad de dedicarla como museo y donaron la colección. Al año siguiente, el Museo abrió oficialmente sus puertas.",
+"urlInsta": "https://www.instagram.com/p/Cuxb3cBvNVp/?img_index=1"
+}
+,
+{
+"id": "035",
+"imageSrc": "./assets/images/Museo MALBA - Buenos Aires.jpg",
+"title": "MALBA",
+"lat": -34.5769,
+"lng": -58.40339,
+"imageName": "MALBA",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arqs. Atelman-Fourcade-Tapia",
+"uso": "Cultura",
+"texto": "El Museo de Arte Latinoamericano de Buenos Aires (Malba), aloja la colección de arte de la Fundación Costantini, con aproximadamente 400 obras (pinturas, esculturas, grabados, fotografías y objetos) de grandes artistas latinoamericanos del siglo XX. El edificio fue diseñado por los arquitectos cordobeses Atelman-Fourcade-Tapia, ganadores de un concurso internacional de proyectos realizado en 1997. El terreno se emplaza en la trama urbana de la ciudad a la que responde con una serie de volúmenes yuxtapuestos. Los ángulos agudos que los relacionan marcan aún más las aristas y la presencia de los poliedros, respondiendo a la corriente deconstructivista. La estructura principal de los cuerpos es de hormigón armado, que son revestidos por placas de piedra caliza. Se conjugan con planos vidriados remarcados con finos marcos de metal oscuro que contribuyen a crear la sensación de que los cristales están incrustados en los bloques macizos. El interior recibe al visitante con un gran y luminoso hall que muestra las circulaciones verticales y permite tener una lectura general del total del edificio que se baña con luz cenital. Esto responde a la idea de sus autores, que concibieron al edificio como un macizo con espacios excavados. Las salas permiten compartimentarse adaptándose a las obras que se desean exponer. En 2007 fue declarado Sitio de Interés Cultural y en 2008 recibió el Premio Konex de Platino como Mejor entidad cultural de la última década.",
+"urlInsta": "https://www.instagram.com/p/CnxvlyRuApa/?img_index=1"
+}
+,
+{
+"id": "036",
+"imageSrc": "./assets/images/Museo MAR - Mar del Plata.jpg",
+"title": "Museo MAR",
+"lat": -37.97328,
+"lng": -57.5436,
+"imageName": "Museo MAR",
+"provincia": "buenosaires",
+"ciudad": "Mar del Plata",
+"autor": "Monoblock",
+"uso": "Cultura",
+"texto": "El Museo de Arte Contemporáneo de la Provincia de Buenos Aires (MAR) hoy constituye una postal de la ciudad. El edificio nace con un concurso público convocado por el Colegio de Arquitectos de la Pcia. de Buenos Aires. El estudio Monoblock fue el ganador gracias a su propuesta innovadora de un edificio modular que responde a requerimientos de ampliación futura y etapabilidad. Fue inaugurado en 2013. Se encuentra justo frente a la costa, como remate de la zona norte de la ciudad. La volumetría se presenta en el frente urbano como enormes piedras que esperan recibir al mar e invita al visitante a ingresar con una plaza pública que posibilita aún más la lectura de este hito urbano. La estructura se compone de cuatro módulos cúbicos de estructura y cerramiento de hormigón armado. El material ubicado frente al mar busca una mejor durabilidad en el tiempo sin grandes cuidados. Cada módulo funciona como un tubo de hormigón con una pared de 25cm de espesor unida por losas postensadas que sirven como techo para la planta baja y suelo para las salas de exposición de la planta alta. En el nivel superior encontramos las salas de exposición que se vinculan a través del módulo central que actúa como hall y núcleo. La cubierta dispone de claraboyas orientadas al sur que permiten el aprovechamiento de la luz diurna dentro de las salas. Encontramos sorpresivamente al recorrer sus ángulos recortes que permiten observar el mar y la ciudad desde los pacíficos y neutros interiores. La artista plástica Marta Minujin confeccionó para su inauguración un enorme lobo marino de 11 metros de altura construido con más de 80 mil envases de alfajores Havanna inflados con aire. La escultura vincula estos dos íconos de la ciudad costera de una manera única y se sostiene con una estructura realizada en hierro y metal desplegado.",
+"urlInsta": "https://www.instagram.com/p/Cph-tIduksz/?img_index=1"
+}
+,
+{
+"id": "037",
+"imageSrc": "./assets/images/Museo MHN - Buenos Aires.jpg",
+"title": "Museo Histórico Nacional",
+"lat": -34.62699,
+"lng": -58.37058,
+"imageName": "Museo Histórico Nacional",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "",
+"uso": "Cultura",
+"texto": "Ubicado en el punto más alto del Parque Lezama en el barrio porteño de San Telmo, el Museo Histórico Nacional nos recuerda la arquitectura de una Buenos Aires muy distinta a la actual. Sobre la zona en la que fue fundada la Ciudad de Buenos Aires, se contruye una primera estancia con una casona. Pasado el tiempo, el terreno llega a manos de José Gregorio de Lezama, quien decidió -a mediados del siglo XIX- construir un parque privado y una residencia con los últimos lujos de la época. Al fallecer, su esposa vendió los terrenos al Gobierno de la Ciudad para que sirvieran como espacios públicos. Por ello, el Parque hoy lleva su nombre. La casona se transformó en Museo Histórico en 1889, creándose el primer museo histórico (primero municipal, luego nacional) del país. No olvidemos que en esa época oleadas de inmigrantes llegaban a la Argentina en busca de una nueva vida, generando una necesidad de la clase dirigente de forjar una historia y una identidad común para todo el pueblo argentino. El Museo Histórico Nacional hoy alberga una importante colección de objetos, textiles y documentación relacionados con la historia de Argentina. Los jardines de su entrada fueron diseñados por Carlos Thays. Allí se encuentran campanas y cañones de batalla y la Puerta de los Leones, que conecta el jardín con los alrededores del parque Lezama. La antigua casa de líneas italianas nos transporta a mediados del 1800, cuando se estilaba este tipo de arquitectura. Constituye una postal típica de la zona y fue declarada Monumento Histórico Nacional.",
+"urlInsta": "https://www.instagram.com/p/Ck6uj69vC40/?img_index=1"
+}
+,
+{
+"id": "038",
+"imageSrc": "./assets/images/Museo Moderno - Buenos Aires.jpg",
+"title": "Museo Moderno MAMBA",
+"lat": -34.62204,
+"lng": -58.37054,
+"imageName": "Museo Moderno MAMBA",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "",
+"uso": "Cultura",
+"texto": "El Museo de Arte Moderno de Buenos Aires expone el arte argentino desde la década de 1920 hasta la actualidad. Fue creado en 1956 por iniciativa de Rafael Squirru, su primer director. Desde sus inicios, buscó ser un museo de vanguardia y un punto de confluencia para las últimas producciones de todas las disciplinas artísticas. Luego de cuatro años nómade, se instala en el moderno edificio del Teatro Municipal General San Martín, donde se realizan importantes exposiciones. Se traslada a su sede definitiva en 1989. El edificio elegido fue construido en 1918 y es un fiel exponente de las construcciones inglesas industriales del siglo XIX, con su estructura de hierro, grandes aberturas y su fachada de ladrillo a la vista. Fue depósito de la empresa tabacalera Nobleza Piccardo, conocida por sus \"Cigarrillos 43\", número que vemos en medallones sobre la fachada. En 2010 se inauguró una ampliación edilicia que busca abarcar el creciente patrimonio del museo. La refuncionalización realizada por el estudio MSGSSS unifica el edificio donde antiguamente funcionó la tabacalera con el edificio ubicado en la esquina de Av. San Juan y Defensa, que perteneció al Museo del Cine. Estos se enlazan por medio de una circulación trasera que tiene como protagonista a una nueva escalera escultórica. La misma genera un recorrido dinámico mediante tramos que se van superponiendo, conectando las salas en todos sus niveles. Se restauró la fachada de la antigua fábrica y se ejecutaron las nuevas fachadas sobre la avenida San Juan y sobre la calle Defensa, destacando la arquitectura ladrillera del edificio histórico. Además, se llevó a cabo la completa impermeabilización del edificio. Se buscó también la integración con áreas verdes que se manifiestan en los distintos niveles de las tres fachadas del edificio.",
+"urlInsta": "https://www.instagram.com/p/Com7RDdOuxX/?img_index=1"
+}
+,
+{
+"id": "039",
+"imageSrc": "./assets/images/Museo UNC - Cordoba.jpg",
+"title": "Museo Histórico de la UNC (Manzana Jesuítica)",
+"lat": -31.41823,
+"lng": -64.18655,
+"imageName": "Museo Histórico de la UNC (Manzana Jesuítica)",
+"provincia": "cordoba",
+"ciudad": "Córdoba",
+"autor": "",
+"uso": "Cultura",
+"texto": "En 1599 la Compañía de Jesús llega a Córdoba y construye el complejo conocido como la \"Manzana Jesuítica\". A partir de 1608 inician las obras de edificación. Así fueron sucediéndose las construcciones del Colegio Máximo, Universidad, Colegio Convictorio de Nstra Sra de Monserrat, Iglesia y Capilla Doméstica y Noviciado. El Museo Histórico UNC se encuentra ubicado en el Antiguo Rectorado, edificio que originalmente albergó al Colegio Máximo de la Compañía de Jesús y donde, a partir de 1613, se estableció la Universidad de Córdoba, la más antigua de Argentina. El edificio fue utilizado para llevar a cabo la formación religiosa y educativa. Sus actividades estaban diseñadas para proporcionar una educación continua en teología, filosofía y otros aspectos relacionados con el desarrollo intelectual y espiritual. Tras la expulsión de los jesuitas en 1767, la manzana fue asignada a los Franciscanos y luego al clero regular. A partir de 1820 estuvo a cargo del gobierno de la provincia. En 1854 se nacionalizan la Universidad y el Colegio de Monserrat, constituyendo el núcleo original de la actual Universidad Nacional de Córdoba. La Compañía regresó a Córdoba en 1853, pero solo se le restituyó la Iglesia, la Capilla Doméstica y la Residencia. En 2000, la Unesco declaró Patrimonio de la Humanidad al conjunto arquitectónico compuesto por la Manzana Jesuítica y las estancias jesuíticas de Jesús María, Alta Gracia, Colonia Caroya, La Candelaria y Santa Catalina. La Universidad dispuso la creación del Museo en el marco de la declaratoria. El edificio conserva sus características tipológicas y espaciales originales pero ha sufrido reformas notorias a lo largo de sus cuatro siglos de vida. Algunos espacios se transformaron y otros desaparecieron. La última intervención trasladó oficinas rectorales y aulas para conformar salas que hoy exhiben las colecciones.",
+"urlInsta": "https://www.instagram.com/p/CzSI3TzOzn5/?img_index=1"
+}
+,
+{
+"id": "040",
+"imageSrc": "./assets/images/Obelisco 9 de julio - Buenos AIres.jpg",
+"title": "Obelisco | 9 de julio",
+"lat": -34.60373,
+"lng": -58.38157,
+"imageName": "Obelisco | 9 de julio",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arq. Alberto Prebisch",
+"uso": "Monumento",
+"texto": "La avenida 9 de Julio es una de las arterias principales de la Ciudad Autónoma de Buenos Aires. Su nombre conmemora la Declaración de independencia efectuada en 1816 y constituye una postal típica de la Capital. Se la considera la avenida más ancha del mundo con sus 140m de ancho. Recorre alrededor de 3km, comunicando los nudos de transporte y las principales terminales ferroviarias en los barrios de Retiro y Constitución. En su concepción, la ciudad muy poco quería recordar su pasado colonial, queriéndose hermanar con París ensanchando calles, levantando rascacielos y construyendo subterráneos. La avenida significaba y gritaba que llegaba el progreso. Para realizar el proyecto se demolieron manzanas enteras del tejido de la vieja ciudad y se elevaron edificios \"de estilo caracterizado y arquitectura especial\" que hablarían de la relevancia de la ciudad que se levantaba con vistas al mundo y a la grandeza. Entre idas y vueltas, y luego de varios años, se inaugura en 1936, a 400 años de la primera fundación de la ciudad por Pedro de Mendoza. En su punto medio encontramos al Obelisco, el monumento que recuerda el lugar donde la Bandera Nacional fue izada por primera vez en Buenos Aires en 1812. En ese punto se encontraba entonces la Iglesia de San Nicolás de Bari. Es obra del arq. Alberto Prebisch. El monumento tiene la función de elemento decorativo y de perspectiva en el cruce de las grandes avenidas. Es un exponente del apogeo de la arquitectura moderna en el período.",
+"urlInsta": "https://www.instagram.com/p/CM2CzkDAdxh/?img_index=1"
+}
+,
+{
+"id": "041",
+"imageSrc": "./assets/images/Palacio de las aguas corrientes - Buenos Aires.jpg",
+"title": "Palacio de las Aguas Corrientes",
+"lat": -34.6007,
+"lng": -58.39501,
+"imageName": "Palacio de las Aguas Corrientes",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Estudio Bateman",
+"uso": "Institucional",
+"texto": "Inaugurado en 1894, el Palacio de las Aguas Corrientes fue el primer Gran Depósito Distribuidor que tuvo la Ciudad, hoy es un Monumento Histórico Nacional. Fue construido para remediar catastróficas enfermedades y tener una ciudad abastecida por agua. Vemos dos construcciones contrapuestas. Por fuera una fenomenal envolvente de terracota, por dentro una de las mayores estructuras de hierro fundido del continente. En su interior, esconde una estructura de hierro que puede contener 72 millones de litros de agua. Fue fabricada en Bélgica. Extraordinaria para su tiempo, fue una de las mayores construcciones en hierro fuera de Europa. Los tanques se ocultan por considerarse carentes de belleza. Lo que muestra es un estilo completamente diferente. El edificio se pensó como un rompecabezas para armar siguiendo la numeración de sus partes, demandando el trabajo diario de 400 personas durante 7 años. Más de 300mil piezas de terracota esmaltada cruzaron el océano desde Inglaterra. Las carpinterías de madera se realizaron con cedro de Paraguay. Las cubiertas verdes provienen de Francia y la herrería fue provista por fundiciones inglesas. A solicitud del Gobierno, en la decoración se incluyeron escudos de las distintas provincias y la ciudad. En el acceso principal se lee \"1887\", año en que comenzaron las obras del Gran Depósito.",
+"urlInsta": "https://www.instagram.com/p/B_dPc7ZALtn/?img_index=1"
+}
+,
+{
+"id": "042",
+"imageSrc": "./assets/images/Palacio Noel - Buenos Aires.jpg",
+"title": "Museo Fernández Blanco - Palacio Noel",
+"lat": -34.59068,
+"lng": -58.38003,
+"imageName": "Museo Fernández Blanco - Palacio Noel",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arq. Martín Noel",
+"uso": "Cultura",
+"texto": "Fue construido en 1922 por el arq. Martín Noel, defensor y propulsor del estilo y arte hispanoamericano. En una parcela de su familia, proyectó un edificio de estilo neocolonial que incluye su vivienda y otra para su hermano Carlos Martín (intendente de BA 1922-27). Recuperando la casa patio colonial, se arma el conjunto con las construcciones en el perímetro y un patio con sectores secos y verdes al centro. Las fachadas se caracterizan -al igual que las del estilo- por muros lisos y blancos, con situaciones de mayor desarrollo ornamental focalizadas en sectores puntuales. Las referencias tomadas de la arquitectura española y colonial muestran el interés del autor en reivindicar lo que él entendía como las raíces de nuestra sociedad. El jardín posee una fuerte impronta andaluza con patios revestidos de cerámicas de Talavera de la Reina, fuentes, árboles frutales y olivos sumados a especies locales. Los interiores responden también a la lógica general, con vastas referencias al estilo. En 1936, los Noel vendieron la casa a la comuna de Buenos Aires, con la condición de que se creara un museo con las colecciones de arte reunidas por Martín durante sus viajes de investigación. El Museo Colonial fue inaugurado al año siguiente. En 1943 se fusionan las colecciones de Martín Noel e Isaac Fernández Blanco y se determina que, por el concepto arquitectónico del edificio y su capacidad, el Palacio Noel las alojaría. En los años siguientes se enriqueció el acervo original con colecciones del mismo periodo. Hoy es sede del Museo de Arte Hispanoamericano Isaac Fernandez Blanco, y alberga una colección conformada por platería, imaginería, pinturas, cerámica, numismática, grabados, alhajas y mobiliario hispanoamericano producidas en los virreinatos del Perú y del Río de la Plata, así como de sus áreas geográfico-culturales de influencia.",
+"urlInsta": "https://www.instagram.com/p/CnVW-NWuDwt/?img_index=1"
+}
+,
+{
+"id": "043",
+"imageSrc": "./assets/images/Palacio San Jose - Entre Rios.jpg",
+"title": "Palacio San José",
+"lat": -32.42714,
+"lng": -58.52323,
+"imageName": "Palacio San José",
+"provincia": "entrerios",
+"ciudad": "Caseros",
+"autor": "Jacinto Dellepiane; Pedro Fossati",
+"uso": "Residencial",
+"texto": "Fue mandado a construir por el General Justo José de Urquiza, la figura más representativa de Entre Ríos, varias veces Gobernador de la Provincia y Presidente de la Confederación Argentina. Fue su lugar de residencia junto a su esposa Dolores Costa. Su construcción tardó nueve años (entre 1848 y 1857). A su vez, fue el lugar donde Urquiza fue asesinado el 11 de abril de 1870. Fue la primera vivienda del país con agua corriente y también la primera que contó con iluminación con gas acetileno. Llegó a tener 2.500 hectáreas, de las cuales 20 estaban destinadas a parques, jardines y una gran quinta de frutales. Se accede por una avenida principal que pasa por el \"Parque Exótico\" y el \"Jardín Francés\" y desemboca en el frente del edificio. La fachada principal (que vemos en la imagen) está flanqueada por dos torres, la de la izquierda posee un reloj traído en 1857 con campana de las misiones jesuíticas. El reloj de la torre derecha está pintado marcando la hora del deceso del General. Resalta la simetría de la fachada, con una amplia galería de siete arcos de medio punto que descansan en ocho columnas toscanas, fundiéndose las de los extremos en los muros existentes de las torres. El eje de esta simetría coincide con el arco central y con la puerta de acceso. Las ventanas que rodean la casa son iguales, protegidas con rejas de factura sencilla de hierro redondo. Posee dos patios con galerías, creados en distinto tiempo y por distintos arquitectos, pero no por ello disonantes. Estos patios se rodean por habitaciones de distinta índole.",
+"urlInsta": "https://www.instagram.com/p/B_QXGdNgjPL/?img_index=1"
+}
+,
+{
+"id": "044",
+"imageSrc": "./assets/images/Planetario Galileo Galilei - Buenos Aires.jpg",
+"title": "Planetario Galileo Galilei",
+"lat": -34.56967,
+"lng": -58.41162,
+"imageName": "Planetario Galileo Galilei",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arq. Enrique Jan, Ing. Carlos Lauger",
+"uso": "Cultura",
+"texto": "El edificio del Planetario se constituye como un ícono por sí mismo. Emplazado en el Parque 3 de Febrero, invita a los visitantes a acercarse a la ciencia. Su construcción inició en 1962 y su apertura definitiva para el público general se realizó en 1968. La forma busca relacionar a la astronomía y la arquitectura a través de sus componentes comunes: la matemática y la geometría. De este modo, el edificio se estructura en torno a las figuras del triángulo equilátero, el rombo, el hexágono y la circunferencia. Vemos un edificio que aterriza como una nave, con anchas láminas curvas de hormigón que sostienen al programa principal marcado por el aro vidriado y la doble cúpula de hormigón y placas de aluminio interiores que sirven como pantalla. En el interior de la cúpula se encuentra el corazón del programa: el auténtico planetario. Este instrumento proyecta proyecta un cielo virtual y permite simular el avance o el retroceso del tiempo para llevar la representación de la bóveda celeste al momento escogido. El programa se reparte en cinco pisos. El acceso se realiza a través de un puente que sortea un vacío circular perimetral con un espejo de agua. En los subsuelos encontramos la biblioteca especializada y los programas de apoyo. El primer piso tiene planta triangular y es donde funciona el museo. En el segundo piso se ubica la sala circular de proyecciones cubierta por la cúpula semiesférica. La misma está montada sobre barras de acero interconectadas, planchas de aluminio y madera, vidrios curvos y una base de hierro.",
+"urlInsta": "https://www.instagram.com/p/CyTgI_EOtZ_/?img_index=1"
+}
+,
+{
+"id": "045",
+"imageSrc": "./assets/images/Puente de la Mujer - Buenos Aires.jpg",
+"title": "Puente de la Mujer",
+"lat": -34.60798,
+"lng": -58.36516,
+"imageName": "Puente de la Mujer",
+"provincia": "caba",
+"ciudad": "Ciudad Autónoma de Buenos Aires",
+"autor": "Arq. Santiago Calatrava",
+"uso": "Infraestructura",
+"texto": "El Puente de la Mujer es una postal típica del barrio de Puerto Madero. Es la primera obra en América Latina del arquitecto español Santiago Calatrava, la cual consiste en un puente peatonal de 170 metros de longitud y 6,18 metros de ancho. Ubicado en el Dique 3, alineado con la Avenida de Mayo, soporta hasta 120 personas caminando al mismo tiempo. Su forma representa a una pareja haciendo un paso tradicional de tango. Sin embargo, su peculiaridad estética se trata en realidad de una obra de ingeniería imponente: el puente permite dar paso a las embarcaciones a vela que navegan por los diques ya que su parte central rota 90 grados en 2 minutos. El elemento móvil es una estructura autoportante, que se sostiene por el pilono inclinado de 34 metros. Desde esta estructura de acero y hormigón, cuelgan cables de acero galvanizado de alta resistencia que soportan el tramo que gira. A esta tipología se la conoce como \"puente atirantado\". En su posición original se vincula con los bordes del dique permitiendo el paso. Su nombre se relaciona con los nombres de las calles del barrio, que conmemoran a mujeres notables. La obra fue realizada en España y traída en piezas para ser construida donde la encontramos hoy. Se inauguró en el 2001. En 2018 la Legislatura porteña lo declaró Patrimonio Cultural de la Ciudad.",
+"urlInsta": "https://www.instagram.com/p/CrzUNzfuxPe/?img_index=1"
+}
+,
+{
+"id": "046",
+"imageSrc": "./assets/images/San Ignacio Mini - Misiones.jpg",
+"title": "San Ignacio Miní",
+"lat": -27.25528,
+"lng": -55.53143,
+"imageName": "San Ignacio Miní",
+"provincia": "misiones",
+"ciudad": "San Ignacio",
+"autor": "",
+"uso": "Culto",
+"texto": "San Ignacio Miní fue fundada en 1610 en la región brasileña de Guairá. Fue una de las alrededor de 30 misiones jesuíticas del Siglo XVII en el territorio hoy frontera entre Argentina, Paraguay y Brasil. El poblado fue trasladado por los ataques de los bandeirantes, comerciantes de esclavos que atacaban los poblados buscando a los indígenas para venderlos principalmente en regiones productoras de azúcar. En 1696 se instalan en el lugar en el que están hoy. La misión era un complejo de edificios religiosos, viviendas privadas, talleres y colegios, construida durante el período colonial español. Para el siglo XVIII, la misión contaba con una población de 4000 personas, la mayoría de ellas guaraníes. Los jesuitas, desobedeciendo instrucciones reales, enseñaron latín y español a los guaraníes. En sus imprentas, se editaron los primeros libros en guaraní y castellano de Sudamérica. Con la expulsión de los jesuitas de América en 1767, se abandonó la misión, y así comenzó su deterioro. La misión fue cubierta por la selva y finalmente fue olvidada hasta la década de 1890, cuando fue redescubierta. En la actualidad San Ignacio Miní es la mejor conservada de las misiones jesuíticas en el territorio argentino. El sitio fue designado Patrimonio de la Humanidad por la UNESCO en 1996. En la imagen, se representa el portal de la iglesia. La fachada fue diseñada por el jesuita italiano Giussepe Brasanelli en 1610. La iglesia mide 74 m de largo y 24 m de ancho, tiene paredes de piedra arenisca roja de 2 m de espesor y piso de baldosas cerámicas. El estilo recuerda al barroco, aunque integra elementos de la cultura indígena local guaraní, en lo que algunos describen como guaraní-barroco. El techo de madera se derrumbó debido a un incendio. Las paredes de piedra se mantuvieron en pie.",
+"urlInsta": "https://www.instagram.com/p/B-7UDZIg8I-/?img_index=1"
+}
+,
+{
+"id": "047",
+"imageSrc": "./assets/images/Santa Rosa de Lima - Purmamarca.jpg",
+"title": "Santa Rosa de Lima",
+"lat": -23.74729,
+"lng": -65.4993,
+"imageName": "Santa Rosa de Lima",
+"provincia": "jujuy",
+"ciudad": "Purmamarca",
+"autor": "",
+"uso": "Culto",
+"texto": "Frente a la plaza principal de Purmamarca, y con el Cerro de los Siete Colores de fondo, encontramos la Capilla de Santa Rosa de Lima. Su patrona, nacida en el siglo XVI, en Lima, Virreinato del Perú, fue la primera en recibir el reconocimiento canónico de la Iglesia católica. Es patrona de varios institutos educativos, policiales y armados. Falleció de tuberculosis a los 31 años y por ello también es patrona de los tuberculosos. A un costado de la iglesia, bajo el Algarrobo Histórico, descansan las tropas del Ejército del Norte conducidas por el General Manuel Belgrano en la época de la lucha por la independencia. En el dintel de la puerta vemos grabado el año 1648, que podría ser la fecha de su construcción primitiva. La iglesia actual data del año 1778/9. A este tipo de construcciones se las conoce como \"capilla de indios\". Suelen ser levantadas por y para indios, con dirección de un español o criollo. Fue construida con materiales autóctonos. Los muros son de adobe (bloques de barro y paja) y la cubierta es de madera de cardón y torta de barro y paja. Estos elementos permiten el control térmico generando un clima mucho más fresco al ingresar que el que se vive en el pueblo. En su fachada asimétrica, las aberturas se reducen al mínimo, lo que refuerza la impresión general de solidez de la iglesia. El interior tiene una sección transversal cuadrada, de altura igual al ancho. Es de nave única. Puede contemplarse en ella una colección de cuadros cuyas escenas relatan la vida de Santa Rosa de Lima que datan del siglo XVIII. Fue declarada Monumento Histórico Nacional en 1941.",
+"urlInsta": "https://www.instagram.com/p/CBlmRhHA-k-/?img_index=1"
+}
+,
+{
+"id": "048",
+"imageSrc": "./assets/images/Santuario SN.jpg",
+"title": "Santuario María del Rosario de San Nicolás",
+"lat": -33.32282,
+"lng": -60.22409,
+"imageName": "Santuario María del Rosario de San Nicolás",
+"provincia": "buenosaires",
+"ciudad": "San Nicolás de los Arroyos",
+"autor": "",
+"uso": "Culto",
+"texto": "El \"Santuario\" se emplaza en el \"campito\", sobre la Costanera Alta de San Nicolás. Es uno de los principales centros de peregrinación del país atrayendo a más de un millón de personas al año. Cada 25 de septiembre la ciudad se colma de peregrinos, ya que se celebra el día de la primera aparición de la Virgen a la nicoleña Gladys Motta en 1983. A ella fue a quien la Virgen le pidió que se erigiera esta capilla. El edificio tiene una construcción lenta, ya que se sustenta con las donaciones de los fieles. Se comenzó a construir paulatinamente en 1987, habilitándose para el culto en las sucesivas etapas. Su composición en planta cuenta con una nave principal y dos laterales. Sobre el crucero encontramos el altar, y en un segundo nivel, la imagen de la Virgen de San Nicolás, la protagonista de la escena. Su estructura es de hormigón armado. El interior se caracteriza por la presencia de este hormigón, que muestra sus características plásticas y su textura. En los accesos de la nave y el transepto encontramos vitrales de colores, componiendo cruces. La cúpula tiene 27 metros de diámetro, y es visible desde diversos puntos de la ciudad. Está compuesta por 64 gajos de hormigón armado dispuestos verticalmente y en su exterior cuenta con placas de cobre colocadas en forma de bandejas individuales.",
+"urlInsta": "https://www.instagram.com/p/Cx-tEtyOnmj/?img_index=1"
+}
+,
+{
+"id": "049",
+"imageSrc": "./assets/images/Terrace palace MDQ marca de agua.jpg",
+"title": "Terrace palace",
+"lat": -38.02721,
+"lng": -57.5336,
+"imageName": "Terrace palace",
+"provincia": "buenosaires",
+"ciudad": "Mar del Plata",
+"autor": "Antonio Bonet",
+"uso": "Residencial",
+"texto": "El Terrace Palace es un edificio residencial de departamentos ubicado frente a la famosa Playa Grande, en la ciudad de Mar del Plata. Su característica principal es su desarrollo escalonado, que hizo que se ganara el apodo de \"la máquina de escribir\". Para la época en que se construyó -a mediados del siglo XX-, la ciudad no contaba con los grandes edificios que conocemos hoy. Bonet desarrolla en este solar de esquina su propuesta pensando cómo se debe realizar el crecimiento en altura frente a la costa. Imaginemos por un momento las ventajas que brindaría repetir el escalonamiento como modelo: la mejora del asoleamiento de las unidades, la reducción del cono de sombra sobre la playa, la posibilidad de disfrutar de las visuales y una manera de \"hacer ciudad\" mucho más agradable para el ciudadano. Bonet toma el legado de su época y genera esta propuesta poniendo en práctica muchos aprendizajes de sus contemporáneos y maestros, proponiendo el primer edificio moderno de la ciudad, en contraste con los chalets que lo rodeaban. Los brise-soleil, la estructura independiente de hormigón armado y los colores primarios contrastando con el blanco se suman a las bóvedas catalanas dando como resultado este exponente de una visión de vanguardia. El proyecto se define en ocho niveles aterrazados que se retraen desde la línea municipal de edificación a medida que ascendemos en altura acompañando el paisaje. El escalonado comienza en la tercera planta. Tiene un total de 40 unidades habitacionales ubicadas perpendicularmente a la fachada principal en torno a tres núcleos. Cada departamento tiene su expansión hacia el mar, enmarcada por el brise-soleil. Originalmente las terrazas se pensaron como jardines, pero se debieron reemplazar por pisos convencionales debido al clima. Fue declarado Monumento Histórico Nacional y cuenta con premios por su preservación patrimonial respecto a la arquitectura moderna.",
+"urlInsta": "https://www.instagram.com/p/CtURZJLuZYR/?img_index=1"
+}
+,
+{
+"id": "050",
+"imageSrc": "./assets/images/terrazas-portezuelo-san-luis.jpg",
+"title": "Terrazas del Portezuelo",
+"lat": -33.30402,
+"lng": -66.29473,
+"imageName": "Terrazas del Portezuelo",
+"provincia": "sanluis",
+"ciudad": "San Luis",
+"autor": "Arq. Esteban Bondone",
+"uso": "Institucional",
+"texto": "Terrazas del Portezuelo es el complejo edilicio ubicado en la periferia sur de la ciudad de San Luis sobre un cerro de 22 hectáreas, poblado por flora autóctona puntana. Tiene vistas panorámicas hacia la ciudad, el Portezuelo y las sierras de San Luis. Fue presentado como un Conjunto de Descentralización Administrativa y fue pensado como un parque cívico y sustentable en el que conviven espacios de uso público. Es el primer edificio ecológico público del país, inaugurado en 2010 por el Bicentenario de la Revolución de Mayo. La obra fue proyectada por el arquitecto cordobés Esteban Bondone. Se plantean edificios ministeriales de fácil acceso por una circunvalación vehicular. Cada una de estas edificaciones tiene un programa específico y su imagen está asociada a su función. En la cima del Cerro encontramos la Plaza Cívica. Por debajo de esta, se desarrolla un zócalo aterrazado con áreas gastronómicas y un área cultural, ambas con conexión vertical directa a la plaza. Sobre la Plaza encontramos el edificio emblemático representado en la ilustración, sede de las funciones ejecutivas. Tres Torres con techo metálico, que juntas forman una estructura piramidal. Se articulan en la base como un solo cuerpo en el espacio y se vinculan a partir de un área cubierta de conexión en planta baja. Es transparente, con un cerramiento exterior de piel de vidrio con doble vidrio estructural, con aplicaciones de titanio en placas.",
+"urlInsta": "https://www.instagram.com/p/B_VgbiGAa3Z/?img_index=1"
+}
+,
+{
+"id": "051",
+"imageSrc": "./assets/images/VILLA VICTORIA firma.jpg",
+"title": "Villa Victoria",
+"lat": -38.01968,
+"lng": -57.55268,
+"imageName": "Villa Victoria",
+"provincia": "buenosaires",
+"ciudad": "Mar del Plata",
+"autor": "",
+"uso": "Cultura",
+"texto": "Ubicada en un terreno que ocupa una manzana completa en el barrio Los Troncos, encontramos la casona que hoy conocemos como Villa Victoria. En 1900, Mar del Plata ofrecía a los turistas una vista muy diferente a la que conocemos hoy. Muchas familias aristocráticas de la sociedad argentina construyeron imponentes residencias para instalarse durante el verano. A nuestros días llegan algunos de los muchos ejemplares de este período, convertidos en centros culturales, museos, etc. De este modo, Manuel Ocampo piensa en regalarle a Francisca de Ocampo la casa, para ser utilizada como lugar vacacional y de turismo por la familia porteña. La casa se trata de un ejemplar prefabricado, comprado en Inglaterra a la firma Boulton & Paul Ltda. Sus piezas viajaron en barco y se montaron en Mar del Plata en 1912. La construcción es de estilo inglés, compuesta por hierro y madera. Al finalizar la casa, la familia Ocampo completó el parque de dos hectáreas con la casa de los caseros (estilo francés) y la vivienda del personal de servicio (estilo italiano). Esto nos cuenta sobre la manera de pensar la arquitectura en esa época: un crisol de estilos que conviven en armonía. En su interior alberga 11 habitaciones, salas de estar, comedores y vestíbulos ejemplares también del estilo. La casa fue heredada por Victoria Ocampo, ahijada de Francisca, quien la convirtió en un foco de encuentro para los intelectuales de la época. En 1973 Victoria donó la casa a la UNESCO para que fuese utilizada para fomentar actividades culturales. Sin embargo, tras su muerte, fue rematada. Entonces fue adquirida por la Municipalidad del Partido de Gral Pueyrredón y fue transformada en centro cultural. Fue también declarada de Interés Patrimonial y Sitio Histórico Arquitectónico Provincial. Hoy en día, el Centro Cultural Villa Victoria es un espacio de arte y arquitectura que nos permite entender cómo se vivió la intelectualidad de mediados del siglo XX.",
+"urlInsta": "https://www.instagram.com/p/CrHaQmJO7qE/?img_index=1"
+}
+,
+{
+"id": "052",
+"imageSrc": "./assets/images/villavicencioMesa de trabajo 1-80.jpg",
+"title": "Gran Hotel Villavicencio",
+"lat": -32.52691,
+"lng": -69.0172,
+"imageName": "Gran Hotel Villavicencio",
+"provincia": "mendoza",
+"ciudad": "Las Heras",
+"autor": "",
+"uso": "Turismo",
+"texto": "El Gran Hotel Villavicencio es un complejo turístico ubicado en la actual Reserva natural Villavicencio. Su fachada y su entorno se convirtieron en la postal más difundida de Mendoza. No hay quien no reconozca en una etiqueta su imagen, siendo el ícono del agua de la reserva. En 1650, al momento de la fundación de Mendoza, se crea la estancia de Canota. El nombre actual llega en 1680 cuando el capitán Joseph Villavicencio se instala en el lugar y descubre minas de oro y plata. Villavicencio era la principal ruta entre Buenos Aires y Santiago de Chile. Lo único que encuentran los viajeros es una posada ruinosa, con un servicio prácticamente inexistente. Charles Darwin pasó dos días en la \"choza aislada de Villavicencio\" en 1835 y San Martín, en 1817, dividió el Ejército de los Andes en la estancia de Canota. En 1923 Ángel Velaz funda la empresa Termas de Villavicencio cambiando el rumbo del lugar. El hotel seguía siendo pequeño, hasta que en 1934 un aluvión paraliza el transporte hacia Chile llevando a que se mejore el camino a Villavicencio. Velaz construye un nuevo hotel, grande y lujoso, destinado a las clases altas. Para 1940, en solo seis meses, se termina el hotel que conocemos hoy. No se ha encontrado el nombre del arquitecto o proyectista. La construcción nos lleva al estilo normando, con techos inclinados de gran pendiente, muros blanqueados a la cal y cruzados por maderas con falsos \"pan de bois\", techo de tejas y balcones. El paisaje cambia, volviéndose de los más selectos y aristocráticos de Mendoza. En las guías turísticas se ofrecen visitas por el día, con almuerzo en la hostería, baño termal y viaje en autos particulares. Cierra sus puertas en 1978 después del Mundial de Fútbol y sufre el abandono hasta que en 2013 se declara Patrimonio Histórico e inician las obras de restauración.",
+"urlInsta": "https://www.instagram.com/p/CNiz2-igjfC/?img_index=1"
+}
+]
+  
