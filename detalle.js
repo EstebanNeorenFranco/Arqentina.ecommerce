@@ -26,16 +26,18 @@ document.addEventListener("DOMContentLoaded", function() {
           nombreContainer.textContent = elementoSeleccionado.title;
           imagenContainer.src = elementoSeleccionado.imageSrc;  // Agregar esta línea para mostrar la imagen
           descripcionContainer.textContent = elementoSeleccionado.description;
+
           provinciaContainer.textContent = `Provincia: ${elementoSeleccionado.provincia}`;
           ciudadContainer.textContent = `Ciudad: ${elementoSeleccionado.ciudad}`;
           autorContainer.textContent = `Autor: ${elementoSeleccionado.autor}`;
           usoContainer.textContent = `Uso: ${elementoSeleccionado.uso}`;
           textoContainer.textContent = elementoSeleccionado.texto;
   
-          // Crear un enlace para el botón de Instagram
+          // Crear un enlace para el botón de Intagram
           var enlaceInsta = document.createElement("a");
           enlaceInsta.href = elementoSeleccionado.urlInsta;
           enlaceInsta.textContent = "Ver en Instagram";
+          
   
           // Agregar el enlace al contenedor
           urlInstaContainer.innerHTML = '';

@@ -1,7 +1,7 @@
 
 
 body {
-    font-family: 'Fedoka One', sans-serif;
+    font-family: 'Lexend', sans-serif;    
     background-color: #B3D2EE;
     color: black;
     margin: 0;
@@ -237,6 +237,7 @@ a{
         background-color: transparent;
         border: none;
         display: none;
+        font-family: 'Lexend', sans-serif !important;
     }
 
     .dark-mode .headSelector_text {
