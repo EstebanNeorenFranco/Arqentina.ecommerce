@@ -451,34 +451,34 @@
 }
 ,
 {
-"id": "031",
-"imageSrc": "./assets/images/Municipalidad - LAprida.jpg",
-"title": "Municipalidad de Laprida",
-"lat": -37.54481,
-"lng": -60.8004,
-"imageName": "Municipalidad de Laprida",
-"provincia": "buenosaires",
-"ciudad": "Laprida",
-"autor": "Arq. Francisco Salamone",
-"uso": "Institucional",
-"texto": "",
-"urlInsta": ""
-}
-,
+  "id": "031",
+  "imageSrc": "./assets/images/Municipalidad - LAprida.jpg",
+  "title": "Municipalidad de Laprida",
+  "lat": -37.54481,
+  "lng": -60.8004,
+  "imageName": "Municipalidad de Laprida",
+  "provincia": "buenosaires",
+  "ciudad": "Laprida",
+  "autor": "Arq. Francisco Salamone",
+  "uso": "Institucional",
+  "texto": "La Municipalidad de Laprida es una obra arquitectónica diseñada por el reconocido arquitecto Francisco Salamone en la década de 1930. Se destaca por su estilo Art Decó y su imponente presencia en el centro de la ciudad. Es un símbolo del patrimonio arquitectónico de la región.",
+  "urlInsta": ""
+},
 {
-"id": "032",
-"imageSrc": "./assets/images/Municipalidad - Rauch.jpg",
-"title": "Municipalidad de Rauch",
-"lat": -36.7752,
-"lng": -59.08624,
-"imageName": "Municipalidad de Rauch",
-"provincia": "buenosaires",
-"ciudad": "Rauch",
-"autor": "Arq. Francisco Salamone",
-"uso": "Institucional",
-"texto": "",
-"urlInsta": ""
+  "id": "032",
+  "imageSrc": "./assets/images/Municipalidad - Rauch.jpg",
+  "title": "Municipalidad de Rauch",
+  "lat": -36.7752,
+  "lng": -59.08624,
+  "imageName": "Municipalidad de Rauch",
+  "provincia": "buenosaires",
+  "ciudad": "Rauch",
+  "autor": "Arq. Francisco Salamone",
+  "uso": "Institucional",
+  "texto": "La Municipalidad de Rauch es una obra arquitectónica característica del estilo Art Decó, diseñada por el arquitecto Francisco Salamone durante la década de 1930. Su estructura y detalles arquitectónicos la convierten en un punto de interés en la ciudad de Rauch.",
+  "urlInsta": ""
 }
+
 ,
 {
 "id": "033",
