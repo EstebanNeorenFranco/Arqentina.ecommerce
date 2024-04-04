@@ -30,8 +30,29 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
               // Iterar sobre los datos filtrados y agregar marcadores
               filteredData.forEach(item => {
-                  var marker = L.marker([item.lat, item.lng]).addTo(map); // Agregar marcador en las coordenadas proporcionadas
-                  marker.bindPopup('<img src="' + item.imageSrc + '" alt="' + item.imageName + '" style="width: 100px;"><br>' + item.title); // Agregar la imagen y el nombre como contenido del marcador
+                  // Crear un hipervínculo para la imagen
+                  var imageLink = document.createElement('a');
+                  imageLink.href = 'detalle.html?id=' + item.id; // La URL de detalle con el ID del marcador como parámetro
+                  imageLink.target = '_blank'; // Abrir en una nueva pestaña
+
+                  // Crear la imagen y agregarla al hipervínculo
+                  var image = document.createElement('img');
+                  image.src = item.imageSrc;
+                  image.alt = item.imageName;
+                  image.style.width = '100px'; // Establecer el tamaño de la imagen
+                  imageLink.appendChild(image);
+
+                  // Crear el contenido del marcador con la imagen y el nombre
+                  var markerContent = document.createElement('div');
+                  markerContent.appendChild(imageLink); // Agregar la imagen con el hipervínculo
+                  markerContent.appendChild(document.createElement('br')); // Salto de línea
+                  markerContent.appendChild(document.createTextNode(item.title)); // Agregar el nombre del lugar
+
+                  // Crear el marcador con la posición proporcionada
+                  var marker = L.marker([item.lat, item.lng]).addTo(map);
+
+                  // Agregar el contenido del marcador
+                  marker.bindPopup(markerContent); // Agregar la imagen y el nombre como contenido del marcador
               });
           })
           .catch(error => {
