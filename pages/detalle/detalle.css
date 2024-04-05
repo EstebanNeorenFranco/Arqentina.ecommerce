@@ -1,7 +1,7 @@
 
 
 .detalle_data_box{
-    display: flex;
+   
 }
 
 .detalle_titulo{
@@ -27,4 +27,11 @@ font-size: xx-large;
     padding-left: 5vw;
     padding-right: 5vw;
     
+}
+
+@media only screen and (min-width: 1000px){
+    .detalle_data_box{
+        display: flex;
+    }
+   
 }
