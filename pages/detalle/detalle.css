@@ -1,6 +1,4 @@
-.detalle_data{
 
-}
 
 .detalle_data_box{
     display: flex;
@@ -21,13 +19,6 @@ font-size: xx-large;
     max-height: 400px;
 }
 
-.detalle_descripcion{
-    
-}
-
-.detalle_ig{
-    
-}
 
 .description_box{
     max-width: 1000px;
