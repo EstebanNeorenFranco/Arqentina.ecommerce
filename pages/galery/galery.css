@@ -19,7 +19,7 @@ a{
 
 .prov_selector {
     background-color: #F0F0F0;
-    padding-left: 5vw;
+    
     padding-top: 2vw;
     padding-bottom: 2vw;
 }
@@ -28,6 +28,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 
@@ -124,6 +125,7 @@ a{
 .bold{
     font-weight: bold;
 }
+
 
 }
 @media only screen and (min-width: 1000px){
