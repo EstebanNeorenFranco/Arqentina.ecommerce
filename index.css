@@ -1,11 +1,5 @@
-
-
-body {
-    font-family: 'Lexend', sans-serif;    
-    background-color: #B3D2EE;
-    color: black;
-    margin: 0;
-    padding: 0;
+body, h1, h2, h3, h4, h5, h6, p, a, button {
+font-family: 'Montserrat', sans-serif;
 }
 
 .dark-mode {
@@ -18,10 +12,6 @@ body {
 a{
     text-decoration:none;
 }
-
-
-
-
 
 /*   HEAD   */
 @media only screen and (min-width: 0px) {
@@ -236,7 +226,7 @@ a{
         background-color: transparent;
         border: none;
         display: none;
-        font-family: 'Lexend', sans-serif !important;
+     
     }
 
     .dark-mode .headSelector_text {
@@ -342,6 +332,7 @@ a{
         border-top: 1px solid rgba(128, 128, 128, 0.07);
         margin-left: auto;
         margin-right: auto;
+
     }
     .social_network_hyperlink:link{
         text-decoration: none;

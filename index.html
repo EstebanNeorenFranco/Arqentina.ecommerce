@@ -1,22 +1,242 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arqentina</title>
-    <!-- Agregar enlace a la fuente de Google Fonts -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap">
     
-    <!-- Tus otros enlaces de estilos y scripts -->
+    <!-- Google Fonts Montserrat -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
+    
+    <!-- Otros enlaces de estilos y scripts -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <link rel="stylesheet" href="/index.css"/>
     <link rel="stylesheet" href="/hero.css"/>
     <link rel="icon" href="/assets/homepage_images/logo.ico"/>
     <link rel="stylesheet" href="/pages/about.css"/>
-    <meta name="description" content="Experience the beauty of AI art at our digital gallery. Discover stunning computer-generated masterpieces that push the boundaries of imagination. Visit now to witness the power of technology in art. Explore our unique collection of AI art today.">
-</head>
+    <meta name="description" content="Patrimonio Argentino ilustrado">
+  </head>
+  
+  <style>
+    
+    /* Resets */
+    .custom-hero *,
+    .custom-hero *:before,
+    .custom-hero *:after {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
+    /* Styles – required */
+    .custom-hero {
+      position: relative;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    .custom-hero .hero-image {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    .custom-hero .hero-image img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .custom-hero.left-top .hero-image img {
+      object-position: left top;
+    }
+
+    .custom-hero.center-top .hero-image img {
+      object-position: center top;
+    }
+
+    .custom-hero.right-top .hero-image img {
+      object-position: right top;
+    }
+
+    .custom-hero.left-bottom .hero-image img {
+      object-position: left bottom;
+    }
+
+    .custom-hero.center-bottom .hero-image img {
+      object-position: center bottom;
+    }
+
+    .custom-hero.right-bottom .hero-image img {
+      object-position: right bottom;
+    }
+
+    .custom-hero .hero-darken {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-color: rgba(0,0,0,.1);
+    }
+
+    /* Styles – only for demonstration */
+    .custom-hero-container {
+      font-family: 'Sofia Sans', sans-serif;
+      font-size: calc(1rem + 0.2 * ((100vw - 20rem) / 50));
+      line-height: 1.4rem;
+    }
+
+    .custom-hero-container h1,
+    .custom-hero-container h2 {
+      font-family: 'Sofia Sans Condensed', sans-serif;
+      font-weight: 700;
+      line-height: 2.4rem;
+      margin-bottom: 1.4rem;
+    }
+
+    .custom-hero-container p {
+      margin-bottom: 1.4rem;
+    }
+
+    .custom-hero-container a {
+      color: black;
+    }
+
+    .custom-hero-container a.anchor {
+      display: block;
+      position: relative;
+      top: -100px;
+      visibility: hidden;
+    }
+
+    .custom-hero-container em {
+      opacity: .5;
+    }
+
+    .custom-hero-container main {
+      width: 90%;
+      max-width: 720px;
+      margin: 3em auto 6em auto;
+    }
+
+    .custom-hero-container nav {
+      position: fixed;
+      z-index: 2;
+      top: 30px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      width: 80%;
+      max-width: 540px;
+      background-color: #B3D2EE;
+      border-radius: 12px;
+      text-align: center;
+    }
+
+    .custom-hero-container nav ul {
+      list-style: none;
+    }
+
+    .custom-hero-container nav ul li {
+      display: inline;
+    }
+
+    .custom-hero-container nav ul li a {
+      display: inline-block;
+      font-family: 'Sofia Sans Condensed', sans-serif;
+      font-weight: 400;
+      letter-spacing: .1em;
+      padding: .5em;
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    @media screen and (min-width: 30em) {
+      .custom-hero-container nav ul li a {
+        padding: .5em 1em;
+        letter-spacing: .15em;
+        opacity: .75;
+      }
+
+      .custom-hero-container nav ul li a:hover {
+        opacity: 1;
+      }
+    }
+
+    /* Scroll animation */
+    .custom-hero .hero-darken:before,
+    .custom-hero .hero-darken:after {
+      content: '';
+      position: absolute;
+      right: 0;
+      left: 0;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+
+    .custom-hero .hero-darken:before {
+    top: 200px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, );
+    content: "Arqentina Gu ";
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    padding: 1vw;
+    font-size: 4rem; /* Ajusta el tamaño del texto aquí */
+    text-align: center;
+    display: block;
+    font-family: 'Montserrat', sans-serif; /* Añade la fuente Montserrat aquí */
+}
+
+
+    .hero-selector {
+    position: absolute;
+    bottom: 100px; /* Ajusta la distancia desde el fondo según sea necesario */
+    left: 50%;
+    color: black;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.selector-item {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+    margin:  5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.selector-item:hover {
+    background-color: white;
+    color: black;
+}
+
+
+    @keyframes scroll {
+      from {
+        top: 112px;
+      }
+      to {
+        top: 122px;
+      }
+    }
+  </style>
+</head>
 <body>
     <header class="top_stick">
         <div id="head" >
@@ -29,7 +249,7 @@
                     <button class="headSelector_text">Ilustraciones</button>
                 </a>
                 <a  href="https://arqentinagu.empretienda.com.ar/" >
-                    <button class="headSelector_text">Shop</button>
+                    <button class="headSelector_text">Tienda Web</button>
                 </a>
                 <a  href="https://cafecito.app/arqentinagu" >
                     <button class="headSelector_text">Cafecito</button>
@@ -65,7 +285,7 @@
                 </a>
                 <a class="sidebar_text" href="https://arqentinagu.empretienda.com.ar/">
                     <p>
-                        Shop
+                        Tienda Web
                     </p>
                 </a>
                 <a class="sidebar_text" href="https://cafecito.app/arqentinagu">
@@ -88,18 +308,36 @@
             
         </div>
     </sidebar>
-    
+  <header class="custom-hero center-bottom">
+    <div class="hero-image hero-image-background">
+      <picture>
+        <source srcset='./assets/homepage_images/image-background.webp' type="image/webp">
+        <img src="./assets/homepage_images/image-background.webp" alt="background" width="1920" height="1280">
+      </picture>
+    </div>
+    <!-- <div class="hero-image hero-image-foreground">
+      <picture>
+        <source srcset="https://codepen.n2.studio/image-foreground.webp" type="image/webp">
+        <img src="https://codepen.n2.studio/image-foreground.jpg" alt="foreground" width="1920" height="1280">
+      </picture>
+    </div> -->
+    <div class="hero-darken"></div>
+    <!-- Después del bloque .hero-darken -->
+<div class="hero-selector">
+    <a href="/galery.html" class="selector-item">Mapa 🌍</a>
+    <a href="https://cafecito.app/arqentinagu" class="selector-item">Cafecito ☕</a>
+    <a href="/contacto.html" class="selector-item">Contacto 📞</a>
+</div>
 
-  
+  </header>
 
-
-    
- 
+  <!-- only for demonstration -->
+  <div class="custom-hero-container">
     <div class="body">
         <div class="hero">
             <div class="text_container">
                 <h3 style="font-size: xx-large;">¡Bienvenidos!</h3>
-                <p class="text" >Arqentina Gu es un proyecto que se propone acercar a las pesonas al patrimonio a traves de ilustraciones de edificios patrimoniales argentinos. La idea es que, al conocer lo que nos identifica, podamos valorarlo (y valorarnos) cada vez más.</p>
+                <p class="text" >Arqentina Gu es un proyecto que se propone acercar a las personas al patrimonio a través de ilustraciones de edificios patrimoniales argentinos. La idea es que, al conocer lo que nos identifica, podamos valorarlo (y valorarnos) cada vez más.</p>
                 <p class="text" >Las ilustraciones siempre son acompañadas por reseñas históricas sobre el edificio, su construcción y su uso.</p>
                 <p class="text" >La difusión de las ilustraciones se realiza a través de medios digitales (Instagram, Web) y de productos en formato físico (postales, láminas, stickers, anotadores, agendas, bolsos, etc). De esta manera, todos pueden conocer nuevos edificios (¡o volver a enamorarse de los que ya conocen!) y llevarse a su casa un pedacito de lo que los identifica.</p>
                 
@@ -119,8 +357,7 @@
                     <div >
                         <h4 style="font-size: x-large;">¿Quién está del otro lado?</h4>
                         <p class="text" >Mi nombre es Guada Franco. Soy arquitecta egresada de la Universidad de Buenos Aires. Estoy realizando mi trabajo final de la Especialización en Conservación y Rehabilitación del Patrimonio Arquitectónico. Inicié este proyecto en 2020, cuando le puse nombre a este interés por lo construido que es de todos.</p>
-                        <p class="text" >No estoy sola: mi novio, Fran (también arquitecto), está en todo el proceso con sugerencias, ideas, apoyo logístico y sobre todo aliento.</p>
-                    </div>
+                      </div>
                     <div style="padding-left: 1vw;">
                         <img src="./assets/homepage_images/guada.gif" alt="Computer man" class="carousel" style="margin-left: auto;
                         margin-right: auto;width: 50vw; max-width: 200px; border-radius: 10px;">
@@ -168,7 +405,7 @@
                     <div>
                         <h4 style="font-size: x-large;"><b>¿Cómo podemos trabajar juntos?</b></h4>
                         <p class="text">Estoy abierta a colaboraciones creativas, proyectos arquitectónicos emocionantes y cualquier oportunidad para explorar nuevas ideas. ¡Hablemos y hagamos algo increíble juntos!</p>
-                        <p class="text">Si tenes un proyecto o idea, mandame un mail a <b>@arqentina.gu</b> o buscarme en la pestaña de contactos.</p>
+                        <p class="text">Si tenes un proyecto o idea, mandame un mail a <b>arqentina.gu@gmail.com</b> o buscarme en la pestaña de contactos.</p>
                     </div>
                     <div style="padding-left: 1vw;">
                         <img src="./assets/homepage_images/dibujando.gif" alt="Computer man" class="carousel" style="margin-left: auto;
@@ -191,37 +428,25 @@
                             </div>
                         </a>
                     </div>
-                    <p class="copyright">@2023 Arqentina.gu all right reserved</p>
+                    <p class="copyright">@2024 Arqentina.gu all rights reserved</p>
             </div>
             
         </div>
     </footer>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function() {
+        var scrollPosWin = $(window).scrollTop();
+        var factorBackground = scrollPosWin * .4;
+        var factorForeground = scrollPosWin * .2;
+        $('.custom-hero .hero-image-background').css({'top': factorBackground, 'bottom': -factorBackground});
+        $('.custom-hero .hero-image-foreground').css({'top': factorForeground, 'bottom': -factorForeground});
+      });
+    });
+  </script>
 </body>
 </html>
-
-<script>
-    const carousel = document.querySelector(".carousel");
-    const images = document.querySelectorAll(".carousel img");
-
-    let currentIndex = 0;
-
-    function showSlide(index) {
-        carousel.style.transform = `translateX(-${index * 100}%)`;
-    }
-
-    function nextSlide() {
-        currentIndex = (currentIndex + 1) % images.length;
-        showSlide(currentIndex);
-    }
-
-    function prevSlide() {
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        showSlide(currentIndex);
-    }
-
-    setInterval(nextSlide, 3000); // Cambia de imagen automáticamente cada 5 segundos
-</script>
-
-
-<script src="mapa.js"></script>
-<script src="script.js"></script>

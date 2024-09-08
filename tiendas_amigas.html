@@ -1,10 +1,19 @@
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arqentina - Tiendas Amigas</title>
+    <title>Arqentina</title>
+    <meta name="description" content="Patrimonio Argentino ilustrado">
     <!-- Agregar enlace a la fuente de Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap">
     
@@ -14,8 +23,21 @@
     <link rel="stylesheet" href="/hero.css"/>
     <link rel="icon" href="/assets/homepage_images/logo.ico"/>
     <link rel="stylesheet" href="/pages/about.css"/>
-    <meta name="description" content="Experience the beauty of AI art at our digital gallery. Discover stunning computer-generated masterpieces that push the boundaries of imagination. Visit now to witness the power of technology in art. Explore our unique collection of AI art today.">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 </head>
+  
+
+<link rel="stylesheet" href="/index.css"/>
+<link rel="stylesheet" href="/pages/galery/galery.css"/>
+<link rel="icon" href="/assets/homepage_images/logo.ico"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+<style>
+#map { height: 400px; width: 100%; }
+</style>
 
 <body>
     <header class="top_stick">
@@ -29,7 +51,7 @@
                     <button class="headSelector_text">Ilustraciones</button>
                 </a>
                 <a  href="https://arqentinagu.empretienda.com.ar/" >
-                    <button class="headSelector_text">Shop</button>
+                    <button class="headSelector_text">Tienda Web</button>
                 </a>
                 <a  href="https://cafecito.app/arqentinagu" >
                     <button class="headSelector_text">Cafecito</button>
@@ -40,7 +62,7 @@
                 <a  href="/contacto.html" >
                     <button class="headSelector_text"><b>Contacto</b></button>
                 </a>
-              
+                    
                 <div >
                     <button class="header_icons">
                         <span>
@@ -65,7 +87,7 @@
                 </a>
                 <a class="sidebar_text" href="https://arqentinagu.empretienda.com.ar/">
                     <p>
-                        Shop
+                        Tienda Web
                     </p>
                 </a>
                 <a class="sidebar_text" href="https://cafecito.app/arqentinagu">
@@ -88,6 +110,12 @@
             
         </div>
     </sidebar>
+
+    
+
+    <div class="mapa">
+        <div id="map"></div>
+    </div>
     <div class="body">
         <div class="hero">
             <div class="text_container">
@@ -105,9 +133,6 @@
         
         </div>
     </div>
-    
-        
-    </div>
     <footer>
         <div class="footer_box">
             <h1 class="">Arqentina.gu</h1>
@@ -121,14 +146,14 @@
                             </div>
                         </a>
                     </div>
-                    <p class="copyright">@2023 Arqentina.gu all right reserved</p>
+                    <p class="copyright">@2024 Arqentina.gu all rights reserved</p>
             </div>
             
         </div>
     </footer>
+    
+    <script src="mapa2.js"></script>
+
+    
 </body>
 </html>
-
-
-
-<script src="script.js"></script>
