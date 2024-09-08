@@ -6,4 +6,55 @@
         "lng": -60.21658,
         "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
     }
+,
+    {
+        "id": "2",
+        "title": "Museo Histórico Nacional",
+        "lat": -34.62699,
+        "lng": -58.37058,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "3",
+        "title": "Museo Fernández Blanco - Palacio Noel",
+        "lat": -34.59068,
+        "lng": -58.38003,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "4",
+        "title": "Museo Histórico de la UNC (Manzana Jesuítica)",
+        "lat": -31.41823,
+        "lng": -64.18655,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "5",
+        "title": "Museo Histórico Casa Histórica de la Independencia",
+        "lat": -26.83313,
+        "lng": -65.20384,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "6",
+        "title": "Casa Alcorta",
+        "lat": -34.57518,
+        "lng": -58.40704,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "7",
+        "title": "Museo Municipal de Arte Juan Carlos Castagnino",
+        "lat": -38.01043,
+        "lng": -57.53582,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13 "
+    },
+    {
+        "id": "8",
+        "title": "Museo de la Patagonia",
+        "lat": -41.13338,
+        "lng": -71.30973,
+        "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13"
+    }
 ]
+
