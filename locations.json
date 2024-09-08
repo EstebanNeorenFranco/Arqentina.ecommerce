@@ -1,0 +1,24 @@
+[
+    {
+        "id": "001",
+        "title": "Ex Banco de Londres",
+        "lat": -32.9474,
+        "lng": -60.63984,
+        "url": "https://www.google.com"
+    },
+    {
+        "id": "002",
+        "title": "Ex Banco de Londres",
+        "lat": -32.9474,
+        "lng": -59.63984,
+        "url": "https://www.google.com"
+    }
+    ,
+    {
+        "id": "003",
+        "title": "Ex Banco de Londres",
+        "lat": -32.9474,
+        "lng": -59.63984,
+        "url": "https://www.google.com"
+    }
+]
