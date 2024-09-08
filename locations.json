@@ -1,7 +1,6 @@
 [
     {
         "id": "1",
-        "imageSrc": "./assets/images/Casa del Acuerdo - San Nicolas.jpg",
         "title": "Museo Nacional Casa del Acuerdo de San Nicolás",
         "lat": "-33,3301",
         "lng": "-60,21658",
@@ -9,7 +8,6 @@
     },
     {
         "id": "2",
-        "imageSrc": "./assets/images/Museo MHN - Buenos Aires.jpg",
         "title": "Museo Histórico Nacional",
         "lat": "-34,62699",
         "lng": "-58,37058",
@@ -17,7 +15,6 @@
     },
     {
         "id": "3",
-        "imageSrc": "./assets/images/Palacio Noel - Buenos Aires.jpg",
         "title": "Museo Fernández Blanco - Palacio Noel",
         "lat": "-34,59068",
         "lng": "-58,38003",
@@ -25,7 +22,6 @@
     },
     {
         "id": "4",
-        "imageSrc": "./assets/images/Museo UNC - Cordoba.jpg",
         "title": "Museo Histórico de la UNC (Manzana Jesuítica)",
         "lat": "-31,41823",
         "lng": "-64,18655",
@@ -33,7 +29,6 @@
     },
     {
         "id": "5",
-        "imageSrc": "./assets/images/Museo Casa de tucuman - Tucuman.jpg",
         "title": "Museo Histórico Casa Histórica de la Independencia",
         "lat": "-26,83313",
         "lng": "-65,20384",
@@ -41,7 +36,6 @@
     },
     {
         "id": "6",
-        "imageSrc": "./assets/images/Casa Alcorta.jpg",
         "title": "Casa Alcorta",
         "lat": "-34,57518",
         "lng": "-58,40704",
@@ -49,7 +43,6 @@
     },
     {
         "id": "7",
-        "imageSrc": "./assets/images/Museo Castagnino - Mar del Plata.jpg",
         "title": "Museo Municipal de Arte Juan Carlos Castagnino",
         "lat": "-38,01043",
         "lng": "-57,53582",
@@ -57,11 +50,9 @@
     },
     {
         "id": "8",
-        "imageSrc": "./assets/images/Museo de la Patagonia - Bariloche.jpg",
         "title": "Museo de la Patagonia",
         "lat": "-41,13338",
         "lng": "-71,30973",
         "url ": "https://www.google.com/maps/d/u/0/viewer?mid=11UWebbTrZbvodeCDwQBNnnGXLJbwo1M&ll=-34.601092890744695%2C-58.3888157&z=13"
-    },
-    {}
+    }
 ]
